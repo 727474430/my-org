@@ -1,0 +1,52 @@
+#+name: startup
+#+BEGIN_SRC ledger :noweb yes
+2016/07/01 * Opening Balance
+    Assets:JP Bank                                      100000 JPY
+    Assets:Cash                                          20000 JPY
+    Assets:Itunes                                         5000 JPY
+    Assets:Steam                                          1000 JPY
+    Assets:中国银行                                        200 CNY
+    Equity:Opening Balance
+#+END_SRC
+
+#+name: income
+#+BEGIN_SRC ledger :noweb yes
+2016/07/15 * Kyoto University
+    Assets:JP Bank                                      200000 JPY
+    Income:Salary
+#+END_SRC
+
+
+#+name: expenses
+#+BEGIN_SRC ledger :noweb yes
+2016/07/03 * 生鮮館
+    Expenses:Food                                         2500 JPY
+    Assets:Cash
+
+2016/07/06 * LAWSON
+    Expenses:Food                                          580 JPY
+    Expenses:Book                                         1200 JPY
+    Assets:Cash
+
+2016/07/12 * App Store
+    Expenses:App                                           500 JPY
+    Assets:Itunes
+
+2016/07/15 * Steam Store
+    Expenses:Game                                         2000 JPY
+    Assets:Steam
+
+2016/07/20 * Money transfer (from bank to cash)
+    Assets:Cash                                         120000 JPY
+    Assets:JP Bank
+#+END_SRC
+
+
+#+name: balance
+#+BEGIN_SRC ledger :cmdline bal :noweb yes
+<<startup>>
+<<income>>
+<<expenses>>
+#+END_SRC
+
+#+RESULTS: balance

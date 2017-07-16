@@ -1,0 +1,2 @@
+* Calendar
+%%(diary-sunrise-sunset)

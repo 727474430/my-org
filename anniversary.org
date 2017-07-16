@@ -1,0 +1,4 @@
+* 纪念日(Anniversary)
+  #+CATEGORY: Ann %%(org-anniversary 1999 1 1)
+  结婚 %d 周年纪念 %%(org-anniversary 2016 12 12)
+  生日 %d 老婆生日 %%(org-anniversary 1988 09 28)

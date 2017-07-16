@@ -1,0 +1,82 @@
+
+* 2017
+** 2017-07 July
+*** 2017-07-05 Wednesday
+
+**** Hack Mac
+     1. zsh plugin: zsh-autosuggestions
+        Addr:
+        - https://github.com/zsh-users/zsh-autosuggestions
+        Install Method:
+        - git clone git://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+        - source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+     2. zsh plugin: trash-cli
+        Adr:
+        - https://github.com/sindresorhus/trash
+        Install Method:
+        - npm install --global trash-cli
+        - config ~/.zshrc, add a line "alias tr='trash'"
+
+     3. vim : config and plugins
+        Addr:
+        - https://github.com/ma6174/vim
+        Install Method:
+        - require wget
+        - wget -qO- https://raw.github.com/ma6174/vim/master/setup.sh | sh -x
+        Color:
+        - adaryn.vim
+*** 2017-07-06 Thursday
+
+**** Hack Mac
+     1. tmux install:
+        Intesll Methon:
+        - brew install tmux
+*** 2017-07-08 Saturday
+
+**** learn config tmux
+     1. config ~/.tmux.conf:
+        Addr:
+        - http://note4code.com/2016/07/03/tmux-%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/
+        - http://harttle.com/2015/11/06/tmux-startup.html
+
+     2. using spock test strman-java string operator
+        Addr:
+        - http://blinkfox.com/java8zi-fu-chuan-chu-li-ku-strman-javade-xue-xi-he-shi-yong/#!
+        Test Method:
+        - using intellij
+        - spock、strman dependency
+        On SpockUsing Project
+*** 2017-07-09 Sunday
+
+**** Setting Intellij idea Config
+     1. 将社区版配置转移到企业版
+        Method:
+        - import setting
+        - add plugins
+        - set config
+
+     2. 尝试网页转Pdf
+
+     3. Spring-Boot Mybatis Redis 二级缓存尝试
+
+     4. Sonar
+        Addr:
+        - http://ju.outofmemory.cn/entry/74138
+        - https://github.com/SonarQubeCommunity/sonar-l10n-zh/blob/master/README.md sonar中文插件
+        - http://headsen.iteye.com/blog/1788815
+        - sonar-scanner: https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner#AnalyzingwithSonarQubeScanner-Installation
+
+     5. config tmux:
+        Addr:
+        - https://github.com/gpakosz/.tmux
+
+     6. Install Tmuxinator
+        Addr:
+        - https://github.com/tmuxinator/tmuxinator
+*** 2017-07-10 Monday
+
+**** Hack Macos
+     1. install htop
+        Addr:
+        - https://cnbin.github.io/blog/2015/06/19/mac-xia-de-top-he-htop-zhi-ling/

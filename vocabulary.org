@@ -1,0 +1,159 @@
+* Vocabulary
+** Special ['speʃl]
+n. 特别节目；特制品；特价(处理) | adj. 不寻常的；特定的；特别的；很重要的 | 网络 特殊的；专门的；专题 | Synonym adj. singular,superior,unusual,distinct,different | Antonym adj. ordinary,general
+** Education [.edjʊ'keɪʃ(ə)n]
+n. 教育；培养；教育学；训练 | 网络 学历；教育背景；教育程度 | Synonym n. teaching,learning,schooling,instruction,edification
+** Swarm [swɔː(r)m]
+n. 一大群（蜜蜂等昆虫）；一大批（向同方向移动的人） | v. 成群地来回移动；成群地飞来飞去 | 网络 蜂群；密集；蜂拥 | Synonym v. pile,flood,teem,bristle,be full n. group,cloud,flight,horde,crowd
+** Earthquake ['ɜː(r)θ.kweɪk]
+n. 地震 | 网络 大地震；地震术；地震警报器 | Synonym n. tremor,quake,trembling,shaking,upheaval
+** East [iːst]
+n. 东；东部；东方；东边 | adj. 东方的；向东的；东部的；东风的 | adv. 向东；朝东 | 网络 易事特；东区；东面
+** Early ['ɜː(r)li]
+adv. 提前；提早；在早期；在初期 | adj. 早期的；初期的；早先的；早到的 | n. 厄利 | 网络 早的；早早地 | Synonym adv. early on,at the beginning,in advance,ahead of schedule,soon adj. initial,first,primary,premature,timely | Antonym adv. late adj. later,tardy
+** Decorate ['dekəreɪt]
+v. 装饰；装点；装潢；点缀 | 网络 修饰；布置；装修 | Synonym v. beautify,adorn,ornament,embellish,paint | Antonym v. strip
+** Decide [dɪ'saɪd]
+v. 决定；选定；裁决；判决 | 网络 下决心；解决；判断 | Synonym v. make a decision,choose,come to a decision,settle on,fix on | Antonym v. prevaricate,put off
+** Dear [dɪə(r)]
+adj. 亲爱的；宝贵的；珍视的；（用于信函抬头的名字或头衔前）亲爱的 | n. 仁慈的人；可爱的人；（称呼所爱的人）亲爱的；乖乖 | adv. 高价地；昂贵地 | int. （惊奇、不安、烦恼、担忧等时说）啊 | 网络 昂贵的；高价的 | Synonym n. darling,sweetheart,dearest,pet,love adj. beloved,prized,valued,precious,expensive | Antonym adj. cheap
+** Deal [diːl]
+n. 协议；发牌；待遇；大量 | v. 发牌；非法买卖毒品；贩毒 | adj. 松木的 | 网络 交易；处理；应付 | Synonym n. transaction,contract,agreement,arrangement,pact v. distribute,share out,dole out,give out,trade | Antonym v. receive,buy
+** Stone [stəʊn]
+n. 石；结石；宝石；岩石 | v. 向…投石头；以石掷向；去除(水果的)硬核 | adj. 石制的 | adv. 石一般的 | 网络 四通；石块；石材 | Synonym n. pebble,nugget,grit,shingle,stepping stone
+** Deaf [def]
+n. 聋子；耳聋的人 | adj. 聋的；不愿听；不去注意 | 网络 聋人；聋哑读英语；装聋的 | Synonym adj. hearing-impaired,tone-deaf,unresponsive,indifferent,oblivious | Antonym adj. mindful
+** Daytime ['deɪ.taɪm]
+n. 白天；日间；白昼 | adj. 白天的 | 网络 白天协议；白天的时间；昼日 | Synonym n. day,daylight,hours of daylight,morning,afternoon | Antonym n. nighttime
+** Daughter ['dɔːtə(r)]
+n. 女儿；（某地、某国等的）妇女 | adj. 女儿(般)的；【生】第一代的 | 网络 专指女儿；产物；子体
+** Matter ['mætə(r)]
+n. 问题；事情；材料；事态 | v. 要紧；事关紧要；有重大影响 | 网络 物质；事件；有关系 | Synonym v. be of importance,count,signify,make a difference,be relevant n. substance,stuff,material,trouble,problem
+** Dark [dɑː(r)k]
+adj. 黑暗的；昏暗的；阴暗的；深色的 | n. 黑暗；暗处；暗色；阴影 | 网络 黑色；黑色的 | Synonym adj. dim,brunette,depressing,sinister n. darkness,dusk,gloom,dimness,obscurity | Antonym adj. bright,fair,cheery,good n. light
+** Liaisons [li'eɪz(ə)n]
+n. 【军】联络；【语】连音；私通；【烹】加浓料 | 网络 联络人；联络员；暖昧的关系 | Synonym n. link,connection,contact,cooperation,relationship
+** Dangerous ['deɪndʒərəs]
+adj. 有危险的；引起危险的；不安全的 | 网络 危险之旅；女人女人；单脚拉屎--危险 | Synonym adj. unsafe,hazardous,risky,treacherous,dodgy | Antonym adj. safe
+** Danger ['deɪndʒə(r)]
+n. 危险；危害；风险；威胁 | 网络 危险物；危险性 | Synonym n. hazard,risk,peril,threat,menace | Antonym n. safety
+** 日出日落 
+网络 Sunrise Sunset; Sunrise and sunset; sunrise and sundown
+** 方式 [fāng shì] 
+na. way; pattern; fashion | 网络 mode; manner; method
+** 复合 [fù hé] 
+n. carrier generation and recombination | 网络 composite; compound; composition
+** 引用 [yǐn yòng] 
+na. quote; cite; recommend; appoint | 网络 reference; citation; quotation
+** 表达式 [biǎo dá shì] 
+n. representation, expression | 网络 Expressions; Lambda; XPath
+** 新特性 
+网络 New Features; What's new; create
+** 适合 [shì hé] 
+na. fit; suit; rightness; trim | 网络 be fit for; agree with; fitness
+** 合适 [hé shì] 
+na. appropriate; right; suitable | 网络 fit; befit; proper
+** 热部署 
+网络 hot deployment; Hot Code Deployment; Hotspot
+** 习惯 [xí guàn] 
+n. habit; custom; convention; usage | v. be accustomed to; get used to | 网络 Habits; be used to; practice
+** Margins ['mɑː(r)dʒɪn]
+n. 边缘；边缘部分；限界；【军】图廓 | v. 给…镶边；在…加旁注；【股】为…付保险金 | 网络 空白；保证金；边距 | Synonym n. boundary,border,brim,sideline,edge
+** desired [dɪ'zaɪə(r)d]
+v. “desire”的过去分词和过去式 | 网络 渴望的；期望的；想得到的 | Synonym adj. wanted,anticipated,favourite,favorite,chosen | Antonym adj. unwanted
+** position [pə'zɪʃ(ə)n]
+n. 位置；地位；职位；立场 | v. 安置；安装；使处于 | 网络 定位；职务；头寸 | Synonym n. location,site,posture,stance,rank v. put,place,locate,stand,sit
+** intentions [ɪn'tenʃ(ə)n]
+n. 意图；意向；打算；意义 | 网络 意愿；意图集；目的 | Synonym n. purpose,aim,intent,goal,target
+** Discussing [dɪ'skʌs]
+v. 讨论；议论；论述；〈口〉津津有味地吃[喝]完 | 网络 参与讨论；讨论题；讨论区 | Synonym v. talk over,deliberate,debate,converse,confer
+** Whether ['weðə(r)]
+conj. （表示迟疑或两个可能性之间的选择）是否 | n. 可能的选择 | pron. 〈古〉(在…之中)哪一个 | 网络 不管；无论；会不会
+** prompt [prɒmpt]
+n. 提示；提示符 | v. 提示；促使；激起；导致 | adj. 迅速；敏捷；准时；立即的 | adv. 准时地 | 网络 迅速的；敏捷的；推动 | Synonym v. stimulate,encourage,bring about,induce,effect adj. quick,rapid,punctual,on time n. stimulus,prod,goad,reminder,heads-up | Antonym v. prevent adj. slow,late
+** erase [ɪ'reɪz]
+v. 抹去；清除；消除；消灭 | 网络 删除；擦除；擦掉 | Synonym v. rub out,remove,delete,wipe out,expunge
+** Logistics [lə'dʒɪstɪks]
+n. 物流；后勤；组织工作；军事后勤 | 网络 后勤学；现代物流；运筹
+** Operation [.ɒpə'reɪʃ(ə)n]
+n. 操作；运行；手术；运作 | 网络 运营；运算；运转 | Synonym n. control,management,use,controlling,business
+** Blank [blæŋk]
+n. 空格；（记忆中的）空白；空弹 | adj. 空白的；空的；无图画（或标记、装饰）的；没表情的 | v. 毫不理睬（某人）；突然忘掉；突然思路模糊 | 网络 毛坯；坯料；空白页 | Synonym adj. empty,vacant,outright,complete,uncomprehending n. space,void,gap,empty space,break | Antonym adj. full,partial,knowing
+** Structure ['strʌktʃə(r)]
+n. 结构；构造；体系；结构体 | v. 使形成体系；系统安排；精心组织 | 网络 建筑物；组织结构；市场结构 | Synonym v. arrange,construct,organize,configure,put together n. arrangement,organization,construction,configuration,makeup
+** Dirty ['dɜː(r)ti]
+adj. 肮脏的；龌龊的；污秽的；下流的 | v. 弄脏；使变脏 | Synonym adj. unclean,filthy,grimy,dishonest,illegal v. soil,stain,pollute,sully,foul | Antonym adj. honest,clear v. clean
+** Desire [dɪ'zaɪə(r)]
+n. 欲望；渴望；愿望；情欲 | v. 渴望；期望；想望；被（某人）吸引 | 网络 要求；希望；心愿 | Synonym v. wish for,long for,covet,crave,yearn for n. wish,want,longing,craving,yearning
+** letter ['letə(r)]
+n. 信；字母；函；（缝制在运动服上的）校运动队字母标志 | v. 用字母标明（于清单等上）；把字母印刷（或缝制等）于 | 网络 文字；信件；书信 | Synonym n. communication,dispatch,note,message,memo
+** following ['fɒləʊɪŋ]
+n. 如下；下列；下述；追随者 | adj. （时间上）接着的；下述的；下列的 | prep. 在（某事）以后；由于 | v. “follow”的现在分词 | 网络 以下的；跟踪；跟随 | Synonym adj. next,subsequent,succeeding,ensuing,resulting prep. behind,after,in the wake of,at the back of,at the rear of | Antonym adj. previous
+** Without [wɪð'aʊt]
+prep. 没有；无；不用；不带 | adv. 没有；缺乏 | conj. 如果不 | n. 外面 | 网络 不保兑；如果没有；在外面 | Synonym prep. devoid of,minus,in default of adj. lacking,wanting,short of | Antonym prep. with
+** Make [meɪk]
+linkv. 成为；适合；合计；等于 | v. 制造；做；组装；写 | n. 型号 | 网络 制作；使；使得 | Synonym v. put together,cause,throw together,become,appoint n. brand,type,kind,style,variety | Antonym v. destroy,consume,spend,ask,miss
+** variable ['veəriəb(ə)l]
+n. 变量；可变因素；可变情况 | adj. 多变的；易变的；变化无常的；可更改的 | 网络 变数；可变的；变项 | Synonym adj. varying,changing,fluctuating,changeable,erratic | Antonym adj. constant,consistent,fixed
+** then [ðen]
+adv. 然后；那么；那时；接着 | n. 那时 | adj. 当时（任职等）的 | 网络 于是；这时；在那时 | Synonym adv. at that time,subsequently,later,in that case,so conj. and,after that,afterward,next,as a consequence | Antonym adv. now
+** marked [mɑː(r)kt]
+adj. 显而易见的；明显的；显著的；有标记成份的（如正式或非正式用语） | v. “mark”的过去分词和过去式 | 网络 有记号的；有标记的；标注状态 | Synonym adj. clear,apparent,evident,noticeable,conspicuous
+** item ['aɪtəm]
+n. 项目；一件商品（或物品）；一则 | adv. 同上 | 网络 条款；条目；项目名称 | Synonym n. thing,article,piece,entry,point
+** Related [rɪ'leɪtɪd]
+adj. 相关的；有联系的；属同一家族的；有亲属关系的 | v. “relate”的过去式和过去分词 | 网络 有关的；关联；有关系的 | Synonym adj. connected,linked,associated,correlated,interrelated | Antonym adj. unconnected
+** dialog 
+v. 对话；用对话表达 | n. 问答；(小说中的)对白；对话体 | 网络 对话框；对话方块；对话盒
+** Procedure [prə'siːdʒə(r)]
+n. 步骤；手术；（商业、法律或政治上的）程序 | 网络 过程；手续；存储过程 | Synonym n. process,modus operandi,way,technique,practice
+** also ['ɔːlsəʊ]
+adv. 也；同样；此外；而且 | conj. 同“also beautiful” | 网络 还；亦；并且 | Synonym adv. in addition,and,moreover,furthermore,besides
+** shell [ʃel]
+n. 壳；炮弹；壳层；骨架 | v. 脱壳；剥壳；采集贝壳；用壳体包被 | short. she will | 网络 壳牌；外壳；壳牌石油 | Synonym v. bombard,shoot at,fire at,shoot down n. case,casing,husk,skeleton,bomb
+** Law [lɔ:]
+n. 法律；规律；法学；定律 | 网络 法则；法学院 | Synonym n. act,bylaw,commandment,decree,directive
+** Criminal ['krɪmɪn(ə)l]
+n. 罪犯 | adj. 犯罪的；犯法的；涉及犯罪的；刑法的 | 网络 犯人；刑事；刑事犯 | Synonym n. offender,convict,prisoner,felon,lawbreaker adj. illegal,wrong,against the law,illicit,scandalous | Antonym adj. legal
+** record ['rekɔːrd]
+n. 记录；唱片；记载；经历 | v. 记录；录制；记载；录（音） | 网络 纪录；战绩；录音 | Synonym n. personal best,top score,high,world record,best v. note down,make a note,take notes,write down,log
+** knife [naɪf]
+n. 刀 | v. 用刀伤害（或杀害） | 网络 小刀；刀子；餐刀 | Synonym v. stab,spear,stick,wound,lacerate
+** Utility [juː'tɪləti]
+n. 公用事业；实用；效用；有用 | adj. 多用途的；多效用的；多功能的 | 网络 功用；实用性；实用程序 | Synonym n. usefulness,practicality,helpfulness,efficiency,handiness | Antonym n. uselessness,worthlessness
+** Disk [dɪsk]
+n. 磁盘 | v. 把…录制成唱片；使成圆盘状；用圆盘耙耕(地) | 网络 硬盘；磁碟；硬盘备份与还原
+** Screen [skriːn]
+n. 屏幕；画面；银幕；屏风 | v. 筛选；筛查；遮蔽；检查 | 网络 萤幕；滤色；屏蔽 | Synonym v. test,inspect,conceal,separate,broadcast n. partition,divider,panel,shade,awning | Antonym v. reveal,open out
+** Release [rɪ'liːs]
+n. 释放；发布；发行；排放 | v. 释放；发布；公布；放松 | 网络 版本；发表；放行 | Synonym v. let go,free,liberate,let loose,make public n. relief,discharge,freedom,liberation,emancipation | Antonym v. hold,withhold
+** Press [pres]
+n. 按；出版社；新闻界；报刊 | v. 按；压榨；敦促；挤 | 网络 按下；压力；按压 | Synonym v. push,surge,mill,iron,smooth n. media,correspondents,fourth estate,print media,crowd | Antonym v. pull
+** Program ['prəʊɡræm]
+n. 节目；计划；【计】程序；课程(表) | v. 编写程序；为…制定计划；使…按安排进行 | 网络 程式；项目；编程 | Synonym n. package,agenda,setting,broadcast,brochure v. set,adjust,calibrate,schedule,arrange
+** 每一天 
+网络 Everyday; Every single day; Day by Day
+** Emergency [ɪ'mɜː(r)dʒ(ə)nsi]
+n. 突发事件；紧急情况 | 网络 紧急事件；突然事件；急诊 | Synonym n. crisis,disaster,tragedy,danger,trauma adj. spare,extra,backup,alternative,reserve
+** 环境 [huán jìng] 
+n. environment; circumstances | 网络 surroundings; environmental; setting
+** 原型图 
+网络 prototype; prototypes; Wireframe
+** 架构 
+网络 Architecture; framework; Schema
+** 每周 [měi zhōu] 
+na. weekly | 网络 every week; per week; in a week
+** 总结经验 [zǒng jié jīng yàn] 
+na. sum up  experience (of …) | 网络 sum up experience; Lessons Learned; Action
+** effect [ɪ'fekt]
+n. 影响；作用；效果；效应 | v. 引起；〈正式〉实现；达成；使…发生 | 网络 结果；效力；效果器 | Synonym v. achieve,carry out,produce,bring about,realize n. result,consequence,outcome,influence,weight
+** 还信用卡 
+网络 give back credit card
+** 雨滴 [yǔ dī]
+n. rain | 网络 raindrop; Raindrops; drip-drop
+** 发音 [fā yīn] 
+na. pronunciation; pronounce | 网络 articulation; sound; phonics
+** Ten percent 
+网络 百分之十；例如百分之十是
+** guess [ɡes]
+v. 想；猜测；估计；猜到 | n. 猜测；猜想 | 网络 盖尔斯；推测；猜猜看 | Synonym v. deduce,presume,speculate,suppose,predict n. deduction,conjecture,supposition,presumption,speculation

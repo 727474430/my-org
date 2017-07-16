@@ -1,0 +1,685 @@
+* Workspace
+** TODO [#A] English twenty words a day                        :home:@learn:
+   SCHEDULED: <2017-07-17 一 21:00 ++1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-07-16 日 22:55]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-16 日 22:55]
+   - State "DONE"       from "TODO"       [2017-06-14 三 22:50]
+   - State "DONE"       from "STARTED"    [2017-06-14 三 22:47]
+   CLOCK: [2017-06-14 Wed 22:07]--[2017-06-14 三 22:47] =>  0:40
+   - State "TODO"       from "DONE"       [2017-06-13 Tue 22:54]
+   - State "DONE"       from "STARTED"    [2017-06-13 二 22:47]
+   - State "DONE"       from "TODO"       [2017-06-03 Sat 14:58]
+   - State "DONE"       from "TODO"       [2017-06-02 Sat 00:54]
+   - State "DONE"       from "TODO"       [2017-06-01 周四 16:57]
+   - State "DONE"       from "STARTED"    [2017-05-30 Tue 17:19]
+   - State "DONE"       from "TODO"       [2017-05-29 Mon 09:53]
+   - State "DONE"       from "TODO"       [2017-05-27 Sat 23:23]
+   - State "DONE"       from "TODO"       [2017-05-26 周五 11:22]
+   :END:
+   [[English Learn][英文单词学习]]
+** TODO [#A] Technical Article Reading                         :home:@learn:
+   DEADLINE: <2017-07-16 Sun 22:00 ++1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-06-22 Thu 22:27]
+   :Effort:   00:30
+   :ORDERED:  t
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-22 Thu 22:27]
+   CLOCK: [2017-06-22 Thu 21:39]--[2017-06-22 Thu 22:27] =>  0:48
+   - State "DONE"       from "STARTED"    [2017-06-21 Wed 23:30]
+   - State "STARTED"    from "WAITING"    [2017-06-21 Wed 22:57]
+   CLOCK: [2017-06-21 Wed 22:57]--[2017-06-21 Wed 23:30] =>  0:33
+   - State "WAITING"    from "STARTED"    [2017-06-21 Wed 22:27] \\
+     洗澡休息
+   CLOCK: [2017-06-21 Wed 22:00]--[2017-06-21 Wed 22:27] =>  0:27
+   - State "DONE"       from "STARTED"    [2017-06-21 Wed 00:01]
+   CLOCK: [2017-06-20 Tue 22:31]--[2017-06-21 Wed 00:01] =>  1:30
+   - State "DONE"       from "TODO"       [2017-06-19 Mon 22:33]
+   - State "DONE"       from "STARTED"    [2017-06-18 Sun 21:59]
+   CLOCK: [2017-06-18 Sun 21:20]--[2017-06-18 Sun 21:59] =>  0:39
+   - State "DONE"       from "TODO"       [2017-06-14 三 22:52]
+   - State "DONE"       from "TODO"       [2017-06-14 三 22:50]
+   - State "DONE"       from "STARTED"    [2017-06-03 Sat 15:43]
+     CLOCK: [2017-06-03 Sat 15:15]--[2017-06-03 Sat 15:40] =>  0:25
+     - State "STARTED"    from "WAITING"    [2017-06-03 Sat 15:15]
+     - State "WAITING"    from "STARTED"    [2017-06-03 Sat 15:06]
+     - State "DONE"       from "STARTED"    [2017-06-01 周四 17:29]
+       CLOCK: [2017-06-01 周四 17:11]--[2017-06-01 周四 17:29] =>  0:18
+       - State "DONE"       from "STARTED"    [2017-05-31 周三 17:59]
+       CLOCK: [2017-05-31 周三 17:22]--[2017-05-31 周三 17:47] =>  0:25
+       - State "DONE"       from "TODO"       [2017-05-30 Tue 21:30]
+       - State "DONE"       from "STARTED"    [2017-05-30 二 15:18]
+       - State "DONE"       from "TODO"       [2017-05-29 Mon 23:16]
+       - State "DONE"       from "TODO"       [2017-05-29 Mon 09:53]
+       - State "DONE"       from "TODO"       [2017-05-27 Sat 23:21]
+       - State "DONE"       from "TODO"       [2017-05-26 周五 11:23]
+   :END:
+   [[Article Infos][技术文章学习信息]]
+
+** DONE [#B] Portal紧急需求转测、针对Bug做相应修改                    :@work:
+   CLOSED: [2017-05-26 周五 11:26] DEADLINE: <2017-05-26 周五26 周五 13:40>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-26 周五 13:57]
+     CLOCK: [2017-05-26 周五 13:40]--[2017-05-26 周五 13:57] =>  0:17
+   :END:
+
+** DONE [#B] 节日前上线Bug整改                                       :@work:
+   CLOSED: [2017-05-31 周三 10:54] SCHEDULED: <2017-05-31 周三 10:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-31 周三 10:54]
+     CLOCK: [2017-05-31 周三 10:41]--[2017-05-31 周三 10:54] =>  0:13
+   :END:
+
+** DONE [#B] 学习使用Intellij 搭建Java                              :@learn:
+   CLOSED: [2017-05-31 周三 14:55] SCHEDULED: <2017-05-31 周三 13:30>
+   :PROPERTIES:
+   :Effort:   01:00
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-31 周三 14:55]
+     CLOCK: [2017-05-31 周三 14:42]--[2017-05-31 周三 14:55] =>  0:13
+     CLOCK: [2017-05-31 周三 14:07]--[2017-05-31 周三 14:32] =>  0:25
+   :END:
+
+** DONE [#B] 场景化商品调整后不展示                                  :@temp:
+   CLOSED: [2017-05-31 周三 17:21] SCHEDULED: <2017-05-31 周三 14:30>
+   :PROPERTIES:
+   :Effort:   01:00
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-05-31 周三 17:21]
+     CLOCK: [2017-05-31 周三 16:42]--[2017-05-31 周三 17:07] =>  0:25
+     CLOCK: [2017-05-31 周三 16:12]--[2017-05-31 周三 16:37] =>  0:25
+   :END:
+
+** DONE [#B] Portal验证码开关(便于自动化测试使用)                    :@work:
+   CLOSED: [2017-06-01 周四 11:38] SCHEDULED: <2017-06-01 周四 10:00>
+   :PROPERTIES:
+   :Effort:   02:00
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-01 周四 11:38]
+   :END:
+
+** DONE [#B] 将登陆页面验证码去掉                                    :@temp:
+   CLOSED: [2017-06-01 周四 16:19] SCHEDULED: <2017-06-01 周四 16:00>
+   :PROPERTIES:
+   :Effort:   00:20
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-01 周四 16:19]
+   :END:
+
+** DONE [#B] Portal场景化产品及呈现更改 [100%]                       :@work:
+   CLOSED: [2017-06-02 周五 10:29] SCHEDULED: <2017-06-02 周五 09:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-02 周五 10:29]
+     CLOCK: [2017-06-02 周五 10:07]--[2017-06-02 周五 10:29] =>  0:22
+     CLOCK: [2017-06-02 周五 09:32]--[2017-06-02 周五 09:57] =>  0:25
+   :END:
+   - [X] 企业招聘商品整合为初级版、中级版、高级版.
+   - [X] Portal呈现修改为初级版、中级版、高级版.
+   - [X] 产品样例修改(招聘类).
+   - [X] 包含内容显示修改(查询商品之前呈现).
+   - [X] 查询条件及呈现内容修改.
+
+** DONE [#B] Google Canlander Combination                            :@learn:
+   CLOSED: [2017-06-02 周五 17:22] SCHEDULED: <2017-06-02 周五 13:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-02 周五 17:22]
+   :END:
+   1. 已完成.
+   2. 与calfw结合尚未成功.
+
+** DONE [#A] Portal预付费及后付费功能调整 [100%]              :office:@work:
+   CLOSED: [2017-06-14 三 22:51] SCHEDULED: <2017-06-05 周一 10:00>--<2017-06-09 周五 18:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-14 三 22:51]
+   - State "DONE"       from "WAITING"    [2017-06-13 Tue 22:52]
+   CLOCK: [2017-06-12 周一 14:09]--[2017-06-12 周一 16:27] =>  2:18
+   CLOCK: [2017-06-12 周一 10:07]--[2017-06-12 周一 11:48] =>  1:41
+   - State "STARTED"    from "WAITING"    [2017-06-12 周一 10:07]
+   - State "WAITING"    from "STARTED"    [2017-06-09 周五 14:22] \\
+     临时有事暂停.
+     CLOCK: [2017-06-09 周五 14:16]--[2017-06-09 周五 14:23] =>  0:07
+     CLOCK: [2017-06-09 周五 11:39]--[2017-06-09 周五 11:54] =>  0:15
+     CLOCK: [2017-06-09 周五 10:43]--[2017-06-09 周五 11:03] =>  0:20
+     CLOCK: [2017-06-09 周五 09:56]--[2017-06-09 周五 10:21] =>  0:25
+     CLOCK: [2017-06-09 周五 09:24]--[2017-06-09 周五 09:49] =>  0:25
+     CLOCK: [2017-06-08 周四 15:40]--[2017-06-08 周四 16:01] =>  0:21
+     CLOCK: [2017-06-08 周四 14:58]--[2017-06-08 周四 15:23] =>  0:25
+     CLOCK: [2017-06-08 周四 13:37]--[2017-06-08 周四 14:02] =>  0:25
+     CLOCK: [2017-06-08 周四 10:07]--[2017-06-08 周四 10:32] =>  0:25
+     CLOCK: [2017-06-06 周二 16:13]--[2017-06-06 周二 16:38] =>  0:25
+     CLOCK: [2017-06-06 周二 14:45]--[2017-06-06 周二 15:10] =>  0:25
+     CLOCK: [2017-06-06 周二 14:12]--[2017-06-06 周二 14:37] =>  0:25
+     CLOCK: [2017-06-06 周二 13:52]--[2017-06-06 周二 14:03] =>  0:11
+     CLOCK: [2017-06-06 周二 10:47]--[2017-06-06 周二 11:12] =>  0:25
+     CLOCK: [2017-06-06 周二 10:14]--[2017-06-06 周二 10:39] =>  0:25
+     CLOCK: [2017-06-05 周一 14:55]--[2017-06-05 周一 15:20] =>  0:25
+     CLOCK: [2017-06-05 周一 14:15]--[2017-06-05 周一 14:40] =>  0:25
+     CLOCK: [2017-06-05 周一 13:42]--[2017-06-05 周一 14:07] =>  0:25
+     CLOCK: [2017-06-05 周一 11:36]--[2017-06-05 周一 11:55] =>  0:19
+     - State "STARTED"    from "WAITING"    [2017-06-05 周一 11:36]
+     - State "WAITING"    from "STARTED"    [2017-06-05 周一 11:21] \\
+       临时有事 耽误一下
+       CLOCK: [2017-06-05 周一 11:02]--[2017-06-06 周一 11:20] =>  0:18
+       CLOCK: [2017-06-05 周一 10:37]--[2017-06-05 周一 11:02] =>  0:25
+       CLOCK: [2017-06-05 周一 10:04]--[2017-06-05 周一 10:29] =>  0:25
+   :END:
+   - [X] 创建赠送次数相关表.
+   - [X] 运营管理->用户管理：用户信息列表添加`商品配置`按钮.
+   - [X] 运营管理->用户管理：账户信息中添加`付费方式`下拉框.
+   - [X] 运营管理->用户管理：用户信息中添加`赠送时间段`.
+   - [X] 运营管理->用户管理：用户信息下取消商品配置功能.
+   - [X] 运营管理->添加`赠送次数统计`菜单.
+   - [X] 运营管理->用户管理：商品配置添加`赠送次数`输入框.
+   - [X] 保存商品配置同时保存赠送次数相关信息.
+   - [X] 赠送统计列表筛选功能：用户账户、接口名称、月份、用户付费方式.
+   - [X] 商品配置输入框上提示`赠送次数、价格`.
+   - [X] 赠送次数不足总次数10%或小于0时公告提示.
+   - [X] 每次查询免费次数-1, 小于0或则不再进行提示.
+   - [X] 赠送次数列表：不显示普通用户信息.
+   - [X] 每月1日凌晨重置免费赠送次数.
+   - [ ] 赠送结束后的处理.
+   - [ ] 计费处理.
+
+** CANCELLED [#C] 意高系统架构                                :office:@free:
+   CLOSED: [2017-06-06 周二 09:04] SCHEDULED: <2017-06-05 周一 10:00>
+   :LOGBOOK:
+   - State "CANCELLED"  from "SOMEDAY"    [2017-06-06 周二 09:04] \\
+     有其他事,暂时搁置.
+   - State "SOMEDAY"    from "WAITING"    [2017-06-06 周二 09:01]
+   :END:
+
+** DONE [#A] Portal场景化功能转测                             :office:@work:
+   CLOSED: [2017-06-06 周二 13:51] SCHEDULED: <2017-06-06 周二 09:40>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-06 周二 13:51]
+     CLOCK: [2017-06-06 周二 09:53]--[2017-06-06 周二 10:13] =>  0:20
+   :END:
+
+** DONE [#B] Learn emacs `bing-dict` plugin                   :office:@learn:
+   CLOSED: [2017-06-06 周二 15:51] SCHEDULED: <2017-06-06 周二 15:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-06 周二 15:51]
+     CLOCK: [2017-06-06 周二 15:29]--[2017-06-06 周二 15:51] =>  0:22
+   :END:
+** DONE [#B] 保利国际看电影：新木乃伊                            :home@paly:
+   CLOSED: [2017-06-09 Fri 23:51] SCHEDULED: <2017-06-09 Fri 20:40>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2017-06-09 Fri 23:51]
+   :END:
+
+** DONE [#A] Hack MacOS                                          :home@hack:
+   CLOSED: [2017-06-15 Thu 23:49] SCHEDULED: <2017-06-10 Sat 09:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-15 Thu 23:49]
+   - State "STARTED"    from "DONE"       [2017-06-15 Thu 22:21]
+   CLOCK: [2017-06-15 Thu 22:21]--[2017-06-15 Thu 23:49] =>  1:28
+   - State "DONE"       from "STARTED"    [2017-06-14 Thu 24:00]
+   - State "STARTED"    from "DONE"       [2017-06-14 三 22:55]
+   :END:
+
+** DONE [#B] Study At Starbucks                             :outside:@learn:
+   CLOSED: [2017-06-10 六 17:34] SCHEDULED: <2017-06-10 六 15:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-10 六 17:34]
+     CLOCK: [2017-06-10 六 16:07]--[2017-06-10 六 17:34] =>  1:27
+   :END:
+   - 在复城国际星巴克学习org-mode整理
+
+** DONE [#B] 跑步锻炼                                       :outside:@habit:
+   CLOSED: [2017-06-15 Thu 22:00] SCHEDULED: <2017-06-15 Thu 21:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-15 Thu 22:00]
+   CLOCK: [2017-06-15 Thu 21:08]--[2017-06-15 Thu 22:00] =>  0:52
+   :END:
+
+** DONE [#B] Config better the idea tools                        :home@hack:
+   CLOSED: [2017-06-17 Sat 01:26] SCHEDULED: <2017-06-17 Sat 00:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-17 Sat 01:26]
+   CLOCK: [2017-06-17 Sat 00:33]--[2017-06-17 Sat 01:26] =>  0:53
+   :END:
+
+** DONE [#B] StarBucks Learn                                 :outside@learn:
+   CLOSED: [2017-06-17 Sat 17:40] SCHEDULED: <2017-06-17 Sat 16:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-17 Sat 17:40]
+   CLOCK: [2017-06-17 Sat 16:13]--[2017-06-17 Sat 17:40] =>  1:27
+   :END:
+   1. Learn use intellij idea hot development
+   2. Learn ubersicht install calendar plugin (not fund my fit the plugin)
+   3. Learn popclip plugins using
+
+** DONE [#B] Learn Java8 New Features [4/4]                     :home@learn:
+   CLOSED: [2017-06-18 Sun 17:07] SCHEDULED: <2017-06-17 Sat 23:50>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-18 Sun 17:07]
+   CLOCK: [2017-06-18 Sun 15:45]--[2017-06-18 Sun 17:07] =>  1:22
+   CLOCK: [2017-06-17 Sat 23:55]--[2017-06-18 Sun 00:20] => 00:25
+   :END:
+   - [X] Function Interface
+   - [X] Lambda Expression
+   - [X] Method Quote
+   - [X] Composite Lambda
+
+** DONE [#B] Learn Java Content                                 :home@learn:
+   CLOSED: [2017-06-19 Mon 22:34] SCHEDULED: <2017-06-19 Mon 20:40>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-19 Mon 22:34]
+   CLOCK: [2017-06-19 Mon 20:40]--[2017-06-19 Mon 22:34] =>  1:54
+   :END:
+
+** DONE [#B] Web Learn                                          :home@learn:
+   CLOSED: [2017-06-24 Sat 15:17] SCHEDULED: <2017-06-21 Wed 21:40>
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2017-06-24 Sat 15:17]
+   - State "WAITING"    from "STARTED"    [2017-06-21 Wed 22:00] \\
+     临时学习其他内容
+   CLOCK: [2017-06-21 Wed 21:45]--[2017-06-21 Wed 22:00] =>  0:15
+   :END:
+
+** DONE [#B] StarBucks Learn                                 :outside@learn:
+   CLOSED: [2017-06-24 Sat 17:10] SCHEDULED: <2017-06-24 Sat 15:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-24 Sat 17:10]
+   CLOCK: [2017-06-24 Sat 15:17]--[2017-06-24 Sat 17:10] =>  1:53
+   :END:
+
+* Once a month
+** TODO [#B] Give back credit card
+   DEADLINE: <2017-07-25 Tue 12:00>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-06-25 Sun 21:50]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2017-06-25 Sun 21:50]
+   :END:
+
+* Every Week
+** TODO [#A] Writing Blog(sum up experience)                     :home@blog:
+   DEADLINE: <2017-07-22 Sat 23:00 ++1w -3d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-06-17 Sat 21:16]
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-17 Sat 21:16]
+   CLOCK: [2017-06-17 Sat 19:55]--[2017-06-17 Sat 21:16] =>  1:21
+   :END:
+   1. 根据一周学习经验总结一次.
+   2. 通过1个小时写一篇Blog.
+   3. 最好可以使用English.
+
+* Everyday
+  <<English Learn>>
+*** 2017-05-30 Study
+    | English      | Chinese        | Extenssion                       |
+    |--------------+----------------+----------------------------------|
+    | Provides     | 提供、规定     | Speciing Provides 特种债卷       |
+    | Additionally | 此外、另外、又 | Additionally Before 加上之前...  |
+    | Abroad       | 室外、户外     | Agency Abroad 国外代办处         |
+    | Agency       | 代理、中介     | Travel Agency 旅行社             |
+    | Travel       | 旅行、漫游     | Time Travel 时空旅行             |
+    | Across       | 穿过、横穿     | Back Across 后背                 |
+    | Activity     | 活动、行动     | Paranormal Activity 灵动         |
+    | Paranormal   | 超常的、超自然 | Paranormal Anomalies 功能异常    |
+    | Anomalies    | 异常现象、异常 | Update Anomalies 更新异常        |
+    | Afraid       | 害怕的、恐怕   | Afraid to 不敢                   |
+    | again        | 再一次、同样   | Simle Again 再次微笑             |
+    | Accident     | 事故、意外     | Automobile Accident 车祸         |
+    | Automobile   | 汽车、机动车   | Automobile platform 汽车平台     |
+    | Bad          | 坏的、有害的   | Bad Debt 坏账                    |
+    | Debt         | 债务、欠债     | Floating Debt 短期债务、流动债务 |
+    | Bang         | 重击、巨响     | Stick Bang 勇士重击              |
+    | Basket       | 篮子、蓝       | Fruits Basket 水果篮子           |
+    | Stack        | 堆栈           | Protocol Stack 协议栈            |
+    | Flow         | 流动、流量     | Flow Control 流量控制、流程控制  |
+    | Protocol     | 协议、拟定     | Internet Protocol 网络协议       |
+    |              |                |                                  |
+*** 2017-05-31 Study
+    | English     | Chinese          | Extenssion                           |
+    |-------------+------------------+--------------------------------------|
+    | Baseball    | 棒球、垒球       | Baseball Park 棒球场                 |
+    | Better      | 更好、越好       | Better Not 最好别、最好不要          |
+    | Environment | 环境、外界       | Natural Environment 自然环境         |
+    | Aims        | 目标、旨         | Study Aims 学习目标                  |
+    | Improving   | 改进、提高、改善 | Improving Server 提升服务、改善服务  |
+    | Experience  | 体验、经验、经历 | User Experience 用户体验、使用者体验 |
+    | Analyze     | 分析、研究       | Analyze World 分析世界               |
+    | Cage        | 监狱、牢房       |                                      |
+    | Camera      | 照相机、摄影机   | Digital Camera 数码相机              |
+    | Digital     | 数字、数码       | Digital Signature 数字签名           |
+    | Signature   | 签名、署名       | Specimen Signature 签名样式          |
+    | Specimen    | 标本、样本       | Specimen Bottle 样本瓶               |
+    | Bottle      | 瓶子、瓶         |                                      |
+    | Canada      | 加拿大           | Canadian 加拿大的、加拿大人的        |
+    | Candel      | 蜡烛、烛光       | English Candel 英国烛光              |
+    | Canoe       | 独木舟           | Canoe Rental 独木舟出租              |
+    | Rental      | 租借、租金、租住 | Empty Rental 空车租赁                |
+    | Canon       | 教规、标准       |                                      |
+    | Cap         | 盖、帽子         | Shower Cap 浴帽                      |
+    | Shower      | 阵雨、淋浴       | Shower Nozzle 喷头                   |
+    | Nozzle      | 喷嘴、排气口     | Injection Nozzle 射出喷嘴、喷油嘴    |
+*** 2017-06-01 Study
+    | English   | Chinese              | Extenssion                       |
+    |-----------+----------------------+----------------------------------|
+    | Injection | 注射、注入           | SQL Injection SQL注入            |
+    | Summary   | 摘要、总结、综述     | Job Summary 工作概要             |
+    | Relevant  | 相关的、有关的       | Relevant Range 相关范围          |
+    | When      | 什么时候、何时       | Remember When 记得当时、曾几何时 |
+    | Yet       | 仍然、还是           | Bug Yet 但还是、但尚未           |
+    | Temporary | 临时、暂时的、一时   | Temporary Payment 暂付款         |
+    | Storage   | 存储、保存           | Buffer Storage 缓冲存储器        |
+    | Achieve   | 完成、达到、取得     | Achieve Success 取得成功         |
+    | Invalid   | 无效、失效           | Invalid Parameter 无效参数       |
+    | Effect    | 效果、结果、作用     | Butterfly Effect 蝴蝶效应        |
+    | Butterfly | 蝴蝶、蝶泳           | Madama Butterfly 蝴蝶夫人        |
+    | Madama    | 主席                 |                                  |
+    | Combine   | 结合、联合、组合     | Combine With 结合起来            |
+    | Cover     | 覆盖、封面           | Cover Note 承包单                |
+    | Appoint   | 任命、指定、约定     | Appoint As 任命为                |
+    | Got       | 得到、明白           | Got Off 下车、下来、脱下         |
+    | Off       | 关闭、断开、折扣网站 | Pay Off 还清、得到好结果         |
+    | Permise   | 前提                 |                                  |
+    | Capital   | 首都、资本、资金     | Human Capital 人力资本           |
+    | Captain   | 队长、上校、船长     | Captain America 美国队长         |
+    | Care      | 关心、小心、关怀     | Skin Care 护肤品、皮肤护理       |
+    | Skin      | 皮肤                 | Skin Effect 皮层效应             |
+*** 2017-06-02 Study
+    | English    | Chinese              | Extension                       |
+    |------------+----------------------+---------------------------------|
+    | Card       | 卡片、纸牌           | Credit Card 信用卡              |
+    | Credit     | 信用、信用、信贷     | Credit Union 信用社             |
+    | Union      | 联合、并集、结合     | Political Union 政治联盟        |
+    | Political  | 政治的、政治上的     | Political Prisoner 政治犯       |
+    | Prisoner   | 囚犯、犯人、俘虏     | Civil Prisoner 民事犯           |
+    | Civil      | 民事、民用、民间的   | Civil Rights 基本权、民事权利   |
+    | Rights     | 权利、维权、权限     | Patent Rights 专利证书、专利权  |
+    | Patent     | 专利、专利权         | Patent Pool 专利池              |
+    | Atomic     | 原子的、原子性       | Atomic Theory 原子论            |
+    | Theory     | 理论、学说           | Information Theory 信息论       |
+    | Bandwidth  | 带宽、频宽           | Video Bandwidth 视频带宽        |
+    | Benefit    | 好处、利益、收益     |                                 |
+    | Viable     | 可行的、可实行的     | Best Viable Method 最佳可行方法 |
+    | Best       | 最好的、最好、最佳   | Best Practice 最佳实践          |
+    | Breakpoint | 断点、中断点         | Breakpoint Instruction 断点指令 |
+    | Clipboard  | 剪贴板、剪切板       | Clear Clipboard 清空剪贴板      |
+    | Master     | 主要的、主任、熟练地 | Master Key 关键、主密钥         |
+    | Component  | 组件、成分、组成部分 | Component Video 分量视频        |
+    | Compatible | 兼容、相容、能共享   | Compatible Software 兼容软件    |
+*** 2017-06-13 Study
+    | English   | Chinese          | Extension                           |
+    |-----------+------------------+-------------------------------------|
+    | Program   | 程序、计划       | Program Counter 程序计数器          |
+    | Press     | 压、压迫、逼迫   | Press Release 新闻发布              |
+    | Release   | 发布、发行、释放 | Release Me 放开我                   |
+    | Screen    | 屏幕、掩护       | Screen Size 屏幕大小                |
+    | Specify   | 指定、详细说明   | Specify Requirements 需求定义       |
+    | Disk      | 圆盘、磁盘       | Disk Utility 磁盘工具               |
+    | Utility   | 效用、功用、实用 | Utility Knife 多用途倒、美工刀      |
+    | Knife     | 刀子、小刀       | Knife Money 刀币                    |
+    | Record    | 记录、记载、唱片 | Criminal Record 案底、前科          |
+    | Criminal  | 罪犯、涉案、刑事 | Criminal Law 刑法、刑法学           |
+    | Law       | 法律、法学、法则 | International Law 国际法、国际公法  |
+    | Shell     | 贝壳、炮弹、壳   |                                     |
+    | Also      | 也、并且、另外   | You Also 你也是                     |
+    | Procedure | 程序、手续、过程 | Procedure Control 过程控制          |
+    | Dialog    | 对话、对白       | Dialog Box 对话框                   |
+    | Related   | 相关、有关、连带 | Related Document 相关文件、相关文档 |
+    | Item      | 条目、条款       | Item Record 项目记录                |
+    | Marked    | 显著的、有记号的 | Marked Section 标注段落             |
+    | Then      | 那么、当时、然后 | Then There 再就是                   |
+    | Each      | 每、每个、各个   | Each Other 互相、彼此、相互         |
+    |           |                  |                                     |
+*** 2017-06-13 Study
+    | English    | Chinese              | Extension                      |
+    |------------+----------------------+--------------------------------|
+    | Variable   | 变量、可变的         | Local Variable 局部变量        |
+    | Make       | 制造、制作、编译     | Make Sense 讲得通、有道理      |
+    | Without    | 外部、在外面         | Do Without 没有、用不着        |
+    | Following  | 下列、下述、跟随     | FLWG Following 如下、下达      |
+    | Letter     | 书信、证书、文字     | Letter Box 📪信箱              |
+    | Desire     | 欲望、渴望、要求     | Dirty Desire 疯狂幻想          |
+    | Dirty      | 脏的、下流的、弄脏   | Dirty Work 讨厌的工作          |
+    | Structure  | 构造、结构           | Membrane Structure 膜结构      |
+    | Blank      | 空白、空虚           | Steve Blank 史蒂夫.布兰科      |
+    | Operation  | 操作、手术、运算     | Logistics 物流作业             |
+    | Logistics  | 物流、后勤           | Logistics Management 物流管理  |
+    | Erase      | 擦除、抹去、清洗     | Erase Myself 让自己归零        |
+    | Prompt     | 迅速的、敏捷的、提示 | No Prompt 不提示、不提醒       |
+    | Whether    | 是否、不论、有无     | Discussing Whether 讨论是否    |
+    | Discussing | 讨论、探讨、论述     | Discussing Intentions 讨论意图 |
+    | Intentions | 医院、意图、打算     | Shopping Intentions 购物意向   |
+    | Position   | 位置、定位、职位     | Position Desired 期望职位      |
+    | Desired    | 期望的、想得到的     | Margins Desired 期望毛利       |
+    | Margins    | 保证金               | Initial Margins 初始保证金     |
+    | Deal       | 交易、处理、经营     | Big Deal 大不了、重要的是      |
+    |            |                      |                                |
+*** 2017-07-16 Study
+    | English    | Chinese                | Extension                     |
+    |------------+------------------------+-------------------------------|
+    | Danger     | 危险、危害             | Danger Money 额外报酬         |
+    | Dangerous  | 危险的                 | Dangerous Liaisons 危险关系   |
+    | Liaisons   | 联络人、联系人         | 暧昧的关系                    |
+    | Dark       | 黑暗、深色的、暗黑     | Dark Matter 暗物质            |
+    | Matter     | 物质、事情、重要       | No Matter 无论、不管、不论    |
+    | Daughter   | 女儿、小女             | First Daughter 第一个女人     |
+    | Daytime    | 白天、白昼、日间       |                               |
+    | Deaf       | 耳聋、聋人、不愿听     | Stone Deaf 完全聋了           |
+    | Stone      | 石头、强硬、完全       |                               |
+    | Deal       | 交易、处理、经营       | Big Deal 大不了、没什么大不了 |
+    | Dear       | 亲爱的、尊敬的         | Dear God 亲爱的上帝、敬爱的神 |
+    | Decide     | 决定、解决             | People Decide 群策群力        |
+    | Decorate   | 装饰、布置             | Decorate Mode 装饰模式        |
+    | Early      | 早期的、早熟的         | Early Warning 预警、预先警报  |
+    | East       | 东方、东风             | Far East 远东、远东地区       |
+    | Earthquake | 地震、大动荡           | Earthquake Swarm 群震、地震群 |
+    | Swarm      | 蜂群、一大群           | Alien Swarm 异型群体          |
+    | Education  | 教育、培养             | Special Education 特殊教育    |
+    | Special    | 特别、特殊             |                               |
+    | Either     | 任何一个、要不是、或者 | Either Symbol 任一符号        |
+
+
+* Project Development
+** DONE [#B] 构建Kotlin And Spring Boot项目 [40%]            :home:@project:
+   CLOSED: [2017-06-07 Wed 22:24] DEADLINE: <2017-06-07 Wed 23:00>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2017-06-07 Wed 22:24]
+   :END:
+   - [X] 构建Kotlin基础框架
+   - [X] project environment：Intellij、Spring Boot、Mysql、Maven、Web.
+   - [ ] create base database and table.
+   - [ ] project framework prototype drawing(Using Mindnode)
+   - [ ] project targer confirm
+
+* Emergency Requirements
+** DONE [#A] Portal场景化余额提醒Bug修改                       :office:@work:
+   CLOSED: [2017-06-08 周四 09:46] SCHEDULED: <2017-06-08 周四 09:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-06-08 周四 09:46]
+     CLOCK: [2017-06-08 周四 09:21]--[2017-06-08 周四 09:46] =>  0:25
+   :END:
+
+* Reading
+  <<Article Infos>>
+  | Source    | Title                   | Link                                                        | Read Date               |
+  |-----------+-------------------------+-------------------------------------------------------------+-------------------------|
+  | 掘金      | Git Commit Message      | https://juejin.im/post/59110c322f301e0057e4c182             | <2017-05-30 Tue 15:00>  |
+  | 掘金      | Git Rollback Method     | https://juejin.im/post/5927c630ac502e006c545095             | <2017-05-31 周三 17:30> |
+  | CSDN      | 代码审查注意什么        | http://www.jianshu.com/p/2c43516b9ea1                       | <2017-06-01 周四 17:10> |
+  | 掘金      | Git干货系列5            | https://juejin.im/post/59309a070ce4630057ef5f6d             | <2017-06-03 Sat 15:00>  |
+  | 简述      | Java8实战之-Lambda      | http://www.jianshu.com/p/ddf345983164                       | <2017-06-18 Sun 15:00>  |
+  | 开源中国  | Java8 默认函数式接口    | https://my.oschina.net/u/576554/blog/535010                 | <2017-06-18 Sun 21:35>  |
+  | ImportNew | java8 Lambda 10个示例   | http://www.importnew.com/16436.html                         | <2017-06-18 Sun 22:30>  |
+  | Blog      | Java8 Optional使用      | https://unmi.cc/proper-ways-of-using-java8-optional/        | <2017-06-18 Sun 23:00>  |
+  | Blog      | Intellij Idea配置       | https://itjh.net/2016/08/18/idea-good-conf/                 | <2017-06-19 Mon 20:50>  |
+  | Blog      | Idea Live Template      | http://blog.xiaohansong.com/2017/03/17/idea-live-templates/ | <2017-06-19 Mon 22:10>  |
+  | 掘金      | Swagger 编写Api文档     | https://juejin.im/entry/580457030bd1d0005812a700            | <2017-06-20 Tue 22:30>  |
+  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |
+  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |          |                         |                                                             |                         |
+
+* Kanban
+  | TODO                           | STARTED | DONE                                  |
+  |--------------------------------+---------+---------------------------------------|
+  | [[/Users/wangliang/org-notes/gtd.org::English twenty words a day][English twenty words a day]]     |         | [[/Users/wangliang/org-notes/gtd.org::Portal紧急需求转测、针对Bug做相应修改][Portal紧急需求转测、针对Bug做相应修改]] |
+  | [[/Users/wangliang/org-notes/gtd.org::Technical Article Reading][Technical Article Reading]]      |         | [[/Users/wangliang/org-notes/gtd.org::节日前上线Bug整改][节日前上线Bug整改]]                     |
+  | [[/Users/wangliang/org-notes/gtd.org::Give back credit card][Give back credit card]]          |         | [[/Users/wangliang/org-notes/gtd.org::学习使用Intellij 搭建Java][学习使用Intellij 搭建Java]]             |
+  | [[/Users/wangliang/org-notes/gtd.org::Writing Blog(sum up experience)][Writing Blog(sum up experience]] |         | [[/Users/wangliang/org-notes/gtd.org::场景化商品调整后不展示][场景化商品调整后不展示]]                |
+  | [[/Users/wangliang/org-notes/notes.org::Macos 破解软件下载][Macos 破解软件下载]]             |         | [[/Users/wangliang/org-notes/gtd.org::Portal验证码开关(便于自动化测试使用)][Portal验证码开关(便于自动化测试使用)]]  |
+  | [[/Users/wangliang/org-notes/notes.org::Mac 常用插件][Mac 常用插件]]                   |         | [[/Users/wangliang/org-notes/gtd.org::将登陆页面验证码去掉][将登陆页面验证码去掉]]                  |
+  |                                |         | [[/Users/wangliang/org-notes/gtd.org::/\*.*ortal场景化产品及呈现更改 .100%./][Portal场景化产品及呈现更改 {100%}]]     |
+  |                                |         | [[/Users/wangliang/org-notes/gtd.org::Google Canlander Combination][Google Canlander Combination]]          |
+  |                                |         | [[/Users/wangliang/org-notes/gtd.org::/\*.*ortal预付费及后付费功能调整 .100%./][Portal预付费及后付费功能调整 {100%}]]   |
+  |                                |         | [[/Users/wangliang/org-notes/gtd.org::Portal场景化功能转测][Portal场景化功能转测]]                  |
+  #+TBLFM: @1='(kanban-headers $#)::@2$1..@>$>='(kanban-zero @# $#)
+
+  #+BEGIN: columnview :hlines 1 :id global
+  | ITEM                                  | TODO      | PRIORITY | TAGS             |
+  |---------------------------------------+-----------+----------+------------------|
+  | Workspace                             |           | B        |                  |
+  | English twenty words a day            | TODO      | A        | :home:@learn:    |
+  | Technical Article Reading             | TODO      | A        | :home:@learn:    |
+  | Portal紧急需求转测、针对Bug做相应修改 | DONE      | B        | :@work:          |
+  | 节日前上线Bug整改                     | DONE      | B        | :@work:          |
+  | 学习使用Intellij 搭建Java             | DONE      | B        | :@learn:         |
+  | 场景化商品调整后不展示                | DONE      | B        | :@temp:          |
+  | Portal验证码开关(便于自动化测试使用)  | DONE      | B        | :@work:          |
+  | 将登陆页面验证码去掉                  | DONE      | B        | :@temp:          |
+  | Portal场景化产品及呈现更改            | DONE      | B        | :@work:          |
+  | Google Canlander Combination          | DONE      | B        | :@learn:         |
+  | Portal预付费及后付费功能调整          | DONE      | A        | :office:@work:   |
+  | 意高系统架构                          | CANCELLED | C        | :office:@free:   |
+  | Portal场景化功能转测                  | DONE      | A        | :office:@work:   |
+  | Learn emacs `bing-dict` plugin        | DONE      | B        | :office:@learn:  |
+  | 保利国际看电影：新木乃伊              | DONE      | B        | :home@paly:      |
+  | Hack MacOS                            | DONE      | A        | :home@hack:      |
+  | Study At Starbucks                    | DONE      | B        | :outside:@learn: |
+  | 跑步锻炼                              | DONE      | B        | :outside:@habit: |
+  | Config better the idea tools          | DONE      | B        | :home@hack:      |
+  | StarBucks Learn                       | DONE      | B        | :outside@learn:  |
+  | Learn Java8 New Features              | DONE      | B        | :home@learn:     |
+  | Learn Java Content                    | DONE      | B        | :home@learn:     |
+  | Web Learn                             | DONE      | B        | :home@learn:     |
+  | StarBucks Learn                       | DONE      | B        | :outside@learn:  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Once a month                          |           | B        |                  |
+  | Give back credit card                 | TODO      | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Every Week                            |           | B        |                  |
+  | Writing Blog(sum up experience)       | TODO      | A        | :home@blog:      |
+  |---------------------------------------+-----------+----------+------------------|
+  | Everyday                              |           | B        |                  |
+  | 2017-05-30 Study                      |           | B        |                  |
+  | 2017-05-31 Study                      |           | B        |                  |
+  | 2017-06-01 Study                      |           | B        |                  |
+  | 2017-06-02 Study                      |           | B        |                  |
+  | 2017-06-13 Study                      |           | B        |                  |
+  | 2017-06-13 Study                      |           | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Project Development                   |           | B        |                  |
+  | 构建Kotlin And Spring Boot项目        | DONE      | B        | :home:@project:  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Emergency Requirements                |           | B        |                  |
+  | Portal场景化余额提醒Bug修改           | DONE      | A        | :office:@work:   |
+  |---------------------------------------+-----------+----------+------------------|
+  | Reading                               |           | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Kanban                                |           | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Last Week                             |           | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Daily Summary                         |           | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Weekly Work Statistics                |           | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Monthly Work Statistics               |           | B        |                  |
+  |---------------------------------------+-----------+----------+------------------|
+  | Annual Every Year                     |           | B        |                  |
+  #+END:
+* Last Week
+  #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block lastweek :fileskip0 t :indent t
+  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for week 2017-W27.
+  | File | Headline         | Time   |   |
+  |------+------------------+--------+---|
+  |      | ALL *Total time* | *0:00* |   |
+  #+END:
+
+  #+BEGIN_SRC emacs-lisp :results value
+  ;; (setq week-range (org-clock-special-range 'today nil t))
+  ;; (org-clock-sum-today-by-tags nil (nth 0 week-range) (nth i week-range) t)
+  #+END_SRC
+
+  #+RESULTS:
+* Daily Summary
+  #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block today :fileskip0 t :indent t
+  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for Saturday, July 15, 2017.
+  | File | Headline         | Time   |   |
+  |------+------------------+--------+---|
+  |      | ALL *Total time* | *0:00* |   |
+  #+END:
+
+* Weekly Work Statistics
+  #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisweek :fileskip0 t :indent t
+  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for week 2017-W28.
+  | File | Headline         | Time   |   |
+  |------+------------------+--------+---|
+  |      | ALL *Total time* | *0:00* |   |
+  #+END:
+
+  #+BEGIN_SRC emacs-lisp :results value
+    (setq week-range (org-clock-special-range 'thisweek nil t))
+    (org-clock-sum-today-by-tags nil (nth 0 week-range) (nth i week-range) t)
+  #+END_SRC
+
+* Monthly Work Statistics
+  #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thismonth :fileskip0 t :indent t
+  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for July 2017.
+  | File | Headline         | Time   |   |
+  |------+------------------+--------+---|
+  |      | ALL *Total time* | *0:00* |   |
+  #+END:
+
+  #+BEGIN_SRC emacs-lisp :results value
+    (setq week-range (org-clock-special-range 'thisweek nil t))
+    (org-clock-sum-today-by-tags nil (nth 0 week-range) (nth i week-range) t)
+  #+END_SRC
+
+* Annual Every Year
+  #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisyear :fileskip0 t :indent t
+  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for the year 2017.
+  | File    | Headline                                  | Time       |          |
+  |---------+-------------------------------------------+------------+----------|
+  |         | ALL *Total time*                          | *2d 10:59* |          |
+  |---------+-------------------------------------------+------------+----------|
+  | gtd.org | *File time*                               | *2d 10:59* |          |
+  |         | Workspace                                 | 2d 9:13    |          |
+  |         | \_  English twenty words a day            |            |     0:40 |
+  |         | \_  Technical Article Reading             |            |     5:05 |
+  |         | \_  Portal紧急需求转测、针对Bug做相应修改 |            |     0:17 |
+  |         | \_  节日前上线Bug整改                     |            |     0:13 |
+  |         | \_  学习使用Intellij 搭建Java             |            |     0:38 |
+  |         | \_  场景化商品调整后不展示                |            |     0:50 |
+  |         | \_  Portal场景化产品及呈现更改 [100%]     |            |     0:47 |
+  |         | \_  Portal预付费及后付费功能调整 [100%]   |            | 1d 12:05 |
+  |         | \_  Portal场景化功能转测                  |            |     0:20 |
+  |         | \_  Learn emacs `bing-dict` plugin        |            |     0:22 |
+  |         | \_  Hack MacOS                            |            |     1:28 |
+  |         | \_  Study At Starbucks                    |            |     1:27 |
+  |         | \_  跑步锻炼                              |            |     0:52 |
+  |         | \_  Config better the idea tools          |            |     0:53 |
+  |         | \_  StarBucks Learn                       |            |     1:27 |
+  |         | \_  Learn Java8 New Features [4/4]        |            |     1:47 |
+  |         | \_  Learn Java Content                    |            |     1:54 |
+  |         | \_  Web Learn                             |            |     0:15 |
+  |         | \_  StarBucks Learn                       |            |     1:53 |
+  |         | Every Week                                | 1:21       |          |
+  |         | \_  Writing Blog(sum up experience)       |            |     1:21 |
+  |         | Emergency Requirements                    | 0:25       |          |
+  |         | \_  Portal场景化余额提醒Bug修改           |            |     0:25 |
+  #+END:
