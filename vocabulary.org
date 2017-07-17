@@ -1,4 +1,6 @@
 * Vocabulary
+** Gate [ɡeɪt]
+n. 闸门；大门；大门口；登机门 | v. 在…装门；(英大学)禁止(学生)外出；用门控制 | 网络 登机口；浇口；闸极 | Synonym n. entrance,entry,door,gateway,opening
 ** Special ['speʃl]
 n. 特别节目；特制品；特价(处理) | adj. 不寻常的；特定的；特别的；很重要的 | 网络 特殊的；专门的；专题 | Synonym adj. singular,superior,unusual,distinct,different | Antonym adj. ordinary,general
 ** Education [.edjʊ'keɪʃ(ə)n]

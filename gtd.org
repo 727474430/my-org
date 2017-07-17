@@ -22,13 +22,14 @@
    [[English Learn][英文单词学习]]
 
 ** TODO [#A] Technical Article Reading                         :home:@learn:
-   DEADLINE: <2017-07-16 Sun 22:00 ++1d>
+   DEADLINE: <2017-07-18 Tue 22:00 ++1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-22 Thu 22:27]
+   :LAST_REPEAT: [2017-07-17 Mon 23:05]
    :Effort:   00:30
    :ORDERED:  t
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 Mon 23:05]
    - State "DONE"       from "STARTED"    [2017-06-22 Thu 22:27]
    CLOCK: [2017-06-22 Thu 21:39]--[2017-06-22 Thu 22:27] =>  0:48
    - State "DONE"       from "STARTED"    [2017-06-21 Wed 23:30]
@@ -518,6 +519,34 @@
     | Education  | 教育、培养             | Special Education 特殊教育    |
     | Special    | 特别、特殊             |                               |
     | Either     | 任何一个、要不是、或者 | Either Symbol 任一符号        |
+*** 2017-07-16 Study
+    | English    | Chinese                | Extension                    |
+    |------------+------------------------+------------------------------|
+    | Elephant   | 大象、🐘               | Elephant Bird 象鸟           |
+    | Fact       | 事实、实际、真相       | Materail Fact 重大事实       |
+    | Material   | 材料、材质、重要的     | Material Management 物资管理 |
+    | Fall       | 落下、坠落、秋天       | Fall Out 脱落、闹翻          |
+    | Famous     | 著名的、出名的、有名   | Famous For 驰名              |
+    | Fan        | 迷、爱好者、粉丝       |                              |
+    | Farm       | 农场、农庄             | Animla Farm 动物庄园         |
+    | Farmer     | 农夫、农民             |                              |
+    | Farthest   | 最远的、最久的         | Farthest Range 最大测距      |
+    | Fat        | 肥胖的、脂肪           |                              |
+    | Favourite  | 最喜欢的、最喜爱的     | New Favourite 新宠           |
+    | Garden     | 花园、菜园             | Garden City 花园城           |
+    | Gate       | 大门、出入口           | Gate Keepers 捍卫者          |
+    | Keeper     | 守门员、饲养员、监护人 | Stock Keeper 库管员          |
+    | Generosity | 慷慨、大方、宽宏大量   | Generosity Maxim 慷慨原则    |
+    | Maxim      | 格言、准则、作用名     | Agreement Maxim 一致原则     |
+    | Agreement  | 同意、协同、一致       |                              |
+    | Disagree   | 不同意、不一致、争执   | I Disagree 我不同意          |
+    | Germany    | 德国                   |                              |
+    | Together   | 一起、在一起、相聚     | Fit Together 组装在一起      |
+    | Fit        | 适合、合身             | Keep Fit 保持健康、强身健体  |
+    | Keep       | 保持、保留             | Keep Down 控制、镇压         |
+    |            |                        |                              |
+
+
 
 
 * Project Development
@@ -556,7 +585,9 @@
   | Blog      | Idea Live Template      | http://blog.xiaohansong.com/2017/03/17/idea-live-templates/ | <2017-06-19 Mon 22:10>  |
   | 掘金      | Swagger 编写Api文档     | https://juejin.im/entry/580457030bd1d0005812a700            | <2017-06-20 Tue 22:30>  |
   | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |
-  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |          |                         |                                                             |                         |
+  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |
+  | Blog      | Git Remote Operator     | http://www.ruanyifeng.com/blog/2014/06/git_remote.html      | <2017-07-17 Mon 23:00>  |
+  |           |                         |                                                             |                         |
 
 * Kanban
   | TODO                           | STARTED | DONE                                  |
@@ -601,6 +632,10 @@
   | Learn Java Content                    | DONE      | B        | :home@learn:     |
   | Web Learn                             | DONE      | B        | :home@learn:     |
   | StarBucks Learn                       | DONE      | B        | :outside@learn:  |
+  | Portal Bug Modify                     | DONE      | B        | :office:@work:   |
+  | Api Bug Modify                        | DONE      | B        | :office:@wrok:   |
+  | Api 备选接口不可用                    | DONE      | B        | :office:@temp:   |
+  | Portal 姓名、身份证 不呈现            | DONE      | B        | :office:@temp:   |
   |---------------------------------------+-----------+----------+------------------|
   | Once a month                          |           | B        |                  |
   | Give back credit card                 | TODO      | B        |                  |
@@ -615,6 +650,7 @@
   | 2017-06-02 Study                      |           | B        |                  |
   | 2017-06-13 Study                      |           | B        |                  |
   | 2017-06-13 Study                      |           | B        |                  |
+  | 2017-07-16 Study                      |           | B        |                  |
   |---------------------------------------+-----------+----------+------------------|
   | Project Development                   |           | B        |                  |
   | 构建Kotlin And Spring Boot项目        | DONE      | B        | :home:@project:  |
@@ -638,7 +674,7 @@
   #+END:
 * Last Week
   #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block lastweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for week 2017-W27.
+  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for week 2017-W28.
   | File | Headline         | Time   |   |
   |------+------------------+--------+---|
   |      | ALL *Total time* | *0:00* |   |
@@ -652,18 +688,28 @@
   #+RESULTS:
 * Daily Summary
   #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block today :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for Saturday, July 15, 2017.
-  | File | Headline         | Time   |   |
-  |------+------------------+--------+---|
-  |      | ALL *Total time* | *0:00* |   |
+  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for Monday, July 17, 2017.
+  | File    | Headline                       | Time   |      |
+  |---------+--------------------------------+--------+------|
+  |         | ALL *Total time*               | *1:21* |      |
+  |---------+--------------------------------+--------+------|
+  | gtd.org | *File time*                    | *1:21* |      |
+  |         | Workspace                      | 1:21   |      |
+  |         | \_  Api 备选接口不可用         |        | 0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
   #+END:
 
 * Weekly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for week 2017-W28.
-  | File | Headline         | Time   |   |
-  |------+------------------+--------+---|
-  |      | ALL *Total time* | *0:00* |   |
+  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for week 2017-W29.
+  | File    | Headline                       | Time   |      |
+  |---------+--------------------------------+--------+------|
+  |         | ALL *Total time*               | *1:21* |      |
+  |---------+--------------------------------+--------+------|
+  | gtd.org | *File time*                    | *1:21* |      |
+  |         | Workspace                      | 1:21   |      |
+  |         | \_  Api 备选接口不可用         |        | 0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -673,10 +719,15 @@
 
 * Monthly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thismonth :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for July 2017.
-  | File | Headline         | Time   |   |
-  |------+------------------+--------+---|
-  |      | ALL *Total time* | *0:00* |   |
+  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for July 2017.
+  | File    | Headline                       | Time   |      |
+  |---------+--------------------------------+--------+------|
+  |         | ALL *Total time*               | *1:21* |      |
+  |---------+--------------------------------+--------+------|
+  | gtd.org | *File time*                    | *1:21* |      |
+  |         | Workspace                      | 1:21   |      |
+  |         | \_  Api 备选接口不可用         |        | 0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -686,13 +737,13 @@
 
 * Annual Every Year
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisyear :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-15 Sat 23:00], for the year 2017.
+  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for the year 2017.
   | File    | Headline                                  | Time       |          |
   |---------+-------------------------------------------+------------+----------|
-  |         | ALL *Total time*                          | *2d 10:59* |          |
+  |         | ALL *Total time*                          | *2d 12:20* |          |
   |---------+-------------------------------------------+------------+----------|
-  | gtd.org | *File time*                               | *2d 10:59* |          |
-  |         | Workspace                                 | 2d 9:13    |          |
+  | gtd.org | *File time*                               | *2d 12:20* |          |
+  |         | Workspace                                 | 2d 10:34   |          |
   |         | \_  English twenty words a day            |            |     0:40 |
   |         | \_  Technical Article Reading             |            |     5:05 |
   |         | \_  Portal紧急需求转测、针对Bug做相应修改 |            |     0:17 |
@@ -712,6 +763,8 @@
   |         | \_  Learn Java Content                    |            |     1:54 |
   |         | \_  Web Learn                             |            |     0:15 |
   |         | \_  StarBucks Learn                       |            |     1:53 |
+  |         | \_  Api 备选接口不可用                    |            |     0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现            |            |     0:56 |
   |         | Every Week                                | 1:21       |          |
   |         | \_  Writing Blog(sum up experience)       |            |     1:21 |
   |         | Emergency Requirements                    | 0:25       |          |
