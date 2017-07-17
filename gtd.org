@@ -20,6 +20,7 @@
    - State "DONE"       from "TODO"       [2017-05-26 周五 11:22]
    :END:
    [[English Learn][英文单词学习]]
+
 ** TODO [#A] Technical Article Reading                         :home:@learn:
    DEADLINE: <2017-07-16 Sun 22:00 ++1d>
    :PROPERTIES:
@@ -291,6 +292,39 @@
    - State "DONE"       from "STARTED"    [2017-06-24 Sat 17:10]
    CLOCK: [2017-06-24 Sat 15:17]--[2017-06-24 Sat 17:10] =>  1:53
    :END:
+
+** DONE [#B] Portal Bug Modify [3/3]                          :office:@work:
+   CLOSED: [2017-07-17 一 16:15] SCHEDULED: <2017-07-17 一 10:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 一 16:15]
+   :END:
+   - [X] 学历信息:　单一查询中有,组合查询中没有.
+   - [X] 运营商计费: 将全部手机号判断运营商改为 -> 优分:　手机号三要素、手机在网时长、手机在网状态.
+   - [X] 历史报告: 法院判决详情历史查看功能支持.
+
+** DONE [#B] Api Bug Modify                                   :office:@wrok:
+   CLOSED: [2017-07-17 一 16:18] SCHEDULED: <2017-07-17 一 13:00>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 一 16:18]
+   :END:
+   - [X] 接口名称显示: 统一接口名称显示问题(显示准确接口名).
+   - [X] 运营商计费: 将全部手机号判断运营商改为 -> 优分: 手机号三要素、手机在网时长、手机在网状态.
+
+** DONE [#B] Api 备选接口不可用                               :office:@temp:
+   CLOSED: [2017-07-17 一 17:01] SCHEDULED: <2017-07-17 一 16:28>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 一 17:01]
+   CLOCK: [2017-07-17 一 16:29]--[2017-07-17 一 16:54] =>  0:25
+   :END:
+   - [X] Api 备选接口配置中不呈现,点击备选接口配置出现异常.
+
+** DONE [#B] Portal 姓名、身份证 不呈现                       :office:@temp:
+   CLOSED: [2017-07-17 一 18:14] SCHEDULED: <2017-07-17 一 17:15>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-17 一 18:14]
+   CLOCK: [2017-07-17 一 17:18]--[2017-07-17 一 18:14] =>  0:56
+   :END:
+   - [X] Portal 姓名、身份证商品没有呈现出来.
 
 * Once a month
 ** TODO [#B] Give back credit card

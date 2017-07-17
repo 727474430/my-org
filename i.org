@@ -1,64 +1,20 @@
-* 跑步
+* 写博客
   :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=b2NhYjcxM21tMnVtcWMyNm8wOHV1MXBmMWMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: ocab713mm2umqc26o08uu1pf1c
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDYxN1QxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170617T130000Z
   :END:
 
-  <2017-06-18 Sun 20:00-21:00>
+  <2017-06-17 六 21:00-23:00>
 
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+根据一周学习内容进行总结，不限制类别。
 * 学习英语
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=YWUyYzY4Z2xhYXVzdjRiMnQ5N2ZkczZtZ2MgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
   :ID: ae2c68glaausv4b2t97fds6mgc
   :END:
 
-  <2017-06-19 Mon 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MWVmbDJzZGdnYTU3anFudDUwbGU4azYydm8gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 1efl2sdgga57jqnt50le8k62vo
-  :END:
-
-  <2017-06-20 Tue 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MHB1dmU4NjBnYmcxMzJjMzFrMWU1dTFoZDQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 0puve860gbg132c31k1e5u1hd4
-  :END:
-
-  <2017-06-21 Wed 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 跑步
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=azQ1Z2t2aGUxYzFuZWh1am84ZWtwMHJ0cDggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: k45gkvhe1c1nehujo8ekp0rtp8
-  :END:
-
-  <2017-06-21 Wed 20:00-21:00>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=dWFsZmtqajRkcG5pdDJwM3Y1YzFjcWtpcHMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: ualfkjj4dpnit2p3v5c1cqkips
-  :END:
-
-  <2017-06-22 Thu 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=YTc5MzZhM2NzM2dpbzQyNWdoMjFwdWtuOTggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: a7936a3cs3gio425gh21pukn98
-  :END:
-
-  <2017-06-23 Fri 19:00-19:30>
+  <2017-06-19 一 19:00-19:30>
 
 此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
 * 跑步
@@ -67,70 +23,87 @@
   :ID: ijlqvgrjdeetl32jldqbfpfo0s
   :END:
 
-  <2017-06-24 Sat 20:00-21:00>
+  <2017-06-19 一 19:45-20:45>
 
 此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MWVmbDJzZGdnYTU3anFudDUwbGU4azYydm8gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 1efl2sdgga57jqnt50le8k62vo
+  :END:
+
+  <2017-06-20 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MHB1dmU4NjBnYmcxMzJjMzFrMWU1dTFoZDQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 0puve860gbg132c31k1e5u1hd4
+  :END:
+
+  <2017-06-21 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=azQ1Z2t2aGUxYzFuZWh1am84ZWtwMHJ0cDggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: k45gkvhe1c1nehujo8ekp0rtp8
+  :END:
+
+  <2017-06-21 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=dWFsZmtqajRkcG5pdDJwM3Y1YzFjcWtpcHMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ualfkjj4dpnit2p3v5c1cqkips
+  :END:
+
+  <2017-06-22 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YTc5MzZhM2NzM2dpbzQyNWdoMjFwdWtuOTggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: a7936a3cs3gio425gh21pukn98
+  :END:
+
+  <2017-06-23 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=b2NhYjcxM21tMnVtcWMyNm8wOHV1MXBmMWMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ocab713mm2umqc26o08uu1pf1c
+  :END:
+
+  <2017-06-24 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDYyNFQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170624T130000Z
+  :END:
+
+  <2017-06-24 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 招商银行信用卡还款
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NjRwbTRjMzNjOWgzMmI5bDZoajM2YjlrNnBnajBiYjFjZ3NtNmJiMzZvc204ZHBuY2NyNjRjaGpjZyBxcTcyNzQ3NDQzMEBt][Go to gcal web page]]
+  :ID: 64pm4c33c9h32b9l6hj36b9k6pgj0bb1cgsm6bb36osm8dpnccr64chjcg
+  :END:
+
+  <2017-06-25 日 10:00>--<2017-06-26 一 00:00>
 * 学习英语
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=dGdta2tpMWFtNmJybTBocmxkOHUxbG12YXMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
   :ID: tgmkki1am6brm0hrld8u1lmvas
   :END:
 
-  <2017-06-26 Mon 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 跑步
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NDN2M2w5Z2NsbXFqNDJkYjA5ZGx0cWE2Y2sgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 43v3l9gclmqj42db09dltqa6ck
-  :END:
-
-  <2017-06-26 Mon 20:00-21:00>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=bGtvcjIxcmNlYWs1Y29qMmxraDcyNDExZzggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: lkor21rceak5coj2lkh72411g8
-  :END:
-
-  <2017-06-27 Tue 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=b3U2NzhkcmZkaWI4a3AyM3Z2Z3Nub3JpdjAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: ou678drfdib8kp23vvgsnoriv0
-  :END:
-
-  <2017-06-28 Wed 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 跑步
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=cWZqMTY5ajVpNHBtNzFldnFpcWUwcmx1aW8gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: qfj169j5i4pm71evqiqe0rluio
-  :END:
-
-  <2017-06-28 Wed 20:00-21:00>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=OXFvazdubm03cnI1ZHMzdTZhMmtncnJmbGsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 9qok7nnm7rr5ds3u6a2kgrrflk
-  :END:
-
-  <2017-06-29 Thu 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=M2puNGxpMG85a2owYTRub2RqcjF2ZXVoNmMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 3jn4li0o9kj0a4nodjr1veuh6c
-  :END:
-
-  <2017-06-30 Fri 19:00-19:30>
+  <2017-06-26 一 19:00-19:30>
 
 此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
 * 跑步
@@ -139,70 +112,80 @@
   :ID: 4h927n20gipl5ngb4pvpsqver8
   :END:
 
-  <2017-07-01 Sat 20:00-21:00>
+  <2017-06-26 一 19:45-20:45>
 
 此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bGtvcjIxcmNlYWs1Y29qMmxraDcyNDExZzggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: lkor21rceak5coj2lkh72411g8
+  :END:
+
+  <2017-06-27 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=b3U2NzhkcmZkaWI4a3AyM3Z2Z3Nub3JpdjAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ou678drfdib8kp23vvgsnoriv0
+  :END:
+
+  <2017-06-28 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cWZqMTY5ajVpNHBtNzFldnFpcWUwcmx1aW8gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: qfj169j5i4pm71evqiqe0rluio
+  :END:
+
+  <2017-06-28 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=OXFvazdubm03cnI1ZHMzdTZhMmtncnJmbGsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 9qok7nnm7rr5ds3u6a2kgrrflk
+  :END:
+
+  <2017-06-29 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=M2puNGxpMG85a2owYTRub2RqcjF2ZXVoNmMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 3jn4li0o9kj0a4nodjr1veuh6c
+  :END:
+
+  <2017-06-30 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NDN2M2w5Z2NsbXFqNDJkYjA5ZGx0cWE2Y2sgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 43v3l9gclmqj42db09dltqa6ck
+  :END:
+
+  <2017-07-01 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDcwMVQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170701T130000Z
+  :END:
+
+  <2017-07-01 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
 * 学习英语
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=OWJzNnRuNGZiNjFsMjUzamlhdHJ2bWNkb2MgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
   :ID: 9bs6tn4fb61l253jiatrvmcdoc
   :END:
 
-  <2017-07-03 Mon 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 跑步
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Y3AzbmR1am1jczM4bGJqazZrbmE5dGdobWMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: cp3ndujmcs38lbjk6kna9tghmc
-  :END:
-
-  <2017-07-03 Mon 20:00-21:00>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NmdqaDllOWhpcTJ2NGZuYWJldHJtYmdoNDQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 6gjh9e9hiq2v4fnabetrmbgh44
-  :END:
-
-  <2017-07-04 Tue 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MmM4Y3E0YXFwaXRqbnAzM2NrbTVzN2kwbWsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 2c8cq4aqpitjnp33ckm5s7i0mk
-  :END:
-
-  <2017-07-05 Wed 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 跑步
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MTltNnZna2FoMTljdjVodmFzb3U2ZW02dWsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: 19m6vgkah19cv5hvasou6em6uk
-  :END:
-
-  <2017-07-05 Wed 20:00-21:00>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=aDBydWpra2tpZGFrdHA1N3RubDI5NTZtM28gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: h0rujkkkidaktp57tnl2956m3o
-  :END:
-
-  <2017-07-06 Thu 19:00-19:30>
-
-此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
-* 学习英语
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=ZXRuMDBzcnBqdDN0Y3VhcGFlNnY0bWo5dDAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
-  :ID: etn00srpjt3tcuapae6v4mj9t0
-  :END:
-
-  <2017-07-07 Fri 19:00-19:30>
+  <2017-07-03 一 19:00-19:30>
 
 此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
 * 跑步
@@ -211,6 +194,592 @@
   :ID: r1uvdfnq4vqs1rnq3o78mqifgk
   :END:
 
-  <2017-07-08 Sat 20:00-21:00>
+  <2017-07-03 一 19:45-20:45>
 
 此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NmdqaDllOWhpcTJ2NGZuYWJldHJtYmdoNDQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 6gjh9e9hiq2v4fnabetrmbgh44
+  :END:
+
+  <2017-07-04 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmM4Y3E0YXFwaXRqbnAzM2NrbTVzN2kwbWsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 2c8cq4aqpitjnp33ckm5s7i0mk
+  :END:
+
+  <2017-07-05 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MTltNnZna2FoMTljdjVodmFzb3U2ZW02dWsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 19m6vgkah19cv5hvasou6em6uk
+  :END:
+
+  <2017-07-05 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=aDBydWpra2tpZGFrdHA1N3RubDI5NTZtM28gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: h0rujkkkidaktp57tnl2956m3o
+  :END:
+
+  <2017-07-06 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZXRuMDBzcnBqdDN0Y3VhcGFlNnY0bWo5dDAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: etn00srpjt3tcuapae6v4mj9t0
+  :END:
+
+  <2017-07-07 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Y3AzbmR1am1jczM4bGJqazZrbmE5dGdobWMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: cp3ndujmcs38lbjk6kna9tghmc
+  :END:
+
+  <2017-07-08 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDcwOFQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170708T130000Z
+  :END:
+
+  <2017-07-08 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=a2g2MGZldjd1Z2tybWRwcTljOHBnMzU4aWMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: kh60fev7ugkrmdpq9c8pg358ic
+  :END:
+
+  <2017-07-10 一 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZDByY2psanRvMG5taTFvaTAzNGt0aGNpNWMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: d0rcjljto0nmi1oi034kthci5c
+  :END:
+
+  <2017-07-10 一 19:45-20:45>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Ymx0dWMyZ2loNGdzdHNqa3VrbGhmbzhzOW8gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: bltuc2gih4gstsjkuklhfo8s9o
+  :END:
+
+  <2017-07-11 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MDNlOTMyZnBkYTAzZGI2ajY2YWxjdWY4Y2cgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 03e932fpda03db6j66alcuf8cg
+  :END:
+
+  <2017-07-12 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ajA5ZmZ2ZWcwaW1qdGQyZWc5dHFiNnZlaDAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: j09ffveg0imjtd2eg9tqb6veh0
+  :END:
+
+  <2017-07-12 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YWU0NHFuaGFyazltbWF1Y2kxaXR1dGFzcTQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ae44qnhark9mmauci1itutasq4
+  :END:
+
+  <2017-07-13 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NGZodjZwZjdrMHRnbjJhNjNyMGpsaW50NmsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 4fhv6pf7k0tgn2a63r0jlint6k
+  :END:
+
+  <2017-07-14 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cjdjcWlucWFvNzI2NGhndWsxY2ZkYmI2amcgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: r7cqinqao7264hguk1cfdbb6jg
+  :END:
+
+  <2017-07-15 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDcxNVQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170715T130000Z
+  :END:
+
+  <2017-07-15 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=M3IzYjB0aW8wdGZjdXFucWtsdjI0YXVvaGcgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 3r3b0tio0tfcuqnqklv24auohg
+  :END:
+
+  <2017-07-17 一 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bTBuYnQzOW04ZnFwdDV0Z2xwczh2MzJvNmsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: m0nbt39m8fqpt5tglps8v32o6k
+  :END:
+
+  <2017-07-17 一 19:45-20:45>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MWYycmhhNW1iZDc0bGI3bnFxdWxrcTlqNTAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 1f2rha5mbd74lb7nqqulkq9j50
+  :END:
+
+  <2017-07-18 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=a3A5c2ZvN2kydm02aGFjZjIyb2U0MHJyMjggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: kp9sfo7i2vm6hacf22oe40rr28
+  :END:
+
+  <2017-07-19 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YzRnNjUzaGxpaGhocXQ3MjFzb25xbGltZTAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: c4g653hlihhhqt721sonqlime0
+  :END:
+
+  <2017-07-19 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Y3MwOW02YWdwZ2M5Mjg1cWRiaTI3cjY2dmMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: cs09m6agpgc9285qdbi27r66vc
+  :END:
+
+  <2017-07-20 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bnRrdGowYmtpZ2E3MGc0cWlkbmY4dGhoNDggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ntktj0bkiga70g4qidnf8thh48
+  :END:
+
+  <2017-07-21 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZmltbWJkYTNocDNqaXI3M3ZyN2thbHIxbW8gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: fimmbda3hp3jir73vr7kalr1mo
+  :END:
+
+  <2017-07-22 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDcyMlQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170722T130000Z
+  :END:
+
+  <2017-07-22 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bDBnNDVzdjBrMmRlNGEzM2dtcmZrbWtvdDQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: l0g45sv0k2de4a33gmrfkmkot4
+  :END:
+
+  <2017-07-24 一 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Y3JuMWphbnBuazc2NjA3dW9paWI0a2Q5aDAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: crn1janpnk76607uoiib4kd9h0
+  :END:
+
+  <2017-07-24 一 19:45-20:45>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NGpwa3ZpNjVyYmJuaWdpM2Qwb2VyZzcyY3MgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 4jpkvi65rbbnigi3d0oerg72cs
+  :END:
+
+  <2017-07-25 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cmY5N3QyaHZvNm1zaWQ1OXJqN3NyaDVjamMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: rf97t2hvo6msid59rj7srh5cjc
+  :END:
+
+  <2017-07-26 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cTM3aXIzdDZ0Z2Y3N2t1NGJxbWZrdXR0cmsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: q37ir3t6tgf77ku4bqmfkuttrk
+  :END:
+
+  <2017-07-26 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=aGpjNG4wdjBnaXNta2xrZjFjanE1OXFjaDQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: hjc4n0v0gismklkf1cjq59qch4
+  :END:
+
+  <2017-07-27 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MGwxMDdtM2Y0ZnI4NWt2OGlobW9lbnE0ZGcgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 0l107m3f4fr85kv8ihmoenq4dg
+  :END:
+
+  <2017-07-28 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NThvZG5tMXRoNmgxYzluMmxnbmV2bGdmOGsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 58odnm1th6h1c9n2lgnevlgf8k
+  :END:
+
+  <2017-07-29 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDcyOVQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170729T130000Z
+  :END:
+
+  <2017-07-29 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=OGFqYTZoaXMwaGFjdG00aGtsbGZiZmZ1MXMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 8aja6his0hactm4hkllfbffu1s
+  :END:
+
+  <2017-07-31 一 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZmgxM3MxZzk2ZWhmYjZmcm8xa2hrNmRjNGsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: fh13s1g96ehfb6fro1khk6dc4k
+  :END:
+
+  <2017-07-31 一 19:45-20:45>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=OTM4aW84ZjJlYzFqZm9iMGd2amdydWtnbjggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 938io8f2ec1jfob0gvjgrukgn8
+  :END:
+
+  <2017-08-01 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=dGdlcDA0Y2EyNWMxNjVmMmtkaXE2dHBlNmcgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: tgep04ca25c165f2kdiq6tpe6g
+  :END:
+
+  <2017-08-02 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cnY1anVzY3VvbHRvbTJvZTNmamE0OHQ1ODggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: rv5juscuoltom2oe3fja48t588
+  :END:
+
+  <2017-08-02 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZzVqa2pjOHUxb2x1bDNjMWhvMHFpc3UxajggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: g5jkjc8u1olul3c1ho0qisu1j8
+  :END:
+
+  <2017-08-03 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bGw1bXBzdTN1azRudjUxOWpidGpyMHEybG8gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ll5mpsu3uk4nv519jbtjr0q2lo
+  :END:
+
+  <2017-08-04 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bHU3a2dzcW5lZzEwa2RramdlNTdoaTdjYWcgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: lu7kgsqneg10kdkjge57hi7cag
+  :END:
+
+  <2017-08-05 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDgwNVQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170805T130000Z
+  :END:
+
+  <2017-08-05 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=dXM2MGR1cXJ1dHU5N3ZsYTdzbGg2dTc1b28gcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: us60duqrutu97vla7slh6u75oo
+  :END:
+
+  <2017-08-07 一 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZGdqY2lvMGNic2ZrcHB2c2hidTAzNDcybzQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: dgjcio0cbsfkppvshbu03472o4
+  :END:
+
+  <2017-08-07 一 19:45-20:45>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MDhlZnE1ZmhzM3BrbHMwYmNvZzNzYWw1Z3MgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 08efq5fhs3pkls0bcog3sal5gs
+  :END:
+
+  <2017-08-08 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=OGtmNHI1Y3VtczdyMmpoMXRuMm84NzhtZzQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 8kf4r5cums7r2jh1tn2o878mg4
+  :END:
+
+  <2017-08-09 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZDNvdG9pMzVlajg4dGt1ZTBodW12dTc1NTAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: d3otoi35ej88tkue0humvu7550
+  :END:
+
+  <2017-08-09 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=dHBhMWticzk5OXRkY3JwcWxpMDlrcXM1NmsgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: tpa1kbs999tdcrpqli09kqs56k
+  :END:
+
+  <2017-08-10 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=djVzZ3JvdXJvNnN0aTZnNGpmcTU5cnA4ZWcgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: v5sgrouro6sti6g4jfq59rp8eg
+  :END:
+
+  <2017-08-11 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MGtncmgwbGhhdWttN3V0NjA4YXNmbmlrcTggcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 0kgrh0lhaukm7ut608asfnikq8
+  :END:
+
+  <2017-08-12 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDgxMlQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170812T130000Z
+  :END:
+
+  <2017-08-12 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bXU2NWd2bjM3bTU0czR0dmVsZXVqZDNzdDAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: mu65gvn37m54s4tveleujd3st0
+  :END:
+
+  <2017-08-14 一 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=OXN0cGpvcXVxN21wYm80cTZvbG92aDJwamMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 9stpjoquq7mpbo4q6olovh2pjc
+  :END:
+
+  <2017-08-14 一 19:45-20:45>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Z2h0dWY1ZDJvbzc3Zjc3ZHB0Z21qYzl1cDQgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ghtuf5d2oo77f77dptgmjc9up4
+  :END:
+
+  <2017-08-15 二 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZWtzc2xsNG03bjlsNzNub2pwb2lxODhsOTAgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: ekssll4m7n9l73nojpoiq88l90
+  :END:
+
+  <2017-08-16 三 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MWY1OG9tc3Q0NXNpa3VkdmM2dWtucmU4ZXMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 1f58omst45sikudvc6uknre8es
+  :END:
+
+  <2017-08-16 三 20:00-21:00>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NmI0anJnbDg0M2RtNTBsNDA3aWY3cXQ1NnMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 6b4jrgl843dm50l407if7qt56s
+  :END:
+
+  <2017-08-17 四 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 学习英语
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bjBvaXJxbTFncWQ0NWJiaThqb21xbmVuc2MgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: n0oirqm1gqd45bbi8jomqnensc
+  :END:
+
+  <2017-08-18 五 19:00-19:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 跑步
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NGMwYzU1NTc3ZjV2bDJqZGdmaTVjM3B0anMgcXE3Mjc0NzQ0MzBAbQ][Go to gcal web page]]
+  :ID: 4c0c55577f5vl2jdgfi5c3ptjs
+  :END:
+
+  <2017-08-19 六 19:30-20:30>
+
+此活动是根据 Google 日历中的目标添加的。在此处对其所做的更改可能无法保存。请使用 Google 日历应用编辑和查看目标详细信息。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDgxOVQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170819T130000Z
+  :END:
+
+  <2017-08-19 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDgyNlQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170826T130000Z
+  :END:
+
+  <2017-08-26 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDkwMlQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170902T130000Z
+  :END:
+
+  <2017-09-02 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
+* 写博客
+  :PROPERTIES:
+  :LOCATION: 家
+  :LINK: [[https://www.google.com/calendar/event?eid=YzVpM2llOWk2NHE2OGI5ZzYwcjY2YjlrYzVqM2ViYjJjaGgzYWI5aDY5aW1hZWIyYzRvbTJkajM3NF8yMDE3MDkwOVQxMzAwMDBaIHFxNzI3NDc0NDMwQG0][Go to gcal web page]]
+  :ID: c5i3ie9i64q68b9g60r66b9kc5j3ebb2chh3ab9h69imaeb2c4om2dj374_20170909T130000Z
+  :END:
+
+  <2017-09-09 六 21:00-23:00>
+
+根据一周学习内容进行总结，不限制类别。
