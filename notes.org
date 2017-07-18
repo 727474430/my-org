@@ -1,94 +1,96 @@
 * Quick notes
 
-** SOMEDAY [#C] org-mode table shortcut learn:
+** org-mode table shortcut learn:                         :@org:mode:@learn:
    org-mode表格相关技巧: http://www.zmonster.me/2016/06/03/org-mode-table.html
 
-  [2017-05-24 周三 16:01]
+   [2017-05-24 周三 16:01]
 
-** SOMEDAY [#C] 临时学习:
+** 临时学习:                                                 :@emacs:@learn:
    neotree相关操作: https://my.oschina.net/u/1052657/blog/525713
 
-  [2017-05-25 周四 14:34]
+   [2017-05-25 周四 14:34]
 
-** SOMEDAY [#C] 天眼查:
-   接口文档http://open.tianyancha.com/
+** 天眼查:                                                  :@python:@learn:
+   http://open.tianyancha.com/
 
-  [2017-05-26 周五 15:09]
+   [2017-05-26 周五 15:09]
 
-** SOMEDAY [#C] org-mode GTD FAQ:
+** org-mode GTD FAQ:                                        :@org:mode:@FAQ:
    https://emacs-china.org/t/org-mode-gtd-faq/196/12
 
-  [2017-05-26 周五 15:53]
+   [2017-05-26 周五 15:53]
 
-
-** SOMEDAY [#C] 安装blog-admin 博客系统
+** 安装blog-admin 博客系统                             :@blog:admin:@config:
    http://keychar.com/2016/05/28/install-blog-admin/
 
-  [2017-05-27 周六 11:56]
+   [2017-05-27 周六 11:56]
 
-** SOMEDAY [#C] 英文单词学习：
-  http://www.hujiang.com/ciku/zuixinchuzhongcihui/
+** 英文单词学习：                                          :@english:@learn:
+   http://www.hujiang.com/ciku/zuixinchuzhongcihui/
 
-  [2017-05-30 二 14:54]
+   [2017-05-30 二 14:54]
 
-** SOMEDAY [#C] org-mode 全学习:
-  https://emacsist.github.io/emacsist/orgmode/orgmode%E6%89%8B%E5%86%8C%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html#org01dfa96
+** org-mode 全学习:                                       :@org:mode:@learn:
+   https://emacsist.github.io/emacsist/orgmode/orgmode%E6%89%8B%E5%86%8C%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.html#org01dfa96
 
-  [2017-05-30 Tue 22:02]
+   [2017-05-30 Tue 22:02]
 
-** SOMEDAY [#C] 静态博客搭建指南
-  http://lovenight.github.io/2015/11/10/Hexo-3-1-1-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/
+** 静态博客搭建指南                                          :@blog:@config:
+   http://lovenight.github.io/2015/11/10/Hexo-3-1-1-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/
 
-  [2017-05-31 Wed 21:43]
-** SOMEDAY [#C] Iterm2 Schemes Color
-  https://github.com/mbadolato/iTerm2-Color-Schemes
+   [2017-05-31 Wed 21:43]
 
-  [2017-05-31 Wed 22:12]
-** DONE [#C] Emacs：最好的Python编辑器?                       :@temp:python:
-   CLOSED: [2017-06-01 Thu 22:13]
-   :LOGBOOK:
-   - State "DONE"       from "SOMEDAY"    [2017-06-01 Thu 22:13]
-   :END:
-  http://codingpy.com/article/emacs-the-best-python-editor/
+** Iterm2 Schemes Color                                    :@iterm2:@config:
+   https://github.com/mbadolato/iTerm2-Color-Schemes
 
-  [2017-05-31 Wed 23:33]
+   [2017-05-31 Wed 22:12]
+** Emacs：最好的Python编辑器?                       :@temp:python:
+   http://codingpy.com/article/emacs-the-best-python-editor/
 
-** DONE [#C] jupyter 解决密码登陆                            :@temp:jupyter:
-   CLOSED: [2017-06-01 Thu 22:13]
-   :LOGBOOK:
-   - State "DONE"       from "TODO"       [2017-06-01 Thu 22:13]
-   :END:
+   [2017-05-31 Wed 23:33]
+
+** jupyter 解决密码登陆                                      :@temp:jupyter:
    http://www.jianshu.com/p/be11a6edb8a6
 
-  [2017-06-01 Thu 22:11]
+   [2017-06-01 Thu 22:11]
 
-** DONE jupyter 找不到path                                   :@temp:jupyter:
-   CLOSED: [2017-06-01 Thu 22:19]
-   :LOGBOOK:
-   - State "DONE"       from "TODO"       [2017-06-01 Thu 22:19]
-   :END:
+** jupyter 找不到path                                   :@temp:jupyter:
    https://github.com/jupyter/jupyter_console/issues/31
 
-  [2017-06-01 Thu 22:19]
+   [2017-06-01 Thu 22:19]
 
-** mpg123安装方式
-  http://macappstore.org/mpg123/
-  [2017-06-08 Thu 21:34]
+** mpg123安装方式                                           :@emacs:@plugin:
+   http://macappstore.org/mpg123/
 
-** Alfter Git Alias Commands
-  https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet#git
-  [2017-06-08 Thu 21:52]
+   [2017-06-08 Thu 21:34]
 
-** Alfred Workflow List
-  http://www.alfredworkflow.com/
-  [2017-06-08 Thu 21:58]
+** Alfter Git Alias Commands                               :@alfred:@plugin:
+   https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet#git
 
-** TODO [#C] Macos 破解软件下载
-  http://xclient.info/s/mind-node-pro.html?a=dl&v=2.5.1&k=0&_=416993e1707d526382a3739932817837c6ce9ec9
+   [2017-06-08 Thu 21:52]
 
-  [2017-06-08 Thu 22:00]
+** Alfred Workflow List                                     :@alfred:@plugin:
+   http://www.alfredworkflow.com/
 
-** TODO [#C] Mac 常用插件
-  https://www.waerfa.com/
+   [2017-06-08 Thu 21:58]
 
-  [2017-06-09 Fri 23:46]
+** Macos 破解软件下载                                         :@mac:@plugin:
+   http://xclient.info/s/mind-node-pro.html?a=dl&v=2.5.1&k=0&_=416993e1707d526382a3739932817837c6ce9ec9
+
+   [2017-06-08 Thu 22:00]
+
+** Mac 常用插件                                               :@mac:@plugin:
+   https://www.waerfa.com/
+
+   [2017-06-09 Fri 23:46]
+
+** Chrom 扩展插件                                          :@chrome:@plugin:
+   新媒体管家: 管理文章信息
+   https://xmt.cn/plugin/install
+
+   [2017-07-18 二 09:00]
+
+** Chorme JSONView                                          :chrome:@plugin:
+   格式化json数据: 扩展程序
+
+  [2017-07-18 二 18:12]

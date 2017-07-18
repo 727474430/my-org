@@ -62,8 +62,7 @@
    :END:
    [[Article Infos][技术文章学习信息]]
 
-** DONE [#B] Portal紧急需求转测、针对Bug做相应修改                    :@work:
-   CLOSED: [2017-05-26 周五 11:26] DEADLINE: <2017-05-26 周五26 周五 13:40>
+** DONE [#B] Portal紧急需求转测、针对Bug做相应修改                    :@work: CLOSED: [2017-05-26 周五 11:26] DEADLINE: <2017-05-26 周五26 周五 13:40>
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-05-26 周五 13:57]
      CLOCK: [2017-05-26 周五 13:40]--[2017-05-26 周五 13:57] =>  0:17
@@ -98,7 +97,10 @@
      CLOCK: [2017-05-31 周三 16:12]--[2017-05-31 周三 16:37] =>  0:25
    :END:
 
+
 ** DONE [#B] Portal验证码开关(便于自动化测试使用)                    :@work:
+
+
    CLOSED: [2017-06-01 周四 11:38] SCHEDULED: <2017-06-01 周四 10:00>
    :PROPERTIES:
    :Effort:   02:00
@@ -326,6 +328,33 @@
    CLOCK: [2017-07-17 一 17:18]--[2017-07-17 一 18:14] =>  0:56
    :END:
    - [X] Portal 姓名、身份证商品没有呈现出来.
+
+** TODO [#A] 09:10 早会                                       :office:@work:
+   <%%(and (= 1 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
+   <%%(and (= 2 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
+   <%%(and (= 3 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
+   <%%(and (= 4 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
+   <%%(and (= 5 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
+
+** DONE [#B] 学习org-mode复杂日期实现                         :office@learn:
+   CLOSED: [2017-07-18 二 14:30] SCHEDULED: <2017-07-18 二 10:50>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-18 二 14:30]
+   CLOCK: [2017-07-18 二 10:45]--[2017-07-18 二 11:37] =>  0:52
+   :END:
+   http://www.gnu.org/software/emacs/manual/html_node/emacs/Sexp-Diary-Entries.html#Sexp-Diary-Entries
+   http://orgmode.org/org.html#Timestamps
+
+** CANCELLED [#B] Portal 全选呈现问题                         :office:@temp:
+   CLOSED: [2017-07-18 二 18:13] SCHEDULED: <2017-07-18 二 16:10>
+   :LOGBOOK:
+   - State "CANCELLED"  from "WAITING"    [2017-07-18 二 18:13] \\
+     不知道什么问题.
+   - State "WAITING"    from "STARTED"    [2017-07-18 二 16:36] \\
+     未解决
+   CLOCK: [2017-07-18 二 16:11]--[2017-07-18 二 16:36] =>  0:25
+   :END:
+   - [ ] 全选呈现一直不断刷新网页: net::ERR_INCOMPLETE_CHUNKED_ENCODING
 
 * Once a month
 ** TODO [#B] Give back credit card
@@ -605,79 +634,85 @@
   #+TBLFM: @1='(kanban-headers $#)::@2$1..@>$>='(kanban-zero @# $#)
 
   #+BEGIN: columnview :hlines 1 :id global
-  | ITEM                                  | TODO      | PRIORITY | TAGS             |
-  |---------------------------------------+-----------+----------+------------------|
-  | Workspace                             |           | B        |                  |
-  | English twenty words a day            | TODO      | A        | :home:@learn:    |
-  | Technical Article Reading             | TODO      | A        | :home:@learn:    |
-  | Portal紧急需求转测、针对Bug做相应修改 | DONE      | B        | :@work:          |
-  | 节日前上线Bug整改                     | DONE      | B        | :@work:          |
-  | 学习使用Intellij 搭建Java             | DONE      | B        | :@learn:         |
-  | 场景化商品调整后不展示                | DONE      | B        | :@temp:          |
-  | Portal验证码开关(便于自动化测试使用)  | DONE      | B        | :@work:          |
-  | 将登陆页面验证码去掉                  | DONE      | B        | :@temp:          |
-  | Portal场景化产品及呈现更改            | DONE      | B        | :@work:          |
-  | Google Canlander Combination          | DONE      | B        | :@learn:         |
-  | Portal预付费及后付费功能调整          | DONE      | A        | :office:@work:   |
-  | 意高系统架构                          | CANCELLED | C        | :office:@free:   |
-  | Portal场景化功能转测                  | DONE      | A        | :office:@work:   |
-  | Learn emacs `bing-dict` plugin        | DONE      | B        | :office:@learn:  |
-  | 保利国际看电影：新木乃伊              | DONE      | B        | :home@paly:      |
-  | Hack MacOS                            | DONE      | A        | :home@hack:      |
-  | Study At Starbucks                    | DONE      | B        | :outside:@learn: |
-  | 跑步锻炼                              | DONE      | B        | :outside:@habit: |
-  | Config better the idea tools          | DONE      | B        | :home@hack:      |
-  | StarBucks Learn                       | DONE      | B        | :outside@learn:  |
-  | Learn Java8 New Features              | DONE      | B        | :home@learn:     |
-  | Learn Java Content                    | DONE      | B        | :home@learn:     |
-  | Web Learn                             | DONE      | B        | :home@learn:     |
-  | StarBucks Learn                       | DONE      | B        | :outside@learn:  |
-  | Portal Bug Modify                     | DONE      | B        | :office:@work:   |
-  | Api Bug Modify                        | DONE      | B        | :office:@wrok:   |
-  | Api 备选接口不可用                    | DONE      | B        | :office:@temp:   |
-  | Portal 姓名、身份证 不呈现            | DONE      | B        | :office:@temp:   |
-  |---------------------------------------+-----------+----------+------------------|
-  | Once a month                          |           | B        |                  |
-  | Give back credit card                 | TODO      | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Every Week                            |           | B        |                  |
-  | Writing Blog(sum up experience)       | TODO      | A        | :home@blog:      |
-  |---------------------------------------+-----------+----------+------------------|
-  | Everyday                              |           | B        |                  |
-  | 2017-05-30 Study                      |           | B        |                  |
-  | 2017-05-31 Study                      |           | B        |                  |
-  | 2017-06-01 Study                      |           | B        |                  |
-  | 2017-06-02 Study                      |           | B        |                  |
-  | 2017-06-13 Study                      |           | B        |                  |
-  | 2017-06-13 Study                      |           | B        |                  |
-  | 2017-07-16 Study                      |           | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Project Development                   |           | B        |                  |
-  | 构建Kotlin And Spring Boot项目        | DONE      | B        | :home:@project:  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Emergency Requirements                |           | B        |                  |
-  | Portal场景化余额提醒Bug修改           | DONE      | A        | :office:@work:   |
-  |---------------------------------------+-----------+----------+------------------|
-  | Reading                               |           | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Kanban                                |           | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Last Week                             |           | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Daily Summary                         |           | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Weekly Work Statistics                |           | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Monthly Work Statistics               |           | B        |                  |
-  |---------------------------------------+-----------+----------+------------------|
-  | Annual Every Year                     |           | B        |                  |
+  | ITEM                                                                                                                     | TODO      | PRIORITY | TAGS             |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Workspace                                                                                                                |           | B        |                  |
+  | English twenty words a day                                                                                               | TODO      | A        | :home:@learn:    |
+  | Technical Article Reading                                                                                                | TODO      | A        | :home:@learn:    |
+  | Portal紧急需求转测、针对Bug做相应修改                    :@work: CLOSED: [2017-05-26 五 11:26] DEADLINE: <2017-05-26 五> | DONE      | B        |                  |
+  | 节日前上线Bug整改                                                                                                        | DONE      | B        | :@work:          |
+  | 学习使用Intellij 搭建Java                                                                                                | DONE      | B        | :@learn:         |
+  | 场景化商品调整后不展示                                                                                                   | DONE      | B        | :@temp:          |
+  | Portal验证码开关(便于自动化测试使用)                                                                                     | DONE      | B        | :@work:          |
+  | 将登陆页面验证码去掉                                                                                                     | DONE      | B        | :@temp:          |
+  | Portal场景化产品及呈现更改                                                                                               | DONE      | B        | :@work:          |
+  | Google Canlander Combination                                                                                             | DONE      | B        | :@learn:         |
+  | Portal预付费及后付费功能调整                                                                                             | DONE      | A        | :office:@work:   |
+  | 意高系统架构                                                                                                             | CANCELLED | C        | :office:@free:   |
+  | Portal场景化功能转测                                                                                                     | DONE      | A        | :office:@work:   |
+  | Learn emacs `bing-dict` plugin                                                                                           | DONE      | B        | :office:@learn:  |
+  | 保利国际看电影：新木乃伊                                                                                                 | DONE      | B        | :home@paly:      |
+  | Hack MacOS                                                                                                               | DONE      | A        | :home@hack:      |
+  | Study At Starbucks                                                                                                       | DONE      | B        | :outside:@learn: |
+  | 跑步锻炼                                                                                                                 | DONE      | B        | :outside:@habit: |
+  | Config better the idea tools                                                                                             | DONE      | B        | :home@hack:      |
+  | StarBucks Learn                                                                                                          | DONE      | B        | :outside@learn:  |
+  | Learn Java8 New Features                                                                                                 | DONE      | B        | :home@learn:     |
+  | Learn Java Content                                                                                                       | DONE      | B        | :home@learn:     |
+  | Web Learn                                                                                                                | DONE      | B        | :home@learn:     |
+  | StarBucks Learn                                                                                                          | DONE      | B        | :outside@learn:  |
+  | Portal Bug Modify                                                                                                        | DONE      | B        | :office:@work:   |
+  | Api Bug Modify                                                                                                           | DONE      | B        | :office:@wrok:   |
+  | Api 备选接口不可用                                                                                                       | DONE      | B        | :office:@temp:   |
+  | Portal 姓名、身份证 不呈现                                                                                               | DONE      | B        | :office:@temp:   |
+  | 09:10 早会                                                                                                               | TODO      | A        | :office:@work:   |
+  | 学习org-mode复杂日期实现                                                                                                 | DONE      | B        | :office@learn:   |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Once a month                                                                                                             |           | B        |                  |
+  | Give back credit card                                                                                                    | TODO      | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Every Week                                                                                                               |           | B        |                  |
+  | Writing Blog(sum up experience)                                                                                          | TODO      | A        | :home@blog:      |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Everyday                                                                                                                 |           | B        |                  |
+  | 2017-05-30 Study                                                                                                         |           | B        |                  |
+  | 2017-05-31 Study                                                                                                         |           | B        |                  |
+  | 2017-06-01 Study                                                                                                         |           | B        |                  |
+  | 2017-06-02 Study                                                                                                         |           | B        |                  |
+  | 2017-06-13 Study                                                                                                         |           | B        |                  |
+  | 2017-06-13 Study                                                                                                         |           | B        |                  |
+  | 2017-07-16 Study                                                                                                         |           | B        |                  |
+  | 2017-07-16 Study                                                                                                         |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Project Development                                                                                                      |           | B        |                  |
+  | 构建Kotlin And Spring Boot项目                                                                                           | DONE      | B        | :home:@project:  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Emergency Requirements                                                                                                   |           | B        |                  |
+  | Portal场景化余额提醒Bug修改                                                                                              | DONE      | A        | :office:@work:   |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Reading                                                                                                                  |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Kanban                                                                                                                   |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Last Week                                                                                                                |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Daily Summary                                                                                                            |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Weekly Work Statistics                                                                                                   |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Monthly Work Statistics                                                                                                  |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Annual Every Year                                                                                                        |           | B        |                  |
+  |--------------------------------------------------------------------------------------------------------------------------+-----------+----------+------------------|
+  | Eagle                                                                                                                    |           | B        |                  |
+  | Portal 运营商商品呈现问题                                                                                                | DONE      | A        |                  |
   #+END:
 * Last Week
   #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block lastweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for week 2017-W28.
-  | File | Headline         | Time   |   |
-  |------+------------------+--------+---|
-  |      | ALL *Total time* | *0:00* |   |
+  #+CAPTION: Clock summary at [2017-07-18 二 14:38], for week 2017-W28.
+  | File | Headline         | Time   |
+  |------+------------------+--------|
+  |      | ALL *Total time* | *0:00* |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -688,28 +723,32 @@
   #+RESULTS:
 * Daily Summary
   #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block today :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for Monday, July 17, 2017.
-  | File    | Headline                       | Time   |      |
-  |---------+--------------------------------+--------+------|
-  |         | ALL *Total time*               | *1:21* |      |
-  |---------+--------------------------------+--------+------|
-  | gtd.org | *File time*                    | *1:21* |      |
-  |         | Workspace                      | 1:21   |      |
-  |         | \_  Api 备选接口不可用         |        | 0:25 |
-  |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
+  #+CAPTION: Clock summary at [2017-07-18 二 14:38], for 星期二, 七月 18, 2017.
+  | File    | Headline                      | Time   |      |
+  |---------+-------------------------------+--------+------|
+  |         | ALL *Total time*              | *1:17* |      |
+  |---------+-------------------------------+--------+------|
+  | gtd.org | *File time*                   | *1:17* |      |
+  |         | Workspace                     | 0:52   |      |
+  |         | \_  学习org-mode复杂日期实现  |        | 0:52 |
+  |         | Eagle                         | 0:25   |      |
+  |         | \_  Portal 运营商商品呈现问题 |        | 0:25 |
   #+END:
 
 * Weekly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for week 2017-W29.
+  #+CAPTION: Clock summary at [2017-07-18 二 14:38], for week 2017-W29.
   | File    | Headline                       | Time   |      |
   |---------+--------------------------------+--------+------|
-  |         | ALL *Total time*               | *1:21* |      |
+  |         | ALL *Total time*               | *2:38* |      |
   |---------+--------------------------------+--------+------|
-  | gtd.org | *File time*                    | *1:21* |      |
-  |         | Workspace                      | 1:21   |      |
+  | gtd.org | *File time*                    | *2:38* |      |
+  |         | Workspace                      | 2:13   |      |
   |         | \_  Api 备选接口不可用         |        | 0:25 |
   |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
+  |         | \_  学习org-mode复杂日期实现   |        | 0:52 |
+  |         | Eagle                          | 0:25   |      |
+  |         | \_  Portal 运营商商品呈现问题  |        | 0:25 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -719,15 +758,18 @@
 
 * Monthly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thismonth :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for July 2017.
+  #+CAPTION: Clock summary at [2017-07-18 二 14:38], for 七月 2017.
   | File    | Headline                       | Time   |      |
   |---------+--------------------------------+--------+------|
-  |         | ALL *Total time*               | *1:21* |      |
+  |         | ALL *Total time*               | *2:38* |      |
   |---------+--------------------------------+--------+------|
-  | gtd.org | *File time*                    | *1:21* |      |
-  |         | Workspace                      | 1:21   |      |
+  | gtd.org | *File time*                    | *2:38* |      |
+  |         | Workspace                      | 2:13   |      |
   |         | \_  Api 备选接口不可用         |        | 0:25 |
   |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
+  |         | \_  学习org-mode复杂日期实现   |        | 0:52 |
+  |         | Eagle                          | 0:25   |      |
+  |         | \_  Portal 运营商商品呈现问题  |        | 0:25 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -737,36 +779,64 @@
 
 * Annual Every Year
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisyear :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-17 Mon 23:05], for the year 2017.
-  | File    | Headline                                  | Time       |          |
-  |---------+-------------------------------------------+------------+----------|
-  |         | ALL *Total time*                          | *2d 12:20* |          |
-  |---------+-------------------------------------------+------------+----------|
-  | gtd.org | *File time*                               | *2d 12:20* |          |
-  |         | Workspace                                 | 2d 10:34   |          |
-  |         | \_  English twenty words a day            |            |     0:40 |
-  |         | \_  Technical Article Reading             |            |     5:05 |
-  |         | \_  Portal紧急需求转测、针对Bug做相应修改 |            |     0:17 |
-  |         | \_  节日前上线Bug整改                     |            |     0:13 |
-  |         | \_  学习使用Intellij 搭建Java             |            |     0:38 |
-  |         | \_  场景化商品调整后不展示                |            |     0:50 |
-  |         | \_  Portal场景化产品及呈现更改 [100%]     |            |     0:47 |
-  |         | \_  Portal预付费及后付费功能调整 [100%]   |            | 1d 12:05 |
-  |         | \_  Portal场景化功能转测                  |            |     0:20 |
-  |         | \_  Learn emacs `bing-dict` plugin        |            |     0:22 |
-  |         | \_  Hack MacOS                            |            |     1:28 |
-  |         | \_  Study At Starbucks                    |            |     1:27 |
-  |         | \_  跑步锻炼                              |            |     0:52 |
-  |         | \_  Config better the idea tools          |            |     0:53 |
-  |         | \_  StarBucks Learn                       |            |     1:27 |
-  |         | \_  Learn Java8 New Features [4/4]        |            |     1:47 |
-  |         | \_  Learn Java Content                    |            |     1:54 |
-  |         | \_  Web Learn                             |            |     0:15 |
-  |         | \_  StarBucks Learn                       |            |     1:53 |
-  |         | \_  Api 备选接口不可用                    |            |     0:25 |
-  |         | \_  Portal 姓名、身份证 不呈现            |            |     0:56 |
-  |         | Every Week                                | 1:21       |          |
-  |         | \_  Writing Blog(sum up experience)       |            |     1:21 |
-  |         | Emergency Requirements                    | 0:25       |          |
-  |         | \_  Portal场景化余额提醒Bug修改           |            |     0:25 |
+  #+CAPTION: Clock summary at [2017-07-18 二 14:38], for the year 2017.
+  | File    | Headline                                     | Time       |          |
+  |---------+----------------------------------------------+------------+----------|
+  |         | ALL *Total time*                             | *2d 13:37* |          |
+  |---------+----------------------------------------------+------------+----------|
+  | gtd.org | *File time*                                  | *2d 13:37* |          |
+  |         | Workspace                                    | 2d 11:26   |          |
+  |         | \_  English twenty words a day               |            |     0:40 |
+  |         | \_  Technical Article Reading                |            |     5:05 |
+  |         | \_  Portal紧急需求转测、针对Bug做相应修改... |            |     0:17 |
+  |         | \_  节日前上线Bug整改                        |            |     0:13 |
+  |         | \_  学习使用Intellij 搭建Java                |            |     0:38 |
+  |         | \_  场景化商品调整后不展示                   |            |     0:50 |
+  |         | \_  Portal场景化产品及呈现更改 [100%]        |            |     0:47 |
+  |         | \_  Portal预付费及后付费功能调整 [100%]      |            | 1d 12:05 |
+  |         | \_  Portal场景化功能转测                     |            |     0:20 |
+  |         | \_  Learn emacs `bing-dict` plugin           |            |     0:22 |
+  |         | \_  Hack MacOS                               |            |     1:28 |
+  |         | \_  Study At Starbucks                       |            |     1:27 |
+  |         | \_  跑步锻炼                                 |            |     0:52 |
+  |         | \_  Config better the idea tools             |            |     0:53 |
+  |         | \_  StarBucks Learn                          |            |     1:27 |
+  |         | \_  Learn Java8 New Features [4/4]           |            |     1:47 |
+  |         | \_  Learn Java Content                       |            |     1:54 |
+  |         | \_  Web Learn                                |            |     0:15 |
+  |         | \_  StarBucks Learn                          |            |     1:53 |
+  |         | \_  Api 备选接口不可用                       |            |     0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现               |            |     0:56 |
+  |         | \_  学习org-mode复杂日期实现                 |            |     0:52 |
+  |         | Every Week                                   | 1:21       |          |
+  |         | \_  Writing Blog(sum up experience)          |            |     1:21 |
+  |         | Emergency Requirements                       | 0:25       |          |
+  |         | \_  Portal场景化余额提醒Bug修改              |            |     0:25 |
+  |         | Eagle                                        | 0:25       |          |
+  |         | \_  Portal 运营商商品呈现问题                |            |     0:25 |
   #+END:
+* Eagle
+
+** DONE [#A] Portal 运营商商品呈现问题
+   CLOSED:[2017-07-18 二 12:04] SCHEDULED: <2017-07-18 二 11:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-18 二 12:04]
+   CLOCK: [2017-07-18 二 11:38]--[2017-07-18 二 12:03] =>  0:25
+   :END:
+
+** WAITING [#A] Portal 接入微众税银 [4/5]                     :office:@work:
+   SCHEDULED: <2017-07-18 二 15:05>
+   :LOGBOOK:
+   - State "WAITING"    from "STARTED"    [2017-07-18 二 16:09] \\
+     解决Bug
+   - State "STARTED"    from "WAITING"    [2017-07-18 二 15:38]
+   CLOCK: [2017-07-18 二 15:38]--[2017-07-18 二 16:09] =>  0:31
+   - State "WAITING"    from "STARTED"    [2017-07-18 二 15:19] \\
+     临时有事, 耽搁一下.
+   CLOCK: [2017-07-18 二 15:11]--[2017-07-18 二 15:19] =>  0:08
+   :END:
+   - [X] 添加ApiSpec
+   - [X] 添加Product
+   - [X] 添加Goods
+   - [X] 添加查询条件: 企业名称、税务识别码.
+   - [ ] 调取数据回来
