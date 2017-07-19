@@ -330,6 +330,9 @@
    - [X] Portal 姓名、身份证商品没有呈现出来.
 
 ** TODO [#A] 09:10 早会                                       :office:@work:
+   :LOGBOOK:
+   CLOCK: [2017-07-19 三 09:11]--[2017-07-19 三 09:18] =>  0:07
+   :END:
    <%%(and (= 1 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
    <%%(and (= 2 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
    <%%(and (= 3 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
@@ -840,3 +843,8 @@
    - [X] 添加Goods
    - [X] 添加查询条件: 企业名称、税务识别码.
    - [ ] 调取数据回来
+
+** TODO [#A] 微众税银 [0/2]                                   :office:@work:
+   SCHEDULED: <2017-07-19 三 09:40>
+   - [ ] Portal数据呈现
+   - [ ] Api端接入数据同步
