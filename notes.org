@@ -94,3 +94,8 @@
    格式化json数据: 扩展程序
 
   [2017-07-18 二 18:12]
+
+** Rest Client Api Test                                    :@chrome:@plugin:
+   Rest 请求工具: https://github.com/datura-lj/development-tool/blob/master/chrome_plugin/extension_2_3_2_DHC.crx
+
+  [2017-07-19 三 16:23]

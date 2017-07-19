@@ -22,13 +22,15 @@
    [[English Learn][英文单词学习]]
 
 ** TODO [#A] Technical Article Reading                         :home:@learn:
-   DEADLINE: <2017-07-18 Tue 22:00 ++1d>
+   DEADLINE: <2017-07-19 三 22:00 ++1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-07-17 Mon 23:05]
+   :LAST_REPEAT: [2017-07-19 三 16:06]
    :Effort:   00:30
    :ORDERED:  t
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-19 三 16:06]
+   CLOCK: [2017-07-19 三 15:36]--[2017-07-19 三 16:06] =>  0:30
    - State "DONE"       from "STARTED"    [2017-07-17 Mon 23:05]
    - State "DONE"       from "STARTED"    [2017-06-22 Thu 22:27]
    CLOCK: [2017-06-22 Thu 21:39]--[2017-06-22 Thu 22:27] =>  0:48
@@ -619,6 +621,7 @@
   | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |
   | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |
   | Blog      | Git Remote Operator     | http://www.ruanyifeng.com/blog/2014/06/git_remote.html      | <2017-07-17 Mon 23:00>  |
+  | 简书      | json-server 结合 mockjs | http://www.jianshu.com/p/95b634c82165                       | <2017-07-19 三 16:00>   |
   |           |                         |                                                             |                         |
 
 * Kanban
