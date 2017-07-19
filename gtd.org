@@ -358,7 +358,7 @@
 
 * Once a month
 ** TODO [#B] Give back credit card
-   DEADLINE: <2017-07-25 Tue 12:00>
+   DEADLINE: <2017-07-25 Tue 12:00 -3d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-06-25 Sun 21:50]
    :END:
@@ -368,7 +368,7 @@
 
 * Every Week
 ** TODO [#A] Writing Blog(sum up experience)                     :home@blog:
-   DEADLINE: <2017-07-22 Sat 23:00 ++1w -3d>
+   DEADLINE: <2017-07-22 Sat 23:00 ++1w -1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-06-17 Sat 21:16]
    :END:
