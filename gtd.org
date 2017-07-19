@@ -827,9 +827,11 @@
    CLOCK: [2017-07-18 二 11:38]--[2017-07-18 二 12:03] =>  0:25
    :END:
 
-** WAITING [#A] Portal 接入微众税银 [4/5]                     :office:@work:
-   SCHEDULED: <2017-07-18 二 15:05>
+** DONE [#A] Portal 接入微众税银 [5/5]                        :office:@work:
+   CLOSED: [2017-07-19 三 09:49] SCHEDULED: <2017-07-18 二 15:05>
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-19 三 09:49]
+   CLOCK: [2017-07-19 三 09:37]--[2017-07-19 三 09:47] =>  0:10
    - State "WAITING"    from "STARTED"    [2017-07-18 二 16:09] \\
      解决Bug
    - State "STARTED"    from "WAITING"    [2017-07-18 二 15:38]
@@ -842,9 +844,17 @@
    - [X] 添加Product
    - [X] 添加Goods
    - [X] 添加查询条件: 企业名称、税务识别码.
-   - [ ] 调取数据回来
+   - [X] 调取数据回来
 
-** TODO [#A] 微众税银 [0/2]                                   :office:@work:
-   SCHEDULED: <2017-07-19 三 09:40>
-   - [ ] Portal数据呈现
-   - [ ] Api端接入数据同步
+** DONE [#A] 微众税银 [2/2]                                   :office:@work:
+   CLOSED: [2017-07-19 三 14:43] SCHEDULED: <2017-07-19 三 09:40>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-19 三 14:43]
+   - State "STARTED"    from "WAITING"    [2017-07-19 三 14:00]
+   CLOCK: [2017-07-19 三 14:00]--[2017-07-19 三 14:43] =>  0:43
+   - State "WAITING"    from "STARTED"    [2017-07-19 三 11:24] \\
+     数据库被修改(作性能测试),导致无法继续开发
+   CLOCK: [2017-07-19 三 09:50]--[2017-07-19 三 11:24] =>  1:34
+   :END:
+   - [X] Portal数据呈现
+   - [X] Api端接入数据同步
