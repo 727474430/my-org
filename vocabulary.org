@@ -1,4 +1,20 @@
 * Vocabulary
+** lab [læb]
+n. 〈非正式〉实验室；研究室；【动】拉布拉多猎犬 | 网络 烷基苯；乳酸菌(Lactobacillus) | Synonym n. workroom,workshop,test center,test bed,laboratory
+** knowledge ['nɒlɪdʒ]
+n. 知识；了解；学问；学识 | 网络 知道；专业知识；认识 | Synonym n. acquaintance,familiarity,awareness,understanding,comprehension | Antonym n. ignorance
+** knock [nɒk]
+v. 敲；撞；击；打 | n. 撞击；敲击；敲击声；敲门（或窗等）声 | 网络 敲打；爆震 | Synonym v. criticize,slam,put down,disparage,collide n. blow,collision,hit,bash,bump | Antonym v. praise
+** knee [niː]
+n. 膝关节；膝盖；（裤子的）膝部；（坐下时）大腿朝上的面 | v. 用膝盖顶（或撞） | 网络 拐点；弯头；弯曲处
+** kite [kaɪt]
+n. 风筝；鸢（猛禽） | v. 使用（非法支票）骗钱；涂改（支票） | 网络 空头支票；凯特；鹞
+** kitchen 
+n. 厨房 | adj. 厨房的；炊事的 | 网络 炊具；灶间；餐厨用具 | Synonym n. bakery,caboose,galley,kitchenette,pantry
+** kind [kaɪnd]
+n. 种类；同类的人（或事物） | adj. 体贴的；慈祥的；友好的；宽容的 | 网络 和蔼的；善良的；仁慈的 | Synonym adj. caring,nice,sympathetic,generous,gentle n. type,sort,class,variety,brand | Antonym adj. inhumane
+** kilo ['kiːləʊ]
+n. 公斤；公里千米；同“kilolitre. &amp;c” | 网络 千克；基洛；基洛级
 ** 一次 [yī cì] [yí cì] 
 na. once; 【电】primary; 【数】linear | 网络 at a time; one time; Primary
 ** However [haʊ'evə(r)]
