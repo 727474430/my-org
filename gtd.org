@@ -333,6 +333,7 @@
 
 ** TODO [#A] 09:10 早会                                       :office:@work:
    :LOGBOOK:
+   CLOCK: [2017-07-20 四 09:12]--[2017-07-20 四 09:18] =>  0:06
    CLOCK: [2017-07-19 三 09:11]--[2017-07-19 三 09:18] =>  0:07
    :END:
    <%%(and (= 1 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
@@ -861,3 +862,18 @@
    :END:
    - [X] Portal数据呈现
    - [X] Api端接入数据同步
+
+** DONE [#A] Portal 微众税银展示                              :office:@work:
+   CLOSED: [2017-07-20 四 14:10] SCHEDULED: <2017-07-20 四 09:40>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-20 四 14:10]
+   - State "STARTED"    from "WAITING"    [2017-07-20 四 13:46]
+   CLOCK: [2017-07-20 四 13:46]--[2017-07-20 四 14:10] =>  0:24
+   - State "WAITING"    from "STARTED"    [2017-07-20 四 12:55] \\
+     午休
+   - State "STARTED"    from "WAITING"    [2017-07-20 四 11:20]
+   CLOCK: [2017-07-20 四 11:20]--[2017-07-20 四 12:00] =>  0:40
+   - State "WAITING"    from "STARTED"    [2017-07-20 四 10:35] \\
+     返回数据结构不清晰,等待修改.
+   CLOCK: [2017-07-20 四 09:35]--[2017-07-20 四 10:35] =>  1:00
+   :END:

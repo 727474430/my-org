@@ -1,4 +1,8 @@
 * Vocabulary
+** 一次 [yī cì] [yí cì] 
+na. once; 【电】primary; 【数】linear | 网络 at a time; one time; Primary
+** However [haʊ'evə(r)]
+adv. 然而；不过；无论如何；不管怎样 | conj. 不管用什么方法；〈古〉虽然 | 网络 可是；但是；转折 | Synonym adv. though,but,on the other hand,yet,still | Antonym adv. also
 ** Gate [ɡeɪt]
 n. 闸门；大门；大门口；登机门 | v. 在…装门；(英大学)禁止(学生)外出；用门控制 | 网络 登机口；浇口；闸极 | Synonym n. entrance,entry,door,gateway,opening
 ** Special ['speʃl]
