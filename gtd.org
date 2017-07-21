@@ -21,14 +21,16 @@
    :END:
    [[English Learn][英文单词学习]]
 
-** TODO [#A] Technical Article Reading                        :home:@learn:
-   DEADLINE: <2017-07-19 三 22:00 ++1d>
+** TODO [#A] Technical Article Reading                         :home:@learn:
+   DEADLINE: <2017-07-21 五 22:00 ++1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-07-19 三 16:06]
+   :LAST_REPEAT: [2017-07-21 五 16:03]
    :Effort:   00:30
    :ORDERED:  t
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-21 五 16:03]
+   CLOCK: [2017-07-21 五 15:19]--[2017-07-21 五 16:00]
    - State "DONE"       from "STARTED"    [2017-07-19 三 16:06]
    CLOCK: [2017-07-19 三 15:36]--[2017-07-19 三 16:06] =>  0:30
    - State "DONE"       from "STARTED"    [2017-07-18 Tue 23:43]
@@ -334,8 +336,9 @@
    :END:
    - [X] Portal 姓名、身份证商品没有呈现出来.
 
-** TODO [#A] 09:10 早会                                       :office:@work:
+** STARTED [#A] 09:10 早会                                    :office:@work:
    :LOGBOOK:
+   CLOCK: [2017-07-21 五 09:17]--[2017-07-21 五 09:31] =>  0:14
    CLOCK: [2017-07-20 四 09:12]--[2017-07-20 四 09:18] =>  0:06
    CLOCK: [2017-07-19 三 09:11]--[2017-07-19 三 09:18] =>  0:07
    :END:
@@ -623,25 +626,26 @@
 
 * Reading
   <<Article Infos>>
-  | Source    | Title                   | Link                                                        | Read Date               |
-  |-----------+-------------------------+-------------------------------------------------------------+-------------------------|
-  | 掘金      | Git Commit Message      | https://juejin.im/post/59110c322f301e0057e4c182             | <2017-05-30 Tue 15:00>  |
-  | 掘金      | Git Rollback Method     | https://juejin.im/post/5927c630ac502e006c545095             | <2017-05-31 周三 17:30> |
-  | CSDN      | 代码审查注意什么        | http://www.jianshu.com/p/2c43516b9ea1                       | <2017-06-01 周四 17:10> |
-  | 掘金      | Git干货系列5            | https://juejin.im/post/59309a070ce4630057ef5f6d             | <2017-06-03 Sat 15:00>  |
-  | 简述      | Java8实战之-Lambda      | http://www.jianshu.com/p/ddf345983164                       | <2017-06-18 Sun 15:00>  |
-  | 开源中国  | Java8 默认函数式接口    | https://my.oschina.net/u/576554/blog/535010                 | <2017-06-18 Sun 21:35>  |
-  | ImportNew | java8 Lambda 10个示例   | http://www.importnew.com/16436.html                         | <2017-06-18 Sun 22:30>  |
-  | Blog      | Java8 Optional使用      | https://unmi.cc/proper-ways-of-using-java8-optional/        | <2017-06-18 Sun 23:00>  |
-  | Blog      | Intellij Idea配置       | https://itjh.net/2016/08/18/idea-good-conf/                 | <2017-06-19 Mon 20:50>  |
-  | Blog      | Idea Live Template      | http://blog.xiaohansong.com/2017/03/17/idea-live-templates/ | <2017-06-19 Mon 22:10>  |
-  | 掘金      | Swagger 编写Api文档     | https://juejin.im/entry/580457030bd1d0005812a700            | <2017-06-20 Tue 22:30>  |
-  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |
-  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                      | <2017-06-21 Wed 22:00>  |
-  | Blog      | Git Remote Operator     | http://www.ruanyifeng.com/blog/2014/06/git_remote.html      | <2017-07-17 Mon 23:00>  |
-  | Youtube   | Magit Using             | [[https://www.youtube.com/watch?v=SQCjXCjUVzc&list=PLZx9tb9Niew-_5L1NGVPBibUy6XcYZOFl&index=4][子龙山人Magit]]                                               | <2017-07-18 Tue 23:00>  |
-  | 简书      | json-server 结合 mockjs | http://www.jianshu.com/p/95b634c82165                       | <2017-07-19 三 16:00>   |
-  |           |                         |                                                             |                         |
+  | Source    | Title                   | Link                                                                           | Read Date               |
+  |-----------+-------------------------+--------------------------------------------------------------------------------+-------------------------|
+  | 掘金      | Git Commit Message      | https://juejin.im/post/59110c322f301e0057e4c182                                | <2017-05-30 Tue 15:00>  |
+  | 掘金      | Git Rollback Method     | https://juejin.im/post/5927c630ac502e006c545095                                | <2017-05-31 周三 17:30> |
+  | CSDN      | 代码审查注意什么        | http://www.jianshu.com/p/2c43516b9ea1                                          | <2017-06-01 周四 17:10> |
+  | 掘金      | Git干货系列5            | https://juejin.im/post/59309a070ce4630057ef5f6d                                | <2017-06-03 Sat 15:00>  |
+  | 简述      | Java8实战之-Lambda      | http://www.jianshu.com/p/ddf345983164                                          | <2017-06-18 Sun 15:00>  |
+  | 开源中国  | Java8 默认函数式接口    | https://my.oschina.net/u/576554/blog/535010                                    | <2017-06-18 Sun 21:35>  |
+  | ImportNew | java8 Lambda 10个示例   | http://www.importnew.com/16436.html                                            | <2017-06-18 Sun 22:30>  |
+  | Blog      | Java8 Optional使用      | https://unmi.cc/proper-ways-of-using-java8-optional/                           | <2017-06-18 Sun 23:00>  |
+  | Blog      | Intellij Idea配置       | https://itjh.net/2016/08/18/idea-good-conf/                                    | <2017-06-19 Mon 20:50>  |
+  | Blog      | Idea Live Template      | http://blog.xiaohansong.com/2017/03/17/idea-live-templates/                    | <2017-06-19 Mon 22:10>  |
+  | 掘金      | Swagger 编写Api文档     | https://juejin.im/entry/580457030bd1d0005812a700                               | <2017-06-20 Tue 22:30>  |
+  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                                         | <2017-06-21 Wed 22:00>  |
+  | Blog      | Spring boot Mybatis配置 | http://blog.didispace.com/mybatisinfo/                                         | <2017-06-21 Wed 22:00>  |
+  | Blog      | Git Remote Operator     | http://www.ruanyifeng.com/blog/2014/06/git_remote.html                         | <2017-07-17 Mon 23:00>  |
+  | Youtube   | Magit Using             | [[https://www.youtube.com/watch?v=SQCjXCjUVzc&list=PLZx9tb9Niew-_5L1NGVPBibUy6XcYZOFl&index=4][子龙山人Magit]]                                                                  | <2017-07-18 Tue 23:00>  |
+  | 简书      | json-server 结合 mockjs | http://www.jianshu.com/p/95b634c82165                                          | <2017-07-19 三 16:00>   |
+  | Github    | Meghanada Using         | https://github.com/mopemope/meghanada-emacs#meghanada-local-variable-c-c-c-r-r | <2017-07-21 五 15:20>   |
+  |           |                         |                                                                                |                         |
 
 * Kanban
   | TODO                           | STARTED | DONE                                  |
@@ -690,7 +694,7 @@
   | Api Bug Modify                        | DONE      | B        | :office:@wrok:   |
   | Api 备选接口不可用                    | DONE      | B        | :office:@temp:   |
   | Portal 姓名、身份证 不呈现            | DONE      | B        | :office:@temp:   |
-  | 09:10 早会                            | TODO      | A        | :office:@work:   |
+  | 09:10 早会                            | STARTED   | A        | :office:@work:   |
   | 学习org-mode复杂日期实现              | DONE      | B        | :office@learn:   |
   | Portal 全选呈现问题                   | CANCELLED | B        | :office:@temp:   |
   |---------------------------------------+-----------+----------+------------------|
@@ -709,6 +713,7 @@
   | 2017-06-13 Study                      |           | B        |                  |
   | 2017-07-16 Study                      |           | B        |                  |
   | 2017-07-16 Study                      |           | B        |                  |
+  | 2017-07-19 Study                      |           | B        |                  |
   |---------------------------------------+-----------+----------+------------------|
   | Project Development                   |           | B        |                  |
   | 构建Kotlin And Spring Boot项目        | DONE      | B        | :home:@project:  |
@@ -733,15 +738,16 @@
   | Eagle                                 |           | B        |                  |
   | Portal 运营商商品呈现问题             | DONE      | A        |                  |
   | Portal 接入微众税银                   | DONE      | A        | :office:@work:   |
-  | 微众税银                              | DONE      | A        | :office:@work:   |
+  | Portal 微众税银                       | DONE      | A        | :office:@work:   |
   | Portal 微众税银展示                   | DONE      | A        | :office:@work:   |
+  | Portal 法院判决Bug                    | DONE      | A        | :office:@work:   |
   #+END:
 * Last Week
   #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block lastweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-20 Thu 22:20], for week 2017-W28.
-  | File | Headline         | Time   |   |
-  |------+------------------+--------+---|
-  |      | ALL *Total time* | *0:00* |   |
+  #+CAPTION: Clock summary at [2017-07-21 五 17:35], for week 2017-W28.
+  | File | Headline         | Time   |
+  |------+------------------+--------|
+  |      | ALL *Total time* | *0:00* |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -752,38 +758,40 @@
   #+RESULTS:
 * Daily Summary
   #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block today :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-20 Thu 22:20], for Thursday, July 20, 2017.
-  | File    | Headline                | Time   |      |
-  |---------+-------------------------+--------+------|
-  |         | ALL *Total time*        | *2:10* |      |
-  |---------+-------------------------+--------+------|
-  | gtd.org | *File time*             | *2:10* |      |
-  |         | Workspace               | 0:06   |      |
-  |         | \_  09:10 早会          |        | 0:06 |
-  |         | Eagle                   | 2:04   |      |
-  |         | \_  Portal 微众税银展示 |        | 2:04 |
+  #+CAPTION: Clock summary at [2017-07-21 五 17:35], for 星期五, 七月 21, 2017.
+  | File    | Headline                      | Time   |      |
+  |---------+-------------------------------+--------+------|
+  |         | ALL *Total time*              | *1:18* |      |
+  |---------+-------------------------------+--------+------|
+  | gtd.org | *File time*                   | *1:18* |      |
+  |         | Workspace                     | 0:55   |      |
+  |         | \_  Technical Article Reading |        | 0:41 |
+  |         | \_  09:10 早会                |        | 0:14 |
+  |         | Eagle                         | 0:23   |      |
+  |         | \_  Portal 法院判决Bug [2/2]  |        | 0:23 |
   #+END:
 
 * Weekly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-20 Thu 22:20], for week 2017-W29.
-  | File    | Headline                       | Time   |      |
-  |---------+--------------------------------+--------+------|
-  |         | ALL *Total time*               | *9:36* |      |
-  |---------+--------------------------------+--------+------|
-  | gtd.org | *File time*                    | *9:36* |      |
-  |         | Workspace                      | 4:01   |      |
-  |         | \_  Technical Article Reading  |        | 1:10 |
-  |         | \_  Api 备选接口不可用         |        | 0:25 |
-  |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
-  |         | \_  09:10 早会                 |        | 0:13 |
-  |         | \_  学习org-mode复杂日期实现   |        | 0:52 |
-  |         | \_  Portal 全选呈现问题        |        | 0:25 |
-  |         | Eagle                          | 5:35   |      |
-  |         | \_  Portal 运营商商品呈现问题  |        | 0:25 |
-  |         | \_  Portal 接入微众税银 [5/5]  |        | 0:49 |
-  |         | \_  微众税银 [2/2]             |        | 2:17 |
-  |         | \_  Portal 微众税银展示        |        | 2:04 |
+  #+CAPTION: Clock summary at [2017-07-21 五 17:35], for week 2017-W29.
+  | File    | Headline                       | Time    |      |
+  |---------+--------------------------------+---------+------|
+  |         | ALL *Total time*               | *10:54* |      |
+  |---------+--------------------------------+---------+------|
+  | gtd.org | *File time*                    | *10:54* |      |
+  |         | Workspace                      | 4:56    |      |
+  |         | \_  Technical Article Reading  |         | 1:51 |
+  |         | \_  Api 备选接口不可用         |         | 0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现 |         | 0:56 |
+  |         | \_  09:10 早会                 |         | 0:27 |
+  |         | \_  学习org-mode复杂日期实现   |         | 0:52 |
+  |         | \_  Portal 全选呈现问题        |         | 0:25 |
+  |         | Eagle                          | 5:58    |      |
+  |         | \_  Portal 运营商商品呈现问题  |         | 0:25 |
+  |         | \_  Portal 接入微众税银 [5/5]  |         | 0:49 |
+  |         | \_  Portal 微众税银 [2/2]      |         | 2:17 |
+  |         | \_  Portal 微众税银展示        |         | 2:04 |
+  |         | \_  Portal 法院判决Bug [2/2]   |         | 0:23 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -793,24 +801,25 @@
 
 * Monthly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thismonth :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-20 Thu 22:20], for July 2017.
-  | File    | Headline                       | Time   |      |
-  |---------+--------------------------------+--------+------|
-  |         | ALL *Total time*               | *9:36* |      |
-  |---------+--------------------------------+--------+------|
-  | gtd.org | *File time*                    | *9:36* |      |
-  |         | Workspace                      | 4:01   |      |
-  |         | \_  Technical Article Reading  |        | 1:10 |
-  |         | \_  Api 备选接口不可用         |        | 0:25 |
-  |         | \_  Portal 姓名、身份证 不呈现 |        | 0:56 |
-  |         | \_  09:10 早会                 |        | 0:13 |
-  |         | \_  学习org-mode复杂日期实现   |        | 0:52 |
-  |         | \_  Portal 全选呈现问题        |        | 0:25 |
-  |         | Eagle                          | 5:35   |      |
-  |         | \_  Portal 运营商商品呈现问题  |        | 0:25 |
-  |         | \_  Portal 接入微众税银 [5/5]  |        | 0:49 |
-  |         | \_  微众税银 [2/2]             |        | 2:17 |
-  |         | \_  Portal 微众税银展示        |        | 2:04 |
+  #+CAPTION: Clock summary at [2017-07-21 五 17:35], for 七月 2017.
+  | File    | Headline                       | Time    |      |
+  |---------+--------------------------------+---------+------|
+  |         | ALL *Total time*               | *10:54* |      |
+  |---------+--------------------------------+---------+------|
+  | gtd.org | *File time*                    | *10:54* |      |
+  |         | Workspace                      | 4:56    |      |
+  |         | \_  Technical Article Reading  |         | 1:51 |
+  |         | \_  Api 备选接口不可用         |         | 0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现 |         | 0:56 |
+  |         | \_  09:10 早会                 |         | 0:27 |
+  |         | \_  学习org-mode复杂日期实现   |         | 0:52 |
+  |         | \_  Portal 全选呈现问题        |         | 0:25 |
+  |         | Eagle                          | 5:58    |      |
+  |         | \_  Portal 运营商商品呈现问题  |         | 0:25 |
+  |         | \_  Portal 接入微众税银 [5/5]  |         | 0:49 |
+  |         | \_  Portal 微众税银 [2/2]      |         | 2:17 |
+  |         | \_  Portal 微众税银展示        |         | 2:04 |
+  |         | \_  Portal 法院判决Bug [2/2]   |         | 0:23 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -820,15 +829,15 @@
 
 * Annual Every Year
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisyear :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-20 Thu 22:20], for the year 2017.
+  #+CAPTION: Clock summary at [2017-07-21 五 17:35], for the year 2017.
   | File    | Headline                                  | Time       |          |
   |---------+-------------------------------------------+------------+----------|
-  |         | ALL *Total time*                          | *2d 20:35* |          |
+  |         | ALL *Total time*                          | *2d 21:53* |          |
   |---------+-------------------------------------------+------------+----------|
-  | gtd.org | *File time*                               | *2d 20:35* |          |
-  |         | Workspace                                 | 2d 13:14   |          |
+  | gtd.org | *File time*                               | *2d 21:53* |          |
+  |         | Workspace                                 | 2d 14:09   |          |
   |         | \_  English twenty words a day            |            |     0:40 |
-  |         | \_  Technical Article Reading             |            |     6:15 |
+  |         | \_  Technical Article Reading             |            |     6:56 |
   |         | \_  Portal紧急需求转测、针对Bug做相应修改 |            |     0:17 |
   |         | \_  节日前上线Bug整改                     |            |     0:13 |
   |         | \_  学习使用Intellij 搭建Java             |            |     0:38 |
@@ -848,18 +857,19 @@
   |         | \_  StarBucks Learn                       |            |     1:53 |
   |         | \_  Api 备选接口不可用                    |            |     0:25 |
   |         | \_  Portal 姓名、身份证 不呈现            |            |     0:56 |
-  |         | \_  09:10 早会                            |            |     0:13 |
+  |         | \_  09:10 早会                            |            |     0:27 |
   |         | \_  学习org-mode复杂日期实现              |            |     0:52 |
   |         | \_  Portal 全选呈现问题                   |            |     0:25 |
   |         | Every Week                                | 1:21       |          |
   |         | \_  Writing Blog(sum up experience)       |            |     1:21 |
   |         | Emergency Requirements                    | 0:25       |          |
   |         | \_  Portal场景化余额提醒Bug修改           |            |     0:25 |
-  |         | Eagle                                     | 5:35       |          |
+  |         | Eagle                                     | 5:58       |          |
   |         | \_  Portal 运营商商品呈现问题             |            |     0:25 |
   |         | \_  Portal 接入微众税银 [5/5]             |            |     0:49 |
-  |         | \_  微众税银 [2/2]                        |            |     2:17 |
+  |         | \_  Portal 微众税银 [2/2]                 |            |     2:17 |
   |         | \_  Portal 微众税银展示                   |            |     2:04 |
+  |         | \_  Portal 法院判决Bug [2/2]              |            |     0:23 |
   #+END:
 * Eagle
 
@@ -889,7 +899,7 @@
    - [X] 添加查询条件: 企业名称、税务识别码.
    - [X] 调取数据回来
 
-** DONE [#A] 微众税银 [2/2]                                   :office:@work:
+** DONE [#A] Portal 微众税银 [2/2]                            :office:@work:
    CLOSED: [2017-07-19 三 14:43] SCHEDULED: <2017-07-19 三 09:40>
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-19 三 14:43]
@@ -916,3 +926,16 @@
      返回数据结构不清晰,等待修改.
    CLOCK: [2017-07-20 四 09:35]--[2017-07-20 四 10:35] =>  1:00
    :END:
+
+** DONE [#A] Portal 法院判决Bug [2/2]                         :office:@work:
+   CLOSED: [2017-07-21 五 14:17] SCHEDULED: <2017-07-21 五 11:44>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-21 五 14:17]
+   - State "STARTED"    from "WAITING"    [2017-07-21 五 14:13]
+   CLOCK: [2017-07-21 五 14:13]--[2017-07-21 五 14:17] =>  0:04
+   - State "WAITING"    from "STARTED"    [2017-07-21 五 12:04] \\
+     午休吃饭
+   CLOCK: [2017-07-21 五 11:45]--[2017-07-21 五 12:04] =>  0:19
+   :END:
+   - [X] 个人法院判决详情: 文书Id为空时,不展示详情查询链接.
+   - [X] 企业法院判决详情: 文书Id为空时,不展示详情查询链接.
