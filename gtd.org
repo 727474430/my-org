@@ -1,5 +1,5 @@
 * Workspace
-** TODO [#A] English twenty words a day                        :home:@learn:
+** SOMEDAY [#B] English twenty words a day                     :home:@learn:
    SCHEDULED: <2017-07-17 一 21:00 ++1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-07-16 日 22:55]
@@ -21,7 +21,7 @@
    :END:
    [[English Learn][英文单词学习]]
 
-** TODO [#A] Technical Article Reading                         :home:@learn:
+** SOMEDAY [#A] Technical Article Reading                      :home:@learn:
    DEADLINE: <2017-07-21 五 22:00 ++1d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-07-21 五 16:03]
@@ -30,7 +30,7 @@
    :END:
    :LOGBOOK:
    - State "DONE"       from "STARTED"    [2017-07-21 五 16:03]
-   CLOCK: [2017-07-21 五 15:19]--[2017-07-21 五 16:00]
+   CLOCK: [2017-07-21 五 15:19]--[2017-07-24 一 09:30] => 66:11
    - State "DONE"       from "STARTED"    [2017-07-19 三 16:06]
    CLOCK: [2017-07-19 三 15:36]--[2017-07-19 三 16:06] =>  0:30
    - State "DONE"       from "STARTED"    [2017-07-18 Tue 23:43]
@@ -336,13 +336,12 @@
    :END:
    - [X] Portal 姓名、身份证商品没有呈现出来.
 
-** STARTED [#A] 09:10 早会                                    :office:@work:
+** TODO [#A] 09:10 早会                                       :office:@work:
    :LOGBOOK:
    CLOCK: [2017-07-21 五 09:17]--[2017-07-21 五 09:31] =>  0:14
    CLOCK: [2017-07-20 四 09:12]--[2017-07-20 四 09:18] =>  0:06
    CLOCK: [2017-07-19 三 09:11]--[2017-07-19 三 09:18] =>  0:07
    :END:
-   <%%(and (= 1 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
    <%%(and (= 2 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
    <%%(and (= 3 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
    <%%(and (= 4 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))>
@@ -939,3 +938,31 @@
    :END:
    - [X] 个人法院判决详情: 文书Id为空时,不展示详情查询链接.
    - [X] 企业法院判决详情: 文书Id为空时,不展示详情查询链接.
+
+** DONE [#A] 简报考试                                         :office:@work:
+   CLOSED: [2017-07-24 一 09:41] SCHEDULED: <2017-07-24 一 09:30>
+   :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-24 一 09:41]
+   CLOCK: [2017-07-24 一 09:30]--[2017-07-24 一 09:41] =>  0:11
+   :END:
+
+** WAITING [#A] 日常工作 2017年 07月 24日 星期一              :office:@work:
+   DEADLINE: <2017-07-24 一 18:00>
+   :LOGBOOK:
+   - State "WAITING"    from "STARTED"    [2017-07-24 一 17:42] \\
+     temp
+   CLOCK: [2017-07-24 一 16:15]--[2017-07-24 一 17:42] =>  1:27
+   - State "STARTED"    from "WAITING"    [2017-07-24 一 16:11]
+   CLOCK: [2017-07-24 一 16:11]--[2017-07-24 一 16:15] =>  0:04
+   - State "WAITING"    from "STARTED"    [2017-07-24 一 14:18] \\
+     radar map view
+   - State "STARTED"    from "WAITING"    [2017-07-24 一 14:05]
+   CLOCK: [2017-07-24 一 14:05]--[2017-07-24 一 14:17] =>  0:12
+   - State "WAITING"    from "STARTED"    [2017-07-24 一 12:04] \\
+     午休
+   CLOCK: [2017-07-24 一 11:22]--[2017-07-24 一 12:04] =>  0:42
+   CLOCK: [2017-07-24 一 10:27]--[2017-07-24 一 11:22] =>  0:55
+   :END:
+   - [X] Portal信贷商品: 添加姓名、身份证号查询条件.
+   - [X] Portal手机号归属地: 添加姓名、身份证号查询条件.
+   - [ ] Portal雷达图: 按照5个维度分别提供一次性保存功能.

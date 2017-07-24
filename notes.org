@@ -93,25 +93,45 @@
 ** Chorme JSONView                                          :chrome:@plugin:
    格式化json数据: 扩展程序
 
-  [2017-07-18 二 18:12]
+   [2017-07-18 二 18:12]
 
 ** Rest Client Api Test                                    :@chrome:@plugin:
    Rest 请求工具: https://github.com/datura-lj/development-tool/blob/master/chrome_plugin/extension_2_3_2_DHC.crx
 
-  [2017-07-19 三 16:23]
+   [2017-07-19 三 16:23]
 
 ** package: shrink-whitespace
    删除空格: http://pragmaticemacs.com/emacs/delete-blank-lines-and-shrink-whitespace/
    key-binding: Alt + Spc
 
-  [2017-07-20 四 13:42]
+   [2017-07-20 四 13:42]
 
 ** org-mode 重整表格数据
    https://github.com/lujun9972/emacs-document/blob/master/org-mode/%E9%87%8D%E6%95%B4%E8%A1%A8%E6%A0%BC%E6%95%B0%E6%8D%AE.org
 
-  [2017-07-20 四 13:44]
+   [2017-07-20 四 13:44]
 
 ** tex to docx via pandoc with ACM template
    https://tex.stackexchange.com/questions/197998/tex-to-docx-via-pandoc-with-acm-template
 
-  [2017-07-20 四 14:13]
+   [2017-07-20 四 14:13]
+
+** Eclipse下tomcat启动端口被占用
+   - 修改端口号:8081 ...
+   - https://stackoverflow.com/questions/13244233/server-tomcat-v7-0-server-at-localhost-failed-to-start-without-stack-trace-whi
+
+   [2017-07-24 一 10:18]
+
+** Sx(Stack-Exchange) Install
+   https://github.com/vermiculus/sx.el
+
+   [2017-07-24 一 14:54]
+
+** How2 Command Line Stack-OverFlow tools
+   https://github.com/santinic/how2
+
+   [2017-07-24 一 18:10]
+
+** Chrome Plugin    Edit White Emacs
+
+  [2017-07-24 一 18:10]
