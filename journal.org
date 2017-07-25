@@ -80,3 +80,4 @@
      1. install htop
         Addr:
         - https://cnbin.github.io/blog/2015/06/19/mac-xia-de-top-he-htop-zhi-ling/
+*** 2017-07-25 星期二

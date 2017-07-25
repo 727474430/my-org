@@ -338,6 +338,7 @@
 
 ** TODO [#A] 09:10 早会                                       :office:@work:
    :LOGBOOK:
+   CLOCK: [2017-07-25 二 09:12]--[2017-07-25 二 09:16] =>  0:04
    CLOCK: [2017-07-21 五 09:17]--[2017-07-21 五 09:31] =>  0:14
    CLOCK: [2017-07-20 四 09:12]--[2017-07-20 四 09:18] =>  0:06
    CLOCK: [2017-07-19 三 09:11]--[2017-07-19 三 09:18] =>  0:07
@@ -368,22 +369,26 @@
    - [ ] 全选呈现一直不断刷新网页: net::ERR_INCOMPLETE_CHUNKED_ENCODING
 
 * Once a month
-** TODO [#B] Give back credit card
-   DEADLINE: <2017-07-25 Tue 12:00 -3d>
+** DONE [#B] Give back credit card
+   CLOSED: [2017-07-25 二 10:07] DEADLINE: <2017-07-25 Tue 12:00 -3d>
    :PROPERTIES:
    :LAST_REPEAT: [2017-06-25 Sun 21:50]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2017-07-25 二 10:07]
    - State "DONE"       from "TODO"       [2017-06-25 Sun 21:50]
    :END:
 
 * Every Week
 ** TODO [#A] Writing Blog(sum up experience)                     :home@blog:
-   DEADLINE: <2017-07-22 Sat 23:00 ++1w -1d>
+   DEADLINE: <2017-07-29 六 23:00 ++1w -1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-06-17 Sat 21:16]
+   :LAST_REPEAT: [2017-07-25 二 10:07]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "STARTED"    [2017-07-25 二 10:07]
+   CLOCK: [2017-07-25 二 09:34]--[2017-07-25 二 10:07] =>  0:33
+   CLOCK: [2017-07-25 二 09:23]--[2017-07-25 二 09:26] =>  0:03
    - State "DONE"       from "STARTED"    [2017-06-17 Sat 21:16]
    CLOCK: [2017-06-17 Sat 19:55]--[2017-06-17 Sat 21:16] =>  1:21
    :END:
@@ -938,9 +943,13 @@
    CLOCK: [2017-07-24 一 09:30]--[2017-07-24 一 09:41] =>  0:11
    :END:
 
-** WAITING [#A] 日常工作 2017年 07月 24日 星期一              :office:@work:
-   DEADLINE: <2017-07-24 一 18:00>
+** WAITING [#A] 日常工作 2017年 07月 24日 星期一 [3/5]        :office:@work:
+   DEADLINE: <2017-07-28 一 18:00>
    :LOGBOOK:
+   - State "WAITING"    from "STARTED"    [2017-07-25 二 11:08] \\
+     其他事
+   - State "STARTED"    from "WAITING"    [2017-07-25 二 10:30]
+   CLOCK: [2017-07-25 二 10:30]--[2017-07-25 二 11:08] =>  0:38
    - State "WAITING"    from "STARTED"    [2017-07-24 一 17:42] \\
      temp
    CLOCK: [2017-07-24 一 16:15]--[2017-07-24 一 17:42] =>  1:27
@@ -957,4 +966,6 @@
    :END:
    - [X] Portal信贷商品: 添加姓名、身份证号查询条件.
    - [X] Portal手机号归属地: 添加姓名、身份证号查询条件.
-   - [ ] Portal雷达图: 按照5个维度分别提供一次性保存功能.
+   - [ ] Portal雷达图: 按照5个维度分别提供一次性保存功能(保存当前唯独所有指标值).
+   - [ ] Portal雷达图: 去掉每个指标单独的保存按钮.
+   - [X] 将雷达图配置成商品(控制是否呈现).
