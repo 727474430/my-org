@@ -134,4 +134,20 @@
 
 ** Chrome Plugin    Edit White Emacs
 
-  [2017-07-24 一 18:10]
+   [2017-07-24 一 18:10]
+
+** Reveal.js 幻灯片效果
+   通过临时下载:
+   #+BEGIN_SRC emacs-lisp
+    (use-package ox-reveal
+      :ensure ox-reveal)
+
+    (setq org-reveal-root "http://cdn.jsdeliver.net/reveal.js/3.0.0")
+    (setq org-reveal-mathjax t)
+   #+END_SRC
+
+   #+RESULTS:
+   : t
+   更换Theme: https://github.com/hakimel/reveal.js/tree/master/css/theme
+
+   [2017-07-25 Tue 23:38]
