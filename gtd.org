@@ -744,11 +744,11 @@
   | Portal 微众税银展示                   | DONE      | A        | :office:@work:   |
   | Portal 法院判决Bug                    | DONE      | A        | :office:@work:   |
   | 简报考试                              | DONE      | A        | :office:@work:   |
-  | 日常工作 2017年 07月 24日 星期一      | WAITING   | A        | :office:@work:   |
+  | 日常工作 2017年 07月 24日 星期一      | DONE      | A        | :office:@work:   |
   #+END:
 * Last Week
   #+BEGIN: clocktable :maxlevel 2 :scope agenda-with-archives :block lastweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-25 Tue 21:20], for week 2017-W29.
+  #+CAPTION: Clock summary at [2017-07-28 五 12:52], for week 2017-W29.
   | File    | Headline                       | Time       |         |
   |---------+--------------------------------+------------+---------|
   |         | ALL *Total time*               | *2d 18:54* |         |
@@ -771,20 +771,20 @@
 
 * Weekly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisweek :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-25 Tue 21:20], for week 2017-W30.
+  #+CAPTION: Clock summary at [2017-07-28 五 12:52], for week 2017-W30.
   | File    | Headline                                   |    Time |      |
   |---------+--------------------------------------------+---------+------|
-  |         | ALL *Total time*                           | *14:19* |      |
+  |         | ALL *Total time*                           | *15:31* |      |
   |---------+--------------------------------------------+---------+------|
-  | gtd.org | *File time*                                | *14:19* |      |
+  | gtd.org | *File time*                                | *15:31* |      |
   |         | Workspace                                  |    9:34 |      |
   |         | \_  Technical Article Reading              |         | 9:30 |
   |         | \_  09:10 早会                             |         | 0:04 |
   |         | Every Week                                 |    0:36 |      |
   |         | \_  Writing Blog(sum up experience)        |         | 0:36 |
-  |         | Eagle                                      |    4:09 |      |
+  |         | Eagle                                      |    5:21 |      |
   |         | \_  简报考试                               |         | 0:11 |
-  |         | \_  日常工作 2017年 07月 24日 星期一 [3/5] |         | 3:58 |
+  |         | \_  日常工作 2017年 07月 24日 星期一 [7/7] |         | 5:10 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -794,29 +794,29 @@
 
 * Monthly Work Statistics
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thismonth :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-25 Tue 21:20], for July 2017.
-  | File    | Headline                                   | Time      |          |
-  |---------+--------------------------------------------+-----------+----------|
-  |         | ALL *Total time*                           | *3d 9:13* |          |
-  |---------+--------------------------------------------+-----------+----------|
-  | gtd.org | *File time*                                | *3d 9:13* |          |
-  |         | Workspace                                  | 2d 22:30  |          |
-  |         | \_  Technical Article Reading              |           | 2d 19:21 |
-  |         | \_  Api 备选接口不可用                     |           |     0:25 |
-  |         | \_  Portal 姓名、身份证 不呈现             |           |     0:56 |
-  |         | \_  09:10 早会                             |           |     0:31 |
-  |         | \_  学习org-mode复杂日期实现               |           |     0:52 |
-  |         | \_  Portal 全选呈现问题                    |           |     0:25 |
-  |         | Every Week                                 | 0:36      |          |
-  |         | \_  Writing Blog(sum up experience)        |           |     0:36 |
-  |         | Eagle                                      | 10:07     |          |
-  |         | \_  Portal 运营商商品呈现问题              |           |     0:25 |
-  |         | \_  Portal 接入微众税银 [5/5]              |           |     0:49 |
-  |         | \_  Portal 微众税银 [2/2]                  |           |     2:17 |
-  |         | \_  Portal 微众税银展示                    |           |     2:04 |
-  |         | \_  Portal 法院判决Bug [2/2]               |           |     0:23 |
-  |         | \_  简报考试                               |           |     0:11 |
-  |         | \_  日常工作 2017年 07月 24日 星期一 [3/5] |           |     3:58 |
+  #+CAPTION: Clock summary at [2017-07-28 五 12:52], for 七月 2017.
+  | File    | Headline                                   | Time       |          |
+  |---------+--------------------------------------------+------------+----------|
+  |         | ALL *Total time*                           | *3d 10:25* |          |
+  |---------+--------------------------------------------+------------+----------|
+  | gtd.org | *File time*                                | *3d 10:25* |          |
+  |         | Workspace                                  | 2d 22:30   |          |
+  |         | \_  Technical Article Reading              |            | 2d 19:21 |
+  |         | \_  Api 备选接口不可用                     |            |     0:25 |
+  |         | \_  Portal 姓名、身份证 不呈现             |            |     0:56 |
+  |         | \_  09:10 早会                             |            |     0:31 |
+  |         | \_  学习org-mode复杂日期实现               |            |     0:52 |
+  |         | \_  Portal 全选呈现问题                    |            |     0:25 |
+  |         | Every Week                                 | 0:36       |          |
+  |         | \_  Writing Blog(sum up experience)        |            |     0:36 |
+  |         | Eagle                                      | 11:19      |          |
+  |         | \_  Portal 运营商商品呈现问题              |            |     0:25 |
+  |         | \_  Portal 接入微众税银 [5/5]              |            |     0:49 |
+  |         | \_  Portal 微众税银 [2/2]                  |            |     2:17 |
+  |         | \_  Portal 微众税银展示                    |            |     2:04 |
+  |         | \_  Portal 法院判决Bug [2/2]               |            |     0:23 |
+  |         | \_  简报考试                               |            |     0:11 |
+  |         | \_  日常工作 2017年 07月 24日 星期一 [7/7] |            |     5:10 |
   #+END:
 
   #+BEGIN_SRC emacs-lisp :results value
@@ -826,12 +826,12 @@
 
 * Annual Every Year
   #+BEGIN: clocktable :maxlevel 2 :scope agenda :block thisyear :fileskip0 t :indent t
-  #+CAPTION: Clock summary at [2017-07-25 Tue 21:20], for the year 2017.
+  #+CAPTION: Clock summary at [2017-07-28 五 12:52], for the year 2017.
   | File    | Headline                                   | Time       |          |
   |---------+--------------------------------------------+------------+----------|
-  |         | ALL *Total time*                           | *5d 20:12* |          |
+  |         | ALL *Total time*                           | *5d 21:24* |          |
   |---------+--------------------------------------------+------------+----------|
-  | gtd.org | *File time*                                | *5d 20:12* |          |
+  | gtd.org | *File time*                                | *5d 21:24* |          |
   |         | Workspace                                  | 5d 7:43    |          |
   |         | \_  English twenty words a day             |            |     0:40 |
   |         | \_  Technical Article Reading              |            |  3d 0:26 |
@@ -861,14 +861,14 @@
   |         | \_  Writing Blog(sum up experience)        |            |     1:57 |
   |         | Emergency Requirements                     | 0:25       |          |
   |         | \_  Portal场景化余额提醒Bug修改            |            |     0:25 |
-  |         | Eagle                                      | 10:07      |          |
+  |         | Eagle                                      | 11:19      |          |
   |         | \_  Portal 运营商商品呈现问题              |            |     0:25 |
   |         | \_  Portal 接入微众税银 [5/5]              |            |     0:49 |
   |         | \_  Portal 微众税银 [2/2]                  |            |     2:17 |
   |         | \_  Portal 微众税银展示                    |            |     2:04 |
   |         | \_  Portal 法院判决Bug [2/2]               |            |     0:23 |
   |         | \_  简报考试                               |            |     0:11 |
-  |         | \_  日常工作 2017年 07月 24日 星期一 [3/5] |            |     3:58 |
+  |         | \_  日常工作 2017年 07月 24日 星期一 [7/7] |            |     5:10 |
   #+END:
 * Eagle
 

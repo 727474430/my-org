@@ -151,3 +151,14 @@
    更换Theme: https://github.com/hakimel/reveal.js/tree/master/css/theme
 
    [2017-07-25 Tue 23:38]
+
+** Java 面试相关问题
+   - 缓存雪崩、缓存穿透
+   - redis缓存
+   - 从一个字符串找出每个字符出现的次数
+   - mysql相关
+   - 工作中遇到的问题  [*]
+   - 高并发相关
+   - Java8相关 用来解题.. https://juejin.im/post/597829bc518825179926faa2
+
+  [2017-07-28 五 09:16]
