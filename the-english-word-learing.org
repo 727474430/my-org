@@ -1,0 +1,281 @@
+#+STARTUP: Everyday Learing Word
+#+TAGS: READING(r) LEARING(l) COMPUTER(c)
+#+STARTUP: hidestars
+
+* The English Word Learing                                         :LEARING:
+** 2017-05-30 Study
+   | English      | Chinese        | Extenssion                       |
+   |--------------+----------------+----------------------------------|
+   | Provides     | 提供、规定     | Speciing Provides 特种债卷       |
+   | Additionally | 此外、另外、又 | Additionally Before 加上之前...  |
+   | Abroad       | 室外、户外     | Agency Abroad 国外代办处         |
+   | Agency       | 代理、中介     | Travel Agency 旅行社             |
+   | Travel       | 旅行、漫游     | Time Travel 时空旅行             |
+   | Across       | 穿过、横穿     | Back Across 后背                 |
+   | Activity     | 活动、行动     | Paranormal Activity 灵动         |
+   | Paranormal   | 超常的、超自然 | Paranormal Anomalies 功能异常    |
+   | Anomalies    | 异常现象、异常 | Update Anomalies 更新异常        |
+   | Afraid       | 害怕的、恐怕   | Afraid to 不敢                   |
+   | again        | 再一次、同样   | Simle Again 再次微笑             |
+   | Accident     | 事故、意外     | Automobile Accident 车祸         |
+   | Automobile   | 汽车、机动车   | Automobile platform 汽车平台     |
+   | Bad          | 坏的、有害的   | Bad Debt 坏账                    |
+   | Debt         | 债务、欠债     | Floating Debt 短期债务、流动债务 |
+   | Bang         | 重击、巨响     | Stick Bang 勇士重击              |
+   | Basket       | 篮子、蓝       | Fruits Basket 水果篮子           |
+   | Stack        | 堆栈           | Protocol Stack 协议栈            |
+   | Flow         | 流动、流量     | Flow Control 流量控制、流程控制  |
+   | Protocol     | 协议、拟定     | Internet Protocol 网络协议       |
+   |              |                |                                  |
+
+** 2017-05-31 Study
+    | English     | Chinese          | Extenssion                           |
+    |-------------+------------------+--------------------------------------|
+    | Baseball    | 棒球、垒球       | Baseball Park 棒球场                 |
+    | Better      | 更好、越好       | Better Not 最好别、最好不要          |
+    | Environment | 环境、外界       | Natural Environment 自然环境         |
+    | Aims        | 目标、旨         | Study Aims 学习目标                  |
+    | Improving   | 改进、提高、改善 | Improving Server 提升服务、改善服务  |
+    | Experience  | 体验、经验、经历 | User Experience 用户体验、使用者体验 |
+    | Analyze     | 分析、研究       | Analyze World 分析世界               |
+    | Cage        | 监狱、牢房       |                                      |
+    | Camera      | 照相机、摄影机   | Digital Camera 数码相机              |
+    | Digital     | 数字、数码       | Digital Signature 数字签名           |
+    | Signature   | 签名、署名       | Specimen Signature 签名样式          |
+    | Specimen    | 标本、样本       | Specimen Bottle 样本瓶               |
+    | Bottle      | 瓶子、瓶         |                                      |
+    | Canada      | 加拿大           | Canadian 加拿大的、加拿大人的        |
+    | Candel      | 蜡烛、烛光       | English Candel 英国烛光              |
+    | Canoe       | 独木舟           | Canoe Rental 独木舟出租              |
+    | Rental      | 租借、租金、租住 | Empty Rental 空车租赁                |
+    | Canon       | 教规、标准       |                                      |
+    | Cap         | 盖、帽子         | Shower Cap 浴帽                      |
+    | Shower      | 阵雨、淋浴       | Shower Nozzle 喷头                   |
+    | Nozzle      | 喷嘴、排气口     | Injection Nozzle 射出喷嘴、喷油嘴    |
+
+** 2017-06-01 Study
+    | English   | Chinese              | Extenssion                       |
+    |-----------+----------------------+----------------------------------|
+    | Injection | 注射、注入           | SQL Injection SQL注入            |
+    | Summary   | 摘要、总结、综述     | Job Summary 工作概要             |
+    | Relevant  | 相关的、有关的       | Relevant Range 相关范围          |
+    | When      | 什么时候、何时       | Remember When 记得当时、曾几何时 |
+    | Yet       | 仍然、还是           | Bug Yet 但还是、但尚未           |
+    | Temporary | 临时、暂时的、一时   | Temporary Payment 暂付款         |
+    | Storage   | 存储、保存           | Buffer Storage 缓冲存储器        |
+    | Achieve   | 完成、达到、取得     | Achieve Success 取得成功         |
+    | Invalid   | 无效、失效           | Invalid Parameter 无效参数       |
+    | Effect    | 效果、结果、作用     | Butterfly Effect 蝴蝶效应        |
+    | Butterfly | 蝴蝶、蝶泳           | Madama Butterfly 蝴蝶夫人        |
+    | Madama    | 主席                 |                                  |
+    | Combine   | 结合、联合、组合     | Combine With 结合起来            |
+    | Cover     | 覆盖、封面           | Cover Note 承包单                |
+    | Appoint   | 任命、指定、约定     | Appoint As 任命为                |
+    | Got       | 得到、明白           | Got Off 下车、下来、脱下         |
+    | Off       | 关闭、断开、折扣网站 | Pay Off 还清、得到好结果         |
+    | Permise   | 前提                 |                                  |
+    | Capital   | 首都、资本、资金     | Human Capital 人力资本           |
+    | Captain   | 队长、上校、船长     | Captain America 美国队长         |
+    | Care      | 关心、小心、关怀     | Skin Care 护肤品、皮肤护理       |
+    | Skin      | 皮肤                 | Skin Effect 皮层效应             |
+
+** 2017-06-02 Study
+    | English    | Chinese              | Extension                       |
+    |------------+----------------------+---------------------------------|
+    | Card       | 卡片、纸牌           | Credit Card 信用卡              |
+    | Credit     | 信用、信用、信贷     | Credit Union 信用社             |
+    | Union      | 联合、并集、结合     | Political Union 政治联盟        |
+    | Political  | 政治的、政治上的     | Political Prisoner 政治犯       |
+    | Prisoner   | 囚犯、犯人、俘虏     | Civil Prisoner 民事犯           |
+    | Civil      | 民事、民用、民间的   | Civil Rights 基本权、民事权利   |
+    | Rights     | 权利、维权、权限     | Patent Rights 专利证书、专利权  |
+    | Patent     | 专利、专利权         | Patent Pool 专利池              |
+    | Atomic     | 原子的、原子性       | Atomic Theory 原子论            |
+    | Theory     | 理论、学说           | Information Theory 信息论       |
+    | Bandwidth  | 带宽、频宽           | Video Bandwidth 视频带宽        |
+    | Benefit    | 好处、利益、收益     |                                 |
+    | Viable     | 可行的、可实行的     | Best Viable Method 最佳可行方法 |
+    | Best       | 最好的、最好、最佳   | Best Practice 最佳实践          |
+    | Breakpoint | 断点、中断点         | Breakpoint Instruction 断点指令 |
+    | Clipboard  | 剪贴板、剪切板       | Clear Clipboard 清空剪贴板      |
+    | Master     | 主要的、主任、熟练地 | Master Key 关键、主密钥         |
+    | Component  | 组件、成分、组成部分 | Component Video 分量视频        |
+    | Compatible | 兼容、相容、能共享   | Compatible Software 兼容软件    |
+
+** 2017-06-13 Study
+
+    | English   | Chinese          | Extension                           |
+    |-----------+------------------+-------------------------------------|
+    | Program   | 程序、计划       | Program Counter 程序计数器          |
+    | Press     | 压、压迫、逼迫   | Press Release 新闻发布              |
+    | Release   | 发布、发行、释放 | Release Me 放开我                   |
+    | Screen    | 屏幕、掩护       | Screen Size 屏幕大小                |
+    | Specify   | 指定、详细说明   | Specify Requirements 需求定义       |
+    | Disk      | 圆盘、磁盘       | Disk Utility 磁盘工具               |
+    | Utility   | 效用、功用、实用 | Utility Knife 多用途倒、美工刀      |
+    | Knife     | 刀子、小刀       | Knife Money 刀币                    |
+    | Record    | 记录、记载、唱片 | Criminal Record 案底、前科          |
+    | Criminal  | 罪犯、涉案、刑事 | Criminal Law 刑法、刑法学           |
+    | Law       | 法律、法学、法则 | International Law 国际法、国际公法  |
+    | Shell     | 贝壳、炮弹、壳   |                                     |
+    | Also      | 也、并且、另外   | You Also 你也是                     |
+    | Procedure | 程序、手续、过程 | Procedure Control 过程控制          |
+    | Dialog    | 对话、对白       | Dialog Box 对话框                   |
+    | Related   | 相关、有关、连带 | Related Document 相关文件、相关文档 |
+    | Item      | 条目、条款       | Item Record 项目记录                |
+    | Marked    | 显著的、有记号的 | Marked Section 标注段落             |
+    | Then      | 那么、当时、然后 | Then There 再就是                   |
+    | Each      | 每、每个、各个   | Each Other 互相、彼此、相互         |
+    |           |                  |                                     |
+
+** 2017-06-13 Study
+    | English    | Chinese              | Extension                      |
+    |------------+----------------------+--------------------------------|
+    | Variable   | 变量、可变的         | Local Variable 局部变量        |
+    | Make       | 制造、制作、编译     | Make Sense 讲得通、有道理      |
+    | Without    | 外部、在外面         | Do Without 没有、用不着        |
+    | Following  | 下列、下述、跟随     | FLWG Following 如下、下达      |
+    | Letter     | 书信、证书、文字     | Letter Box 📪信箱              |
+    | Desire     | 欲望、渴望、要求     | Dirty Desire 疯狂幻想          |
+    | Dirty      | 脏的、下流的、弄脏   | Dirty Work 讨厌的工作          |
+    | Structure  | 构造、结构           | Membrane Structure 膜结构      |
+    | Blank      | 空白、空虚           | Steve Blank 史蒂夫.布兰科      |
+    | Operation  | 操作、手术、运算     | Logistics 物流作业             |
+    | Logistics  | 物流、后勤           | Logistics Management 物流管理  |
+    | Erase      | 擦除、抹去、清洗     | Erase Myself 让自己归零        |
+    | Prompt     | 迅速的、敏捷的、提示 | No Prompt 不提示、不提醒       |
+    | Whether    | 是否、不论、有无     | Discussing Whether 讨论是否    |
+    | Discussing | 讨论、探讨、论述     | Discussing Intentions 讨论意图 |
+    | Intentions | 医院、意图、打算     | Shopping Intentions 购物意向   |
+    | Position   | 位置、定位、职位     | Position Desired 期望职位      |
+    | Desired    | 期望的、想得到的     | Margins Desired 期望毛利       |
+    | Margins    | 保证金               | Initial Margins 初始保证金     |
+    | Deal       | 交易、处理、经营     | Big Deal 大不了、重要的是      |
+    |            |                      |                                |
+
+** 2017-07-16 Study
+    | English    | Chinese                | Extension                     |
+    |------------+------------------------+-------------------------------|
+    | Danger     | 危险、危害             | Danger Money 额外报酬         |
+    | Dangerous  | 危险的                 | Dangerous Liaisons 危险关系   |
+    | Liaisons   | 联络人、联系人         | 暧昧的关系                    |
+    | Dark       | 黑暗、深色的、暗黑     | Dark Matter 暗物质            |
+    | Matter     | 物质、事情、重要       | No Matter 无论、不管、不论    |
+    | Daughter   | 女儿、小女             | First Daughter 第一个女人     |
+    | Daytime    | 白天、白昼、日间       |                               |
+    | Deaf       | 耳聋、聋人、不愿听     | Stone Deaf 完全聋了           |
+    | Stone      | 石头、强硬、完全       |                               |
+    | Deal       | 交易、处理、经营       | Big Deal 大不了、没什么大不了 |
+    | Dear       | 亲爱的、尊敬的         | Dear God 亲爱的上帝、敬爱的神 |
+    | Decide     | 决定、解决             | People Decide 群策群力        |
+    | Decorate   | 装饰、布置             | Decorate Mode 装饰模式        |
+    | Early      | 早期的、早熟的         | Early Warning 预警、预先警报  |
+    | East       | 东方、东风             | Far East 远东、远东地区       |
+    | Earthquake | 地震、大动荡           | Earthquake Swarm 群震、地震群 |
+    | Swarm      | 蜂群、一大群           | Alien Swarm 异型群体          |
+    | Education  | 教育、培养             | Special Education 特殊教育    |
+    | Special    | 特别、特殊             |                               |
+    | Either     | 任何一个、要不是、或者 | Either Symbol 任一符号        |
+    |            |                        |                               |
+
+** 2017-07-16 Study
+    | English    | Chinese                | Extension                    |
+    |------------+------------------------+------------------------------|
+    | Elephant   | 大象、🐘               | Elephant Bird 象鸟           |
+    | Fact       | 事实、实际、真相       | Materail Fact 重大事实       |
+    | Material   | 材料、材质、重要的     | Material Management 物资管理 |
+    | Fall       | 落下、坠落、秋天       | Fall Out 脱落、闹翻          |
+    | Famous     | 著名的、出名的、有名   | Famous For 驰名              |
+    | Fan        | 迷、爱好者、粉丝       |                              |
+    | Farm       | 农场、农庄             | Animla Farm 动物庄园         |
+    | Farmer     | 农夫、农民             |                              |
+    | Farthest   | 最远的、最久的         | Farthest Range 最大测距      |
+    | Fat        | 肥胖的、脂肪           |                              |
+    | Favourite  | 最喜欢的、最喜爱的     | New Favourite 新宠           |
+    | Garden     | 花园、菜园             | Garden City 花园城           |
+    | Gate       | 大门、出入口           | Gate Keepers 捍卫者          |
+    | Keeper     | 守门员、饲养员、监护人 | Stock Keeper 库管员          |
+    | Generosity | 慷慨、大方、宽宏大量   | Generosity Maxim 慷慨原则    |
+    | Maxim      | 格言、准则、作用名     | Agreement Maxim 一致原则     |
+    | Agreement  | 同意、协同、一致       |                              |
+    | Disagree   | 不同意、不一致、争执   | I Disagree 我不同意          |
+    | Germany    | 德国                   |                              |
+    | Together   | 一起、在一起、相聚     | Fit Together 组装在一起      |
+    | Fit        | 适合、合身             | Keep Fit 保持健康、强身健体  |
+    | Keep       | 保持、保留             | Keep Down 控制、镇压         |
+    |            |                        |                              |
+
+** 2017-07-19 Study
+    |-----------+------------------+------------------------|
+    | English   | Chinese          | Extension              |
+    |-----------+------------------+------------------------|
+    | Kilo      | 千克、公斤       | Kilo Byte 千字节       |
+    | kind      | 友善的、宽容的   | kind-hearted 热心的    |
+    | kitchen   | 厨房             | kitchen knife 菜刀     |
+    | kite      | 风筝             |                        |
+    | knee      | 膝盖、弯曲、拐点 |                        |
+    | knife     | 刀、切割         | the knife 外科手术     |
+    | knock     | 敲门、击打       | knock down 击倒        |
+    | know      | 知道、认出       | all-know 无所不知      |
+    | knowledge | 知识、理解       | excellent knowledge    |
+    | lab       | 实验室、研究室   | science lab 科学实验室 |
+    | Lady      | 女士、夫人、小姐 | Lady Gaga              |
+    | Lap       | 膝部、一圈       | Fastest Lap 最快圈速   |
+    | Late      | 迟的、后期、下旬 | Late Snack 宵夜、晚餐  |
+    |           |                  |                        |
+
+** 2017-08-09 Study
+   | English     | Chinese                | Extension                          |
+   |-------------+------------------------+------------------------------------|
+   | Label       | 标签、标记             | Record Label 唱片公司、记录标记    |
+   | Labour      | 劳动、劳资、劳动力     | Labour Market 劳工市场             |
+   | Market      | 市场、集市、市         | Capital Market 资本市场            |
+   | Lack        | 缺乏、缺少、不足       | Lack Confidence 缺乏信心、信心不足 |
+   | Confidence  | 信心、信任、自信       | Confidence Level 心来水平、置信度  |
+   | Ladder      | 梯子、折梯             | Ladder Logic 梯形逻辑              |
+   | Logic       | 逻辑、逻辑学           | Combinational Logic 组合逻辑       |
+   | Land        | 陆地、土地、着陆       | Promised Land 应许之地             |
+   | Promised    | 许下、答应、约定       |                                    |
+   | Landlady    | 女房东、女地主         | My Landlady 我的女房东             |
+   | Lane        | 小路、胡同、巷         | Park Lane 公园小路                 |
+   | Lantern     | 灯笼、提灯             | Lantern Festival 元宵节            |
+   | Large       | 大的、大号、广大       |                                    |
+   | Machine     | 机器、机械             | Time Machine 时间机器              |
+   | Mad         | 狂怒、发疯的、疯狂的   | Mad Doctor 精神病医生              |
+   | Magazine    | 杂志、弹匣             | Young Magazine 青年杂志            |
+   | Magnet      | 磁铁、磁体             |                                    |
+   | Magnificent | 高尚的、华丽的、接触的 | Magnificent Team 华丽团队          |
+   | Maid        | 女仆、女佣、少女       | Maid Cafe 女仆咖啡厅               |
+
+* Read Articles Every Day                                          :READING:
+** Keep Reading
+  | Source    | Title                      | Link                                                                           | Read Date               |
+  |-----------+----------------------------+--------------------------------------------------------------------------------+-------------------------|
+  | 掘金      | Git Commit Message         | https://juejin.im/post/59110c322f301e0057e4c182                                | <2017-05-30 Tue 15:00>  |
+  | 掘金      | Git Rollback Method        | https://juejin.im/post/5927c630ac502e006c545095                                | <2017-05-31 周三 17:30> |
+  | CSDN      | 代码审查注意什么           | http://www.jianshu.com/p/2c43516b9ea1                                          | <2017-06-01 周四 17:10> |
+  | 掘金      | Git干货系列5               | https://juejin.im/post/59309a070ce4630057ef5f6d                                | <2017-06-03 Sat 15:00>  |
+  | 简述      | Java8实战之-Lambda         | http://www.jianshu.com/p/ddf345983164                                          | <2017-06-18 Sun 15:00>  |
+  | 开源中国  | Java8 默认函数式接口       | https://my.oschina.net/u/576554/blog/535010                                    | <2017-06-18 Sun 21:35>  |
+  | ImportNew | java8 Lambda 10个示例      | http://www.importnew.com/16436.html                                            | <2017-06-18 Sun 22:30>  |
+  | Blog      | Java8 Optional使用         | https://unmi.cc/proper-ways-of-using-java8-optional/                           | <2017-06-18 Sun 23:00>  |
+  | Blog      | Intellij Idea配置          | https://itjh.net/2016/08/18/idea-good-conf/                                    | <2017-06-19 Mon 20:50>  |
+  | Blog      | Idea Live Template         | http://blog.xiaohansong.com/2017/03/17/idea-live-templates/                    | <2017-06-19 Mon 22:10>  |
+  | 掘金      | Swagger 编写Api文档        | https://juejin.im/entry/580457030bd1d0005812a700                               | <2017-06-20 Tue 22:30>  |
+  | Blog      | Spring boot Mybatis配置    | http://blog.didispace.com/mybatisinfo/                                         | <2017-06-21 Wed 22:00>  |
+  | Blog      | Spring boot Mybatis配置    | http://blog.didispace.com/mybatisinfo/                                         | <2017-06-21 Wed 22:00>  |
+  | Blog      | Git Remote Operator        | http://www.ruanyifeng.com/blog/2014/06/git_remote.html                         | <2017-07-17 Mon 23:00>  |
+  | Youtube   | Magit Using                | [[https://www.youtube.com/watch?v=SQCjXCjUVzc&list=PLZx9tb9Niew-_5L1NGVPBibUy6XcYZOFl&index=4][子龙山人Magit]]                                                                  | <2017-07-18 Tue 23:00>  |
+  | 简书      | json-server 结合 mockjs    | http://www.jianshu.com/p/95b634c82165                                          | <2017-07-19 三 16:00>   |
+  | Github    | Meghanada Using            | https://github.com/mopemope/meghanada-emacs#meghanada-local-variable-c-c-c-r-r | <2017-07-21 五 15:20>   |
+  | 掘金      | Arrays 转 List哪些坑       | https://juejin.im/post/5989841b6fb9a03c38109b8c                                | <2017-08-09 Wed 16:40>  |
+  | 掘金      | 二叉树创建与遍历           | https://mjd507.github.io/2017/05/24/Data-Structure-Binary-Tree/                | <2017-08-16 Wed 15:36>  |
+  | 掘金      | 通过前序遍历反向创建二叉树 | https://mjd507.github.io/2017/05/28/Data-Structure-Binary-Tree-2/              | <2017-08-16 Wed 16:40>  |
+  | 知乎      | PhantomJS 截图、Pdf        | https://zhuanlan.zhihu.com/p/28297251                                          | <2017-09-11 Mon 22:22>  |
+  | 掘金      | 文件上传、断点续传         | https://juejin.im/post/599804e1f265da24934aeee7                                | <2017-09-11 Mon 22:24>  |
+  | Demo网    | 自定义注解实现日志         | http://www.xdemo.org/springmvc-aop-annotation/                                 | <2017-09-14 Thu 22:21>  |
+  | 知乎      | Concurrency代码实例        | https://zhuanlan.zhihu.com/p/26724352                                          | <2017-09-18 Mon 20:41>  |
+  | 掘金      | XSS攻击防御                | [[https://mp.weixin.qq.com/s?__biz=MzIzMzgxOTQ5NA==&mid=100000340&idx=1&sn=6ca4ec15ef6338daf1d4a907351d7c08&chksm=68fe9e5d5f89174b44fd0cae2e3d5c0018859d3d1dc6d60a2e16dcde34499ba224d6ea17a982#rd][XSS攻击防御]]                                                                    | <2017-09-20 Wed 21:13>  |
+  | 掘金      | java註解                   | https://juejin.im/post/59e36868f265da43252856ed                                | <2017-10-31 Tue 23:08>  |
+  | 视频      | idea 快捷键                | [[http://v.youku.com/v_show/id_XMTMyMTE1MzQ0NA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2][idea 快捷键]]                                                                    | <2017-11-05 Sun 22:40>  |
+  |           |                            |                                                                                |                         |

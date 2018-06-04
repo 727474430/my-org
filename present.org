@@ -1,11 +1,14 @@
 #+REVEAL_THEME: blood
 #+OPTIONS: toc:nil num:nil
+#+TITLE: My Reveal Example
+#+AUTHOR: Wang Liang
 
 * Slied1
 * Slied2
 ** subslied1
 ** subslied2
 * Slied3
+  #+ATTR_REVEAL: :frag (appear)
   - list item 1
   - list item 2
   - list item 3
@@ -28,8 +31,7 @@
   #+RESULTS:
   : None
 
-
-  #+BEGIN_SRC java
+#+BEGIN_SRC java
     public class Main {
         public static void main(String[] args) {
             System.out.println("Hello World");

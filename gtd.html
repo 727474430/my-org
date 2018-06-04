@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2017-09-25 Mon 22:41 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title></title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="王亮" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgcce9460">1. Workspace</a>
+<ul>
+<li><a href="#orge534f90">1.1. <span class="todo TODO">TODO</span> English twenty words a day&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home">home</span>&#xa0;<span class="_learn">@learn</span></span></a></li>
+<li><a href="#org0025a18">1.2. <span class="todo TODO">TODO</span> Technical Article Reading&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home">home</span>&#xa0;<span class="_learn">@learn</span></span></a></li>
+<li><a href="#org3ff178c">1.3. <span class="done DONE">DONE</span> Portal紧急需求转测、针对Bug做相应修改&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></a></li>
+<li><a href="#org194df0d">1.4. <span class="done DONE">DONE</span> 节日前上线Bug整改&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></a></li>
+<li><a href="#org5b5ed88">1.5. <span class="done DONE">DONE</span> 学习使用Intellij 搭建Java&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_learn">@learn</span></span></a></li>
+<li><a href="#orge15fa03">1.6. <span class="done DONE">DONE</span> 场景化商品调整后不展示&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_temp">@temp</span></span></a></li>
+<li><a href="#org1e2a063">1.7. <span class="done DONE">DONE</span> Portal验证码开关(便于自动化测试使用)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></a></li>
+<li><a href="#org9bf243a">1.8. <span class="done DONE">DONE</span> 将登陆页面验证码去掉&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_temp">@temp</span></span></a></li>
+<li><a href="#orgbb38d97">1.9. <span class="done DONE">DONE</span> Portal场景化产品及呈现更改 <code>[100%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></a></li>
+<li><a href="#orgfa09ddb">1.10. <span class="done DONE">DONE</span> Google Canlander Combination&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_learn">@learn</span></span></a></li>
+<li><a href="#orgdce0e2f">1.11. <span class="done DONE">DONE</span> Portal预付费及后付费功能调整 <code>[100%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#orgc8b22b7">1.12. <span class="done CANCELLED">CANCELLED</span> 意高系统架构&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_free">@free</span></span></a></li>
+<li><a href="#orga25d7ac">1.13. <span class="done DONE">DONE</span> Portal场景化功能转测&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#org68a411e">1.14. <span class="done DONE">DONE</span> Learn emacs `bing-dict` plugin&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_learn">@learn</span></span></a></li>
+<li><a href="#org02386ee">1.15. <span class="done DONE">DONE</span> 保利国际看电影：新木乃伊&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_paly">home@paly</span></span></a></li>
+<li><a href="#orgd2ecf3d">1.16. <span class="done DONE">DONE</span> Hack MacOS&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_hack">home@hack</span></span></a></li>
+<li><a href="#org2604049">1.17. <span class="done DONE">DONE</span> Study At Starbucks&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside">outside</span>&#xa0;<span class="_learn">@learn</span></span></a></li>
+<li><a href="#org956570f">1.18. <span class="done DONE">DONE</span> 跑步锻炼&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside">outside</span>&#xa0;<span class="_habit">@habit</span></span></a></li>
+<li><a href="#orgbdaa0fb">1.19. <span class="done DONE">DONE</span> Config better the idea tools&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_hack">home@hack</span></span></a></li>
+<li><a href="#org81eac63">1.20. <span class="done DONE">DONE</span> StarBucks Learn&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside_learn">outside@learn</span></span></a></li>
+<li><a href="#org872b413">1.21. <span class="done DONE">DONE</span> Learn Java8 New Features <code>[4/4]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_learn">home@learn</span></span></a></li>
+<li><a href="#orgb435898">1.22. <span class="done DONE">DONE</span> Learn Java Content&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_learn">home@learn</span></span></a></li>
+<li><a href="#org71f19ad">1.23. <span class="done DONE">DONE</span> Web Learn&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_learn">home@learn</span></span></a></li>
+<li><a href="#org13f4f8a">1.24. <span class="done DONE">DONE</span> StarBucks Learn&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside_learn">outside@learn</span></span></a></li>
+<li><a href="#orga6ea9ea">1.25. <span class="done DONE">DONE</span> Portal Bug Modify <code>[3/3]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#org623cd20">1.26. <span class="done DONE">DONE</span> Api Bug Modify&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_wrok">@wrok</span></span></a></li>
+<li><a href="#org8297f01">1.27. <span class="done DONE">DONE</span> Api 备选接口不可用&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_temp">@temp</span></span></a></li>
+<li><a href="#org5e1eddc">1.28. <span class="done DONE">DONE</span> Portal 姓名、身份证 不呈现&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_temp">@temp</span></span></a></li>
+<li><a href="#org0d490b2">1.29. <span class="done DONE">DONE</span> 09:10 早会&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#org72718b7">1.30. <span class="done DONE">DONE</span> 学习org-mode复杂日期实现&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office_learn">office@learn</span></span></a></li>
+<li><a href="#org6bff84d">1.31. <span class="done CANCELLED">CANCELLED</span> Portal 全选呈现问题&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_temp">@temp</span></span></a></li>
+<li><a href="#orgae94eb3">1.32. <span class="todo TODO">TODO</span> 去黄龙溪游玩.</a></li>
+</ul>
+</li>
+<li><a href="#org9707fa3">2. Once a month</a>
+<ul>
+<li><a href="#org2800ee0">2.1. <span class="done DONE">DONE</span> Give back credit card</a></li>
+</ul>
+</li>
+<li><a href="#org0986cfd">3. Every Week</a>
+<ul>
+<li><a href="#org951bb1e">3.1. <span class="todo TODO">TODO</span> Writing Blog(sum up experience)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_blog">home@blog</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org075a6b4">4. Project Development</a>
+<ul>
+<li><a href="#orga6d612e">4.1. <span class="done DONE">DONE</span> 构建Kotlin And Spring Boot项目 <code>[40%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home">home</span>&#xa0;<span class="_project">@project</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org6b30a4a">5. Kanban</a></li>
+<li><a href="#org76b6594">6. Last Week</a></li>
+<li><a href="#org244fbbb">7. Weekly Work Statistics</a></li>
+<li><a href="#org6f0b369">8. Monthly Work Statistics</a></li>
+<li><a href="#orgd07ab3d">9. Annual Every Year</a></li>
+<li><a href="#org4a16f9d">10. Eagle</a>
+<ul>
+<li><a href="#org416de59">10.1. <span class="done DONE">DONE</span> Portal 运营商商品呈现问题</a></li>
+<li><a href="#orgc6af020">10.2. <span class="done DONE">DONE</span> Portal 接入微众税银 <code>[5/5]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#org6a4930f">10.3. <span class="done DONE">DONE</span> Portal 微众税银 <code>[2/2]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#orgb384f6b">10.4. <span class="done DONE">DONE</span> Portal 微众税银展示&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#org23eb0c9">10.5. <span class="done DONE">DONE</span> Portal 法院判决Bug <code>[2/2]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#org0cd1cd5">10.6. <span class="done DONE">DONE</span> 简报考试&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+<li><a href="#org627434e">10.7. <span class="done DONE">DONE</span> 日常工作 2017年 07月 24日 星期一 <code>[7/7]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="orgcce9460" class="outline-2">
+<h2 id="orgcce9460"><span class="section-number-2">1</span> Workspace</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="orge534f90" class="outline-3">
+<h3 id="orge534f90"><span class="section-number-3">1.1</span> <span class="todo TODO">TODO</span> English twenty words a day&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home">home</span>&#xa0;<span class="_learn">@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+<a href="file:///Users/wangliang/org-notes/the-english-word-learing.html#MissingReference">英文单词学习</a>
+</p>
+</div>
+</div>
+
+<div id="org0025a18" class="outline-3">
+<h3 id="org0025a18"><span class="section-number-3">1.2</span> <span class="todo TODO">TODO</span> Technical Article Reading&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home">home</span>&#xa0;<span class="_learn">@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+<a href="file:///Users/wangliang/org-notes/the-english-word-learing.html#MissingReference">技术文章学习</a>
+</p>
+</div>
+</div>
+
+<div id="org3ff178c" class="outline-3">
+<h3 id="org3ff178c"><span class="section-number-3">1.3</span> <span class="done DONE">DONE</span> Portal紧急需求转测、针对Bug做相应修改&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+</div>
+
+<div id="org194df0d" class="outline-3">
+<h3 id="org194df0d"><span class="section-number-3">1.4</span> <span class="done DONE">DONE</span> 节日前上线Bug整改&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-4">
+</div>
+</div>
+
+<div id="org5b5ed88" class="outline-3">
+<h3 id="org5b5ed88"><span class="section-number-3">1.5</span> <span class="done DONE">DONE</span> 学习使用Intellij 搭建Java&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_learn">@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+</div>
+
+<div id="orge15fa03" class="outline-3">
+<h3 id="orge15fa03"><span class="section-number-3">1.6</span> <span class="done DONE">DONE</span> 场景化商品调整后不展示&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_temp">@temp</span></span></h3>
+<div class="outline-text-3" id="text-1-6">
+</div>
+</div>
+
+<div id="org1e2a063" class="outline-3">
+<h3 id="org1e2a063"><span class="section-number-3">1.7</span> <span class="done DONE">DONE</span> Portal验证码开关(便于自动化测试使用)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2017-06-01 Thu 11:38] </span></span> SCHEDULED: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu 10:00&gt;</span></span>
+</p>
+<p>
+:Effort:   02:00
+</p>
+</div>
+</div>
+
+<div id="org9bf243a" class="outline-3">
+<h3 id="org9bf243a"><span class="section-number-3">1.8</span> <span class="done DONE">DONE</span> 将登陆页面验证码去掉&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_temp">@temp</span></span></h3>
+<div class="outline-text-3" id="text-1-8">
+</div>
+</div>
+
+<div id="orgbb38d97" class="outline-3">
+<h3 id="orgbb38d97"><span class="section-number-3">1.9</span> <span class="done DONE">DONE</span> Portal场景化产品及呈现更改 <code>[100%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-9">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> 企业招聘商品整合为初级版、中级版、高级版.</li>
+<li class="on"><code>[X]</code> Portal呈现修改为初级版、中级版、高级版.</li>
+<li class="on"><code>[X]</code> 产品样例修改(招聘类).</li>
+<li class="on"><code>[X]</code> 包含内容显示修改(查询商品之前呈现).</li>
+<li class="on"><code>[X]</code> 查询条件及呈现内容修改.</li>
+</ul>
+</div>
+</div>
+
+<div id="orgfa09ddb" class="outline-3">
+<h3 id="orgfa09ddb"><span class="section-number-3">1.10</span> <span class="done DONE">DONE</span> Google Canlander Combination&#xa0;&#xa0;&#xa0;<span class="tag"><span class="_learn">@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-10">
+<ol class="org-ol">
+<li>已完成.</li>
+<li>与calfw结合尚未成功.</li>
+</ol>
+</div>
+</div>
+
+<div id="orgdce0e2f" class="outline-3">
+<h3 id="orgdce0e2f"><span class="section-number-3">1.11</span> <span class="done DONE">DONE</span> Portal预付费及后付费功能调整 <code>[100%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-11">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> 创建赠送次数相关表.</li>
+<li class="on"><code>[X]</code> 运营管理-&gt;用户管理：用户信息列表添加`商品配置`按钮.</li>
+<li class="on"><code>[X]</code> 运营管理-&gt;用户管理：账户信息中添加`付费方式`下拉框.</li>
+<li class="on"><code>[X]</code> 运营管理-&gt;用户管理：用户信息中添加`赠送时间段`.</li>
+<li class="on"><code>[X]</code> 运营管理-&gt;用户管理：用户信息下取消商品配置功能.</li>
+<li class="on"><code>[X]</code> 运营管理-&gt;添加`赠送次数统计`菜单.</li>
+<li class="on"><code>[X]</code> 运营管理-&gt;用户管理：商品配置添加`赠送次数`输入框.</li>
+<li class="on"><code>[X]</code> 保存商品配置同时保存赠送次数相关信息.</li>
+<li class="on"><code>[X]</code> 赠送统计列表筛选功能：用户账户、接口名称、月份、用户付费方式.</li>
+<li class="on"><code>[X]</code> 商品配置输入框上提示`赠送次数、价格`.</li>
+<li class="on"><code>[X]</code> 赠送次数不足总次数10%或小于0时公告提示.</li>
+<li class="on"><code>[X]</code> 每次查询免费次数-1, 小于0或则不再进行提示.</li>
+<li class="on"><code>[X]</code> 赠送次数列表：不显示普通用户信息.</li>
+<li class="on"><code>[X]</code> 每月1日凌晨重置免费赠送次数.</li>
+<li class="off"><code>[&#xa0;]</code> 赠送结束后的处理.</li>
+<li class="off"><code>[&#xa0;]</code> 计费处理.</li>
+</ul>
+</div>
+</div>
+
+<div id="orgc8b22b7" class="outline-3">
+<h3 id="orgc8b22b7"><span class="section-number-3">1.12</span> <span class="done CANCELLED">CANCELLED</span> 意高系统架构&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_free">@free</span></span></h3>
+<div class="outline-text-3" id="text-1-12">
+</div>
+</div>
+
+<div id="orga25d7ac" class="outline-3">
+<h3 id="orga25d7ac"><span class="section-number-3">1.13</span> <span class="done DONE">DONE</span> Portal场景化功能转测&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-13">
+</div>
+</div>
+
+<div id="org68a411e" class="outline-3">
+<h3 id="org68a411e"><span class="section-number-3">1.14</span> <span class="done DONE">DONE</span> Learn emacs `bing-dict` plugin&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_learn">@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-14">
+</div>
+</div>
+<div id="org02386ee" class="outline-3">
+<h3 id="org02386ee"><span class="section-number-3">1.15</span> <span class="done DONE">DONE</span> 保利国际看电影：新木乃伊&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_paly">home@paly</span></span></h3>
+<div class="outline-text-3" id="text-1-15">
+</div>
+</div>
+
+<div id="orgd2ecf3d" class="outline-3">
+<h3 id="orgd2ecf3d"><span class="section-number-3">1.16</span> <span class="done DONE">DONE</span> Hack MacOS&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_hack">home@hack</span></span></h3>
+<div class="outline-text-3" id="text-1-16">
+</div>
+</div>
+
+<div id="org2604049" class="outline-3">
+<h3 id="org2604049"><span class="section-number-3">1.17</span> <span class="done DONE">DONE</span> Study At Starbucks&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside">outside</span>&#xa0;<span class="_learn">@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-17">
+<ul class="org-ul">
+<li>在复城国际星巴克学习org-mode整理</li>
+</ul>
+</div>
+</div>
+
+<div id="org956570f" class="outline-3">
+<h3 id="org956570f"><span class="section-number-3">1.18</span> <span class="done DONE">DONE</span> 跑步锻炼&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside">outside</span>&#xa0;<span class="_habit">@habit</span></span></h3>
+<div class="outline-text-3" id="text-1-18">
+</div>
+</div>
+
+<div id="orgbdaa0fb" class="outline-3">
+<h3 id="orgbdaa0fb"><span class="section-number-3">1.19</span> <span class="done DONE">DONE</span> Config better the idea tools&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_hack">home@hack</span></span></h3>
+<div class="outline-text-3" id="text-1-19">
+</div>
+</div>
+
+<div id="org81eac63" class="outline-3">
+<h3 id="org81eac63"><span class="section-number-3">1.20</span> <span class="done DONE">DONE</span> StarBucks Learn&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside_learn">outside@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-20">
+<ol class="org-ol">
+<li>Learn use intellij idea hot development</li>
+<li>Learn ubersicht install calendar plugin (not fund my fit the plugin)</li>
+<li>Learn popclip plugins using</li>
+</ol>
+</div>
+</div>
+
+<div id="org872b413" class="outline-3">
+<h3 id="org872b413"><span class="section-number-3">1.21</span> <span class="done DONE">DONE</span> Learn Java8 New Features <code>[4/4]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_learn">home@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-21">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Function Interface</li>
+<li class="on"><code>[X]</code> Lambda Expression</li>
+<li class="on"><code>[X]</code> Method Quote</li>
+<li class="on"><code>[X]</code> Composite Lambda</li>
+</ul>
+</div>
+</div>
+
+<div id="orgb435898" class="outline-3">
+<h3 id="orgb435898"><span class="section-number-3">1.22</span> <span class="done DONE">DONE</span> Learn Java Content&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_learn">home@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-22">
+</div>
+</div>
+
+<div id="org71f19ad" class="outline-3">
+<h3 id="org71f19ad"><span class="section-number-3">1.23</span> <span class="done DONE">DONE</span> Web Learn&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_learn">home@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-23">
+</div>
+</div>
+
+<div id="org13f4f8a" class="outline-3">
+<h3 id="org13f4f8a"><span class="section-number-3">1.24</span> <span class="done DONE">DONE</span> StarBucks Learn&#xa0;&#xa0;&#xa0;<span class="tag"><span class="outside_learn">outside@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-24">
+</div>
+</div>
+
+<div id="orga6ea9ea" class="outline-3">
+<h3 id="orga6ea9ea"><span class="section-number-3">1.25</span> <span class="done DONE">DONE</span> Portal Bug Modify <code>[3/3]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-25">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> 学历信息:　单一查询中有,组合查询中没有.</li>
+<li class="on"><code>[X]</code> 运营商计费: 将全部手机号判断运营商改为 -&gt; 优分:　手机号三要素、手机在网时长、手机在网状态.</li>
+<li class="on"><code>[X]</code> 历史报告: 法院判决详情历史查看功能支持.</li>
+</ul>
+</div>
+</div>
+
+<div id="org623cd20" class="outline-3">
+<h3 id="org623cd20"><span class="section-number-3">1.26</span> <span class="done DONE">DONE</span> Api Bug Modify&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_wrok">@wrok</span></span></h3>
+<div class="outline-text-3" id="text-1-26">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> 接口名称显示: 统一接口名称显示问题(显示准确接口名).</li>
+<li class="on"><code>[X]</code> 运营商计费: 将全部手机号判断运营商改为 -&gt; 优分: 手机号三要素、手机在网时长、手机在网状态.</li>
+</ul>
+</div>
+</div>
+
+<div id="org8297f01" class="outline-3">
+<h3 id="org8297f01"><span class="section-number-3">1.27</span> <span class="done DONE">DONE</span> Api 备选接口不可用&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_temp">@temp</span></span></h3>
+<div class="outline-text-3" id="text-1-27">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Api 备选接口配置中不呈现,点击备选接口配置出现异常.</li>
+</ul>
+</div>
+</div>
+
+<div id="org5e1eddc" class="outline-3">
+<h3 id="org5e1eddc"><span class="section-number-3">1.28</span> <span class="done DONE">DONE</span> Portal 姓名、身份证 不呈现&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_temp">@temp</span></span></h3>
+<div class="outline-text-3" id="text-1-28">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Portal 姓名、身份证商品没有呈现出来.</li>
+</ul>
+</div>
+</div>
+
+<div id="org0d490b2" class="outline-3">
+<h3 id="org0d490b2"><span class="section-number-3">1.29</span> <span class="done DONE">DONE</span> 09:10 早会&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-1-29">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;%%(and (= 2 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;%%(and (= 3 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;%%(and (= 4 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))&gt;</span></span>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;%%(and (= 5 (calendar-day-of-week date))(diary-block 7 17 2017 7 30 2017))&gt;</span></span>
+</p>
+</div>
+</div>
+
+<div id="org72718b7" class="outline-3">
+<h3 id="org72718b7"><span class="section-number-3">1.30</span> <span class="done DONE">DONE</span> 学习org-mode复杂日期实现&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office_learn">office@learn</span></span></h3>
+<div class="outline-text-3" id="text-1-30">
+<p>
+<a href="http://www.gnu.org/software/emacs/manual/html_node/emacs/Sexp-Diary-Entries.html#Sexp-Diary-Entries">http://www.gnu.org/software/emacs/manual/html_node/emacs/Sexp-Diary-Entries.html#Sexp-Diary-Entries</a>
+<a href="http://orgmode.org/org.html#Timestamps">http://orgmode.org/org.html#Timestamps</a>
+</p>
+</div>
+</div>
+
+<div id="org6bff84d" class="outline-3">
+<h3 id="org6bff84d"><span class="section-number-3">1.31</span> <span class="done CANCELLED">CANCELLED</span> Portal 全选呈现问题&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_temp">@temp</span></span></h3>
+<div class="outline-text-3" id="text-1-31">
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> 全选呈现一直不断刷新网页: net::ERR<sub>INCOMPLETE</sub><sub>CHUNKED</sub><sub>ENCODING</sub></li>
+</ul>
+</div>
+</div>
+
+<div id="orgae94eb3" class="outline-3">
+<h3 id="orgae94eb3"><span class="section-number-3">1.32</span> <span class="todo TODO">TODO</span> 去黄龙溪游玩.</h3>
+</div>
+</div>
+
+
+<div id="org9707fa3" class="outline-2">
+<h2 id="org9707fa3"><span class="section-number-2">2</span> Once a month</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="org2800ee0" class="outline-3">
+<h3 id="org2800ee0"><span class="section-number-3">2.1</span> <span class="done DONE">DONE</span> Give back credit card</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+</div>
+</div>
+
+<div id="org0986cfd" class="outline-2">
+<h2 id="org0986cfd"><span class="section-number-2">3</span> Every Week</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="org951bb1e" class="outline-3">
+<h3 id="org951bb1e"><span class="section-number-3">3.1</span> <span class="todo TODO">TODO</span> Writing Blog(sum up experience)&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home_blog">home@blog</span></span></h3>
+<div class="outline-text-3" id="text-3-1">
+<ol class="org-ol">
+<li>根据一周学习经验总结一次.</li>
+<li>通过1个小时写一篇Blog.</li>
+<li>最好可以使用English.</li>
+</ol>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-right">Sequence</th>
+<th scope="col" class="org-left">Name</th>
+<th scope="col" class="org-left">Type</th>
+<th scope="col" class="org-left">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-right">1</td>
+<td class="org-left"><a href="file:///Users/wangliang/blog/source/_posts/My Mac Alfred Workflows.html">My Mac Alfred Workflows</a></td>
+<td class="org-left">Tools</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2017-07-25 Tue&gt;</span></span></td>
+</tr>
+
+<tr>
+<td class="org-right">2</td>
+<td class="org-left"><a href="file:///Users/wangliang/blog/source/_posts/Intellij Idea Plugin By Java Development.html">Intellij Idea Plugin By Java Development</a></td>
+<td class="org-left">Plugin</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-17 Sat&gt;</span></span></td>
+</tr>
+
+<tr>
+<td class="org-right">3</td>
+<td class="org-left"><a href="file:///Users/wangliang/blog/source/_posts/Git-Branch-Command.html">Git-Branch-Command</a></td>
+<td class="org-left">Git</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-03 Sat&gt;</span></span></td>
+</tr>
+
+<tr>
+<td class="org-right">4</td>
+<td class="org-left"><a href="file:///Users/wangliang/blog/source/_posts/Git-Command.html">Git-Command</a></td>
+<td class="org-left">Git</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">&lt;2017-06-01 Thu&gt;</span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div id="org075a6b4" class="outline-2">
+<h2 id="org075a6b4"><span class="section-number-2">4</span> Project Development</h2>
+<div class="outline-text-2" id="text-4">
+</div><div id="orga6d612e" class="outline-3">
+<h3 id="orga6d612e"><span class="section-number-3">4.1</span> <span class="done DONE">DONE</span> 构建Kotlin And Spring Boot项目 <code>[40%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="home">home</span>&#xa0;<span class="_project">@project</span></span></h3>
+<div class="outline-text-3" id="text-4-1">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> 构建Kotlin基础框架</li>
+<li class="on"><code>[X]</code> project environment：Intellij、Spring Boot、Mysql、Maven、Web.</li>
+<li class="off"><code>[&#xa0;]</code> create base database and table.</li>
+<li class="off"><code>[&#xa0;]</code> project framework prototype drawing(Using Mindnode)</li>
+<li class="off"><code>[&#xa0;]</code> project targer confirm</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="org6b30a4a" class="outline-2">
+<h2 id="org6b30a4a"><span class="section-number-2">5</span> Kanban</h2>
+<div class="outline-text-2" id="text-5">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">TODO</th>
+<th scope="col" class="org-left">STARTED</th>
+<th scope="col" class="org-left">DONE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">English twenty words a day</a></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Portal紧急需求转测、针对Bug做相应修改</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Technical Article Reading</a></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">节日前上线Bug整改</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Give back credit card</a></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">学习使用Intellij 搭建Java</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Writing Blog(sum up experience</a></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">场景化商品调整后不展示</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/notes.html#MissingReference">Macos 破解软件下载</a></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Portal验证码开关(便于自动化测试使用)</a></td>
+</tr>
+
+<tr>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/notes.html#MissingReference">Mac 常用插件</a></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">将登陆页面验证码去掉</a></td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Portal场景化产品及呈现更改 {100%}</a></td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Google Canlander Combination</a></td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Portal预付费及后付费功能调整 {100%}</a></td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="file:///Users/wangliang/org-notes/gtd.html#MissingReference">Portal场景化功能转测</a></td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">ITEM</th>
+<th scope="col" class="org-left">TODO</th>
+<th scope="col" class="org-left">PRIORITY</th>
+<th scope="col" class="org-left">TAGS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Workspace</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">English twenty words a day</td>
+<td class="org-left">SOMEDAY</td>
+<td class="org-left">B</td>
+<td class="org-left">:home:@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Technical Article Reading</td>
+<td class="org-left">SOMEDAY</td>
+<td class="org-left">A</td>
+<td class="org-left">:home:@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal紧急需求转测、针对Bug做相应修改</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">节日前上线Bug整改</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">学习使用Intellij 搭建Java</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">场景化商品调整后不展示</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@temp:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal验证码开关(便于自动化测试使用)</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">将登陆页面验证码去掉</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@temp:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal场景化产品及呈现更改</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">Google Canlander Combination</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal预付费及后付费功能调整</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">意高系统架构</td>
+<td class="org-left">CANCELLED</td>
+<td class="org-left">C</td>
+<td class="org-left">:office:@free:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal场景化功能转测</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">Learn emacs `bing-dict` plugin</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:office:@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">保利国际看电影：新木乃伊</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:home@paly:</td>
+</tr>
+
+<tr>
+<td class="org-left">Hack MacOS</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:home@hack:</td>
+</tr>
+
+<tr>
+<td class="org-left">Study At Starbucks</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:outside:@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">跑步锻炼</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:outside:@habit:</td>
+</tr>
+
+<tr>
+<td class="org-left">Config better the idea tools</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:home@hack:</td>
+</tr>
+
+<tr>
+<td class="org-left">StarBucks Learn</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:outside@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Learn Java8 New Features</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:home@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Learn Java Content</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:home@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Web Learn</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:home@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">StarBucks Learn</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:outside@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal Bug Modify</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">Api Bug Modify</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:office:@wrok:</td>
+</tr>
+
+<tr>
+<td class="org-left">Api 备选接口不可用</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:office:@temp:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal 姓名、身份证 不呈现</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:office:@temp:</td>
+</tr>
+
+<tr>
+<td class="org-left">09:10 早会</td>
+<td class="org-left">TODO</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">学习org-mode复杂日期实现</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:office@learn:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal 全选呈现问题</td>
+<td class="org-left">CANCELLED</td>
+<td class="org-left">B</td>
+<td class="org-left">:office:@temp:</td>
+</tr>
+
+<tr>
+<td class="org-left">去黄龙溪游玩.</td>
+<td class="org-left">TODO</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Once a month</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Give back credit card</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Every Week</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Writing Blog(sum up experience)</td>
+<td class="org-left">TODO</td>
+<td class="org-left">A</td>
+<td class="org-left">:home@blog:</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Project Development</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">构建Kotlin And Spring Boot项目</td>
+<td class="org-left">DONE</td>
+<td class="org-left">B</td>
+<td class="org-left">:home:@project:</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Emergency Requirements</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal场景化余额提醒Bug修改</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Kanban</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Last Week</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Weekly Work Statistics</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Monthly Work Statistics</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Annual Every Year</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Eagle</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal 运营商商品呈现问题</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal 接入微众税银</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal 微众税银</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal 微众税银展示</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">Portal 法院判决Bug</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">简报考试</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+
+<tr>
+<td class="org-left">日常工作 2017年 07月 24日 星期一</td>
+<td class="org-left">DONE</td>
+<td class="org-left">A</td>
+<td class="org-left">:office:@work:</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="org76b6594" class="outline-2">
+<h2 id="org76b6594"><span class="section-number-2">6</span> Last Week</h2>
+<div class="outline-text-2" id="text-6">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> Clock summary at <span class="timestamp-wrapper"><span class="timestamp">[2017-08-06 Sun 22:48]</span></span>, for week 2017-W30.</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">File</th>
+<th scope="col" class="org-left">Headline</th>
+<th scope="col" class="org-right">Time</th>
+<th scope="col" class="org-right">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ALL <b>Total time</b></td>
+<td class="org-right"><b>15:31</b></td>
+<td class="org-right">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">gtd.org</td>
+<td class="org-left"><b>File time</b></td>
+<td class="org-right"><b>15:31</b></td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Workspace</td>
+<td class="org-right">9:34</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Technical Article Reading</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">9:30</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;09:10 早会</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:04</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Every Week</td>
+<td class="org-right">0:36</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Writing Blog(sum up experience)</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:36</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Eagle</td>
+<td class="org-right">5:21</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;简报考试</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:11</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;日常工作 2017年 07月 24日 星期一 [7/7]</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">5:10</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="org244fbbb" class="outline-2">
+<h2 id="org244fbbb"><span class="section-number-2">7</span> Weekly Work Statistics</h2>
+<div class="outline-text-2" id="text-7">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 2:</span> Clock summary at <span class="timestamp-wrapper"><span class="timestamp">[2017-08-06 Sun 22:48]</span></span>, for week 2017-W31.</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">File</th>
+<th scope="col" class="org-left">Headline</th>
+<th scope="col" class="org-left">Time</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ALL <b>Total time</b></td>
+<td class="org-left"><b>0:00</b></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<div class="org-src-container">
+<pre class="src src-emacs-lisp">(<span style="color: #E1BEE7;">setq</span> week-range (org-clock-special-range 'thisweek nil t))
+(org-clock-sum-today-by-tags nil (nth <span style="color: #C5CAE9;">0</span> week-range) (nth i week-range) t)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="org6f0b369" class="outline-2">
+<h2 id="org6f0b369"><span class="section-number-2">8</span> Monthly Work Statistics</h2>
+<div class="outline-text-2" id="text-8">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 3:</span> Clock summary at <span class="timestamp-wrapper"><span class="timestamp">[2017-08-06 Sun 22:48]</span></span>, for August 2017.</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">File</th>
+<th scope="col" class="org-left">Headline</th>
+<th scope="col" class="org-left">Time</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ALL <b>Total time</b></td>
+<td class="org-left"><b>0:00</b></td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<div class="org-src-container">
+<pre class="src src-emacs-lisp">(<span style="color: #E1BEE7;">setq</span> week-range (org-clock-special-range 'thisweek nil t))
+(org-clock-sum-today-by-tags nil (nth <span style="color: #C5CAE9;">0</span> week-range) (nth i week-range) t)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="orgd07ab3d" class="outline-2">
+<h2 id="orgd07ab3d"><span class="section-number-2">9</span> Annual Every Year</h2>
+<div class="outline-text-2" id="text-9">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 4:</span> Clock summary at <span class="timestamp-wrapper"><span class="timestamp">[2017-08-06 Sun 22:48]</span></span>, for the year 2017.</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">File</th>
+<th scope="col" class="org-left">Headline</th>
+<th scope="col" class="org-left">Time</th>
+<th scope="col" class="org-right">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ALL <b>Total time</b></td>
+<td class="org-left"><b>5d 21:24</b></td>
+<td class="org-right">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">gtd.org</td>
+<td class="org-left"><b>File time</b></td>
+<td class="org-left"><b>5d 21:24</b></td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Workspace</td>
+<td class="org-left">5d 7:43</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;English twenty words a day</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:40</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Technical Article Reading</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">3d 0:26</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal紧急需求转测、针对Bug做相应修改</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:17</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;节日前上线Bug整改</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:13</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;学习使用Intellij 搭建Java</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:38</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;场景化商品调整后不展示</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:50</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal场景化产品及呈现更改 [100%]</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:47</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal预付费及后付费功能调整 [100%]</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1d 12:05</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal场景化功能转测</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:20</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Learn emacs `bing-dict` plugin</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:22</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Hack MacOS</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1:28</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Study At Starbucks</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1:27</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;跑步锻炼</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:52</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Config better the idea tools</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:53</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;StarBucks Learn</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1:27</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Learn Java8 New Features [4/4]</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1:47</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Learn Java Content</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1:54</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Web Learn</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:15</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;StarBucks Learn</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1:53</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Api 备选接口不可用</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:25</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal 姓名、身份证 不呈现</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:56</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;09:10 早会</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:31</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;学习org-mode复杂日期实现</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:52</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal 全选呈现问题</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:25</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Every Week</td>
+<td class="org-left">1:57</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Writing Blog(sum up experience)</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">1:57</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Emergency Requirements</td>
+<td class="org-left">0:25</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal场景化余额提醒Bug修改</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:25</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Eagle</td>
+<td class="org-left">11:19</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal 运营商商品呈现问题</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:25</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal 接入微众税银 [5/5]</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:49</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal 微众税银 [2/2]</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">2:17</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal 微众税银展示</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">2:04</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;Portal 法院判决Bug [2/2]</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:23</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;简报考试</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">0:11</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&ensp;&ensp;日常工作 2017年 07月 24日 星期一 [7/7]</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-right">5:10</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="org4a16f9d" class="outline-2">
+<h2 id="org4a16f9d"><span class="section-number-2">10</span> Eagle</h2>
+<div class="outline-text-2" id="text-10">
+</div><div id="org416de59" class="outline-3">
+<h3 id="org416de59"><span class="section-number-3">10.1</span> <span class="done DONE">DONE</span> Portal 运营商商品呈现问题</h3>
+<div class="outline-text-3" id="text-10-1">
+</div>
+</div>
+
+<div id="orgc6af020" class="outline-3">
+<h3 id="orgc6af020"><span class="section-number-3">10.2</span> <span class="done DONE">DONE</span> Portal 接入微众税银 <code>[5/5]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-10-2">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> 添加ApiSpec</li>
+<li class="on"><code>[X]</code> 添加Product</li>
+<li class="on"><code>[X]</code> 添加Goods</li>
+<li class="on"><code>[X]</code> 添加查询条件: 企业名称、税务识别码.</li>
+<li class="on"><code>[X]</code> 调取数据回来</li>
+</ul>
+</div>
+</div>
+
+<div id="org6a4930f" class="outline-3">
+<h3 id="org6a4930f"><span class="section-number-3">10.3</span> <span class="done DONE">DONE</span> Portal 微众税银 <code>[2/2]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-10-3">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Portal数据呈现</li>
+<li class="on"><code>[X]</code> Api端接入数据同步</li>
+</ul>
+</div>
+</div>
+
+<div id="orgb384f6b" class="outline-3">
+<h3 id="orgb384f6b"><span class="section-number-3">10.4</span> <span class="done DONE">DONE</span> Portal 微众税银展示&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-10-4">
+</div>
+</div>
+
+<div id="org23eb0c9" class="outline-3">
+<h3 id="org23eb0c9"><span class="section-number-3">10.5</span> <span class="done DONE">DONE</span> Portal 法院判决Bug <code>[2/2]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-10-5">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> 个人法院判决详情: 文书Id为空时,不展示详情查询链接.</li>
+<li class="on"><code>[X]</code> 企业法院判决详情: 文书Id为空时,不展示详情查询链接.</li>
+</ul>
+</div>
+</div>
+
+<div id="org0cd1cd5" class="outline-3">
+<h3 id="org0cd1cd5"><span class="section-number-3">10.6</span> <span class="done DONE">DONE</span> 简报考试&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-10-6">
+</div>
+</div>
+
+<div id="org627434e" class="outline-3">
+<h3 id="org627434e"><span class="section-number-3">10.7</span> <span class="done DONE">DONE</span> 日常工作 2017年 07月 24日 星期一 <code>[7/7]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="office">office</span>&#xa0;<span class="_work">@work</span></span></h3>
+<div class="outline-text-3" id="text-10-7">
+<ul class="org-ul">
+<li class="on"><code>[X]</code> Portal信贷商品: 添加姓名、身份证号查询条件.</li>
+<li class="on"><code>[X]</code> Portal手机号归属地: 添加姓名、身份证号查询条件.</li>
+<li class="on"><code>[X]</code> Portal雷达图: 按照5个维度分别提供一次性保存功能(保存当前唯独所有指标值).</li>
+<li class="on"><code>[X]</code> Portal雷达图: 去掉每个指标单独的保存按钮.</li>
+<li class="on"><code>[X]</code> 将雷达图配置成商品(控制是否呈现).</li>
+<li class="on"><code>[X]</code> 字段优化: 权重&#x2013;&gt;权重(%)、值域&#x2013;&gt;区间值、分数&#x2013;&gt;分数占比(%).</li>
+<li class="on"><code>[X]</code> 指标更改: 指标名及指标类型修改.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: 王亮</p>
+<p class="date">Created: 2017-09-25 Mon 22:41</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

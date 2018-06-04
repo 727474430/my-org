@@ -1,4 +1,78 @@
 * Vocabulary
+** Compress [kəm'pres]
+v. 压缩；精简；浓缩；压缩（文件等） | n. 压布 | 网络 压紧；敷布；压迫 | Synonym n. pad,wad,cold compress,ice pack,wrapping v. squeeze,condense,squash,constrict,compact | Antonym v. expand
+** 作用 [zuò yòng] 
+na. effect; function; action; affect | 网络 role; impact; influence
+** 介绍 [jiè shào] 
+n. recommendation | v. introduce, present | 网络 Introduction; presentation; Introductions
+** 大于 [dà yú] 
+na. 【数】greater than | 网络 is greater than; more than; gt
+** 是否包含指定元素 
+网络 Contains
+** 越界 [yuè jiè] 
+na. overstep the boundary | 网络 transgression; cross the border; Crossing Boundaries
+** 是否 [shì fǒu] 
+na. whether; whether or not; if | 网络 NO; whether if; Yes No
+** 得到 [dé dào] 
+na. get; receive; gain; obtain | 网络 acquire; derive; come by
+** 修改 [xiū gǎi] 
+na. modify; modification; revise; amend | 网络 Modify; update; change
+** 不能为 
+网络 length
+** 余额 [yú é] 
+na. balance; surplus; remaining sum | 网络 Balances; current balance; remainder
+** 余额不足 
+网络 balance; Insufficient funds; Insufficient Balance
+** 无权访问 
+网络 Access denied; No access
+** 权限 [quán xiàn] 
+na. authority; power; jurisdiction | 网络 permission; permissions; Power
+** 内部 [nèi bù] 
+na. internal; inside; interior; inward | 网络 inner; in-house; within
+** 递归 [dì guī] 
+na. 【数】recurrence; recursion | 网络 recursive; Recurrences; recursively
+** 女儿 [nǚ ér] 
+na. daughter; girl | 网络 Daughters; baby daughter; A daughter
+** 二维数组 [èr wéi shù zǔ] 
+n. two-dimensional array | 网络 Two-Dimension Array; Two Dimensional Arrays; 2-D Arrays
+** 空格 [kòng gé] 
+na. blank space (on a form) | 网络 spacebar; Blank Spaces; white space
+** 面试 [miàn shì] 
+n. interview; 【戏,影视】audition | v. interview | 网络 Job Interview; Interviews; The Interview
+** 上一个 
+adj. the previous, the last | 网络 Prev; previous one; Back
+** 顺序执行 [shùn xù zhí xíng] 
+n. sequential execution | 网络 in-order execution; step over; sequentially
+** 不能用 
+网络 can; could; because
+** 刚刚 [gāng gāng] 
+na. just; only; exactly; a moment ago | 网络 just now; hardly; right now
+** 库存 [kù cún] 
+na. inventory; stock; reserve; repertory | 网络 VMI; inventories; in stock
+** 序号 [xù hào] 
+n. sequence number; serial number | 网络 Number; Serial; Serial No.
+** 单词 [dān cí] 
+na. word; 【语】individual word; 【计】word | 网络 words; New Words; Vocabulary
+** 是否存在 
+网络 exists; in; ANY
+** Machine translation
+今天是不是闰年 -> This is a leap
+** 今天多少号 
+网络 What is the date today
+** 今天星期几 
+网络 What day is today; What day is it today; What is today
+** 昨天 [zuó tiān] 
+na. yesterday | 网络 Quitting; Yesterdays; last night
+** 明天 [míng tiān] 
+na. tomorrow; the near future | 网络 manana; morn; See you tomorrow
+** 转换 [zhuǎn huàn] 
+na. convert; transform; change; switch | 网络 Convert; Transform; conversion
+** 相关 [xiāng guān] 
+na. correlation; relevance; dependence | 网络 relevant; Related; correlate
+** 其他 [qí tā] 
+na. other; else | 网络 Other; Others; Miscellaneous
+** 反射 [fǎn shè] 
+n. reflect; bounce; throwback | v. mirror; jerk | 网络 reflection; reflex; Reflections
 ** 形式 [xíng shì] 
 n. style; mode; fashion; species | 网络 form; format; forms
 ** 考试 [kǎo shì] 
